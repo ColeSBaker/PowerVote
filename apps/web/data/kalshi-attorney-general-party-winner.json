@@ -1,0 +1,1577 @@
+{
+  "generatedAt": "2026-04-13T03:35:35.068665+00:00",
+  "summary": {
+    "contest_count": 56,
+    "included_markets": 56
+  },
+  "contests": [
+    {
+      "contest_id": "US-AG:AR-AG:2026:general:D:party_winner",
+      "seat_id": "AR-AG",
+      "state": "AR",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENAR-26-D",
+          "eventTicker": "KXATTYGENAR-26",
+          "seriesTicker": "KXATTYGENAR",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenar/ag-race-ar/kxattygenar-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 8.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENAR_KXATTYGENAR-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENAR_KXATTYGENAR-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:AR-AG:2026:general:R:party_winner",
+      "seat_id": "AR-AG",
+      "state": "AR",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENAR-26-R",
+          "eventTicker": "KXATTYGENAR-26",
+          "seriesTicker": "KXATTYGENAR",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenar/ag-race-ar/kxattygenar-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 97.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENAR_KXATTYGENAR-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENAR_KXATTYGENAR-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:AZ-AG:2026:general:D:party_winner",
+      "seat_id": "AZ-AG",
+      "state": "AZ",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENAZ-26-D",
+          "eventTicker": "KXATTYGENAZ-26",
+          "seriesTicker": "KXATTYGENAZ",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenaz/ag-race-az/kxattygenaz-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 68.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENAZ_KXATTYGENAZ-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENAZ_KXATTYGENAZ-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:AZ-AG:2026:general:R:party_winner",
+      "seat_id": "AZ-AG",
+      "state": "AZ",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENAZ-26-R",
+          "eventTicker": "KXATTYGENAZ-26",
+          "seriesTicker": "KXATTYGENAZ",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenaz/ag-race-az/kxattygenaz-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 33.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENAZ_KXATTYGENAZ-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENAZ_KXATTYGENAZ-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:CO-AG:2026:general:D:party_winner",
+      "seat_id": "CO-AG",
+      "state": "CO",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENCO-26-D",
+          "eventTicker": "KXATTYGENCO-26",
+          "seriesTicker": "KXATTYGENCO",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenco/ag-race-co/kxattygenco-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 87.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENCO_KXATTYGENCO-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENCO_KXATTYGENCO-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:CO-AG:2026:general:R:party_winner",
+      "seat_id": "CO-AG",
+      "state": "CO",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENCO-26-R",
+          "eventTicker": "KXATTYGENCO-26",
+          "seriesTicker": "KXATTYGENCO",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenco/ag-race-co/kxattygenco-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 13.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENCO_KXATTYGENCO-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENCO_KXATTYGENCO-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:CT-AG:2026:general:D:party_winner",
+      "seat_id": "CT-AG",
+      "state": "CT",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENCT-26-D",
+          "eventTicker": "KXATTYGENCT-26",
+          "seriesTicker": "KXATTYGENCT",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenct/ag-race-ct/kxattygenct-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 90.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENCT_KXATTYGENCT-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENCT_KXATTYGENCT-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:CT-AG:2026:general:R:party_winner",
+      "seat_id": "CT-AG",
+      "state": "CT",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENCT-26-R",
+          "eventTicker": "KXATTYGENCT-26",
+          "seriesTicker": "KXATTYGENCT",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenct/ag-race-ct/kxattygenct-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 10.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENCT_KXATTYGENCT-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENCT_KXATTYGENCT-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:DE-AG:2026:general:D:party_winner",
+      "seat_id": "DE-AG",
+      "state": "DE",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENDE-26-D",
+          "eventTicker": "KXATTYGENDE-26",
+          "seriesTicker": "KXATTYGENDE",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygende/ag-race-de/kxattygende-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENDE_KXATTYGENDE-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENDE_KXATTYGENDE-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:DE-AG:2026:general:R:party_winner",
+      "seat_id": "DE-AG",
+      "state": "DE",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENDE-26-R",
+          "eventTicker": "KXATTYGENDE-26",
+          "seriesTicker": "KXATTYGENDE",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygende/ag-race-de/kxattygende-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 0.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENDE_KXATTYGENDE-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENDE_KXATTYGENDE-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:FL-AG:2026:general:D:party_winner",
+      "seat_id": "FL-AG",
+      "state": "FL",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENFL-26-D",
+          "eventTicker": "KXATTYGENFL-26",
+          "seriesTicker": "KXATTYGENFL",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenfl/ag-race-fl/kxattygenfl-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 18.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENFL_KXATTYGENFL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENFL_KXATTYGENFL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:FL-AG:2026:general:R:party_winner",
+      "seat_id": "FL-AG",
+      "state": "FL",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENFL-26-R",
+          "eventTicker": "KXATTYGENFL-26",
+          "seriesTicker": "KXATTYGENFL",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenfl/ag-race-fl/kxattygenfl-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 82.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENFL_KXATTYGENFL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENFL_KXATTYGENFL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:GA-AG:2026:general:D:party_winner",
+      "seat_id": "GA-AG",
+      "state": "GA",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENGA-26-D",
+          "eventTicker": "KXATTYGENGA-26",
+          "seriesTicker": "KXATTYGENGA",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenga/ag-race-ga/kxattygenga-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 50.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENGA_KXATTYGENGA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENGA_KXATTYGENGA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:GA-AG:2026:general:R:party_winner",
+      "seat_id": "GA-AG",
+      "state": "GA",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENGA-26-R",
+          "eventTicker": "KXATTYGENGA-26",
+          "seriesTicker": "KXATTYGENGA",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenga/ag-race-ga/kxattygenga-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 50.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENGA_KXATTYGENGA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENGA_KXATTYGENGA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:IA-AG:2026:general:D:party_winner",
+      "seat_id": "IA-AG",
+      "state": "IA",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENIA-26-D",
+          "eventTicker": "KXATTYGENIA-26",
+          "seriesTicker": "KXATTYGENIA",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenia/ag-race-ia/kxattygenia-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 36.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENIA_KXATTYGENIA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENIA_KXATTYGENIA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:IA-AG:2026:general:R:party_winner",
+      "seat_id": "IA-AG",
+      "state": "IA",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENIA-26-R",
+          "eventTicker": "KXATTYGENIA-26",
+          "seriesTicker": "KXATTYGENIA",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenia/ag-race-ia/kxattygenia-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 48.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENIA_KXATTYGENIA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENIA_KXATTYGENIA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:ID-AG:2026:general:D:party_winner",
+      "seat_id": "ID-AG",
+      "state": "ID",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENID-26-D",
+          "eventTicker": "KXATTYGENID-26",
+          "seriesTicker": "KXATTYGENID",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenid/ag-race-id/kxattygenid-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 5.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENID_KXATTYGENID-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENID_KXATTYGENID-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:ID-AG:2026:general:R:party_winner",
+      "seat_id": "ID-AG",
+      "state": "ID",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENID-26-R",
+          "eventTicker": "KXATTYGENID-26",
+          "seriesTicker": "KXATTYGENID",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenid/ag-race-id/kxattygenid-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENID_KXATTYGENID-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENID_KXATTYGENID-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:IL-AG:2026:general:D:party_winner",
+      "seat_id": "IL-AG",
+      "state": "IL",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENIL-26-D",
+          "eventTicker": "KXATTYGENIL-26",
+          "seriesTicker": "KXATTYGENIL",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenil/ag-race-il/kxattygenil-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 90.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENIL_KXATTYGENIL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENIL_KXATTYGENIL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:IL-AG:2026:general:R:party_winner",
+      "seat_id": "IL-AG",
+      "state": "IL",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENIL-26-R",
+          "eventTicker": "KXATTYGENIL-26",
+          "seriesTicker": "KXATTYGENIL",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenil/ag-race-il/kxattygenil-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 10.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENIL_KXATTYGENIL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENIL_KXATTYGENIL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:KS-AG:2026:general:D:party_winner",
+      "seat_id": "KS-AG",
+      "state": "KS",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENKS-26-D",
+          "eventTicker": "KXATTYGENKS-26",
+          "seriesTicker": "KXATTYGENKS",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenks/ag-race-ks/kxattygenks-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 27.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENKS_KXATTYGENKS-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENKS_KXATTYGENKS-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:KS-AG:2026:general:R:party_winner",
+      "seat_id": "KS-AG",
+      "state": "KS",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENKS-26-R",
+          "eventTicker": "KXATTYGENKS-26",
+          "seriesTicker": "KXATTYGENKS",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenks/ag-race-ks/kxattygenks-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 65.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENKS_KXATTYGENKS-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENKS_KXATTYGENKS-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MA-AG:2026:general:D:party_winner",
+      "seat_id": "MA-AG",
+      "state": "MA",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMA-26-D",
+          "eventTicker": "KXATTYGENMA-26",
+          "seriesTicker": "KXATTYGENMA",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenma/ag-race-ma/kxattygenma-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 98.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMA_KXATTYGENMA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMA_KXATTYGENMA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MA-AG:2026:general:R:party_winner",
+      "seat_id": "MA-AG",
+      "state": "MA",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMA-26-R",
+          "eventTicker": "KXATTYGENMA-26",
+          "seriesTicker": "KXATTYGENMA",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenma/ag-race-ma/kxattygenma-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 7.6,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMA_KXATTYGENMA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMA_KXATTYGENMA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MD-AG:2026:general:D:party_winner",
+      "seat_id": "MD-AG",
+      "state": "MD",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMD-26-D",
+          "eventTicker": "KXATTYGENMD-26",
+          "seriesTicker": "KXATTYGENMD",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenmd/ag-race-md/kxattygenmd-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMD_KXATTYGENMD-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMD_KXATTYGENMD-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MD-AG:2026:general:R:party_winner",
+      "seat_id": "MD-AG",
+      "state": "MD",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMD-26-R",
+          "eventTicker": "KXATTYGENMD-26",
+          "seriesTicker": "KXATTYGENMD",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenmd/ag-race-md/kxattygenmd-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 5.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMD_KXATTYGENMD-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMD_KXATTYGENMD-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MI-AG:2026:general:D:party_winner",
+      "seat_id": "MI-AG",
+      "state": "MI",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMI-26-D",
+          "eventTicker": "KXATTYGENMI-26",
+          "seriesTicker": "KXATTYGENMI",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenmi/ag-race-mi/kxattygenmi-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 76.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMI_KXATTYGENMI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMI_KXATTYGENMI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MI-AG:2026:general:R:party_winner",
+      "seat_id": "MI-AG",
+      "state": "MI",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMI-26-R",
+          "eventTicker": "KXATTYGENMI-26",
+          "seriesTicker": "KXATTYGENMI",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenmi/ag-race-mi/kxattygenmi-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 25.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMI_KXATTYGENMI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMI_KXATTYGENMI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MN-AG:2026:general:D:party_winner",
+      "seat_id": "MN-AG",
+      "state": "MN",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMN-26-D",
+          "eventTicker": "KXATTYGENMN-26",
+          "seriesTicker": "KXATTYGENMN",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenmn/ag-race-mn/kxattygenmn-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 90.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMN_KXATTYGENMN-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMN_KXATTYGENMN-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:MN-AG:2026:general:R:party_winner",
+      "seat_id": "MN-AG",
+      "state": "MN",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENMN-26-R",
+          "eventTicker": "KXATTYGENMN-26",
+          "seriesTicker": "KXATTYGENMN",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenmn/ag-race-mn/kxattygenmn-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 10.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENMN_KXATTYGENMN-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENMN_KXATTYGENMN-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:ND-AG:2026:general:D:party_winner",
+      "seat_id": "ND-AG",
+      "state": "ND",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENND-26-D",
+          "eventTicker": "KXATTYGENND-26",
+          "seriesTicker": "KXATTYGENND",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygennd/ag-race-nd/kxattygennd-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 8.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENND_KXATTYGENND-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENND_KXATTYGENND-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:ND-AG:2026:general:R:party_winner",
+      "seat_id": "ND-AG",
+      "state": "ND",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENND-26-R",
+          "eventTicker": "KXATTYGENND-26",
+          "seriesTicker": "KXATTYGENND",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygennd/ag-race-nd/kxattygennd-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENND_KXATTYGENND-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENND_KXATTYGENND-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NE-AG:2026:general:D:party_winner",
+      "seat_id": "NE-AG",
+      "state": "NE",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNE-26-D",
+          "eventTicker": "KXATTYGENNE-26",
+          "seriesTicker": "KXATTYGENNE",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenne/ag-race-nebraska/kxattygenne-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 7.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNE_KXATTYGENNE-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNE_KXATTYGENNE-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NE-AG:2026:general:R:party_winner",
+      "seat_id": "NE-AG",
+      "state": "NE",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNE-26-R",
+          "eventTicker": "KXATTYGENNE-26",
+          "seriesTicker": "KXATTYGENNE",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenne/ag-race-nebraska/kxattygenne-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 91.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNE_KXATTYGENNE-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNE_KXATTYGENNE-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NM-AG:2026:general:D:party_winner",
+      "seat_id": "NM-AG",
+      "state": "NM",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNM-26-D",
+          "eventTicker": "KXATTYGENNM-26",
+          "seriesTicker": "KXATTYGENNM",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygennm/ag-race-nm/kxattygennm-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 92.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNM_KXATTYGENNM-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNM_KXATTYGENNM-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NM-AG:2026:general:R:party_winner",
+      "seat_id": "NM-AG",
+      "state": "NM",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNM-26-R",
+          "eventTicker": "KXATTYGENNM-26",
+          "seriesTicker": "KXATTYGENNM",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygennm/ag-race-nm/kxattygennm-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 9.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNM_KXATTYGENNM-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNM_KXATTYGENNM-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NV-AG:2026:general:D:party_winner",
+      "seat_id": "NV-AG",
+      "state": "NV",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNV-26-D",
+          "eventTicker": "KXATTYGENNV-26",
+          "seriesTicker": "KXATTYGENNV",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygennv/ag-race-nv/kxattygennv-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 83.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNV_KXATTYGENNV-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNV_KXATTYGENNV-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NV-AG:2026:general:R:party_winner",
+      "seat_id": "NV-AG",
+      "state": "NV",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNV-26-R",
+          "eventTicker": "KXATTYGENNV-26",
+          "seriesTicker": "KXATTYGENNV",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygennv/ag-race-nv/kxattygennv-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 18.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNV_KXATTYGENNV-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNV_KXATTYGENNV-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NY-AG:2026:general:D:party_winner",
+      "seat_id": "NY-AG",
+      "state": "NY",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNY-26-D",
+          "eventTicker": "KXATTYGENNY-26",
+          "seriesTicker": "KXATTYGENNY",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenny/ag-race-ny/kxattygenny-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 93.3,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNY_KXATTYGENNY-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNY_KXATTYGENNY-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:NY-AG:2026:general:R:party_winner",
+      "seat_id": "NY-AG",
+      "state": "NY",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENNY-26-R",
+          "eventTicker": "KXATTYGENNY-26",
+          "seriesTicker": "KXATTYGENNY",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenny/ag-race-ny/kxattygenny-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 9.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENNY_KXATTYGENNY-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENNY_KXATTYGENNY-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:OH-AG:2026:general:D:party_winner",
+      "seat_id": "OH-AG",
+      "state": "OH",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENOH-26-D",
+          "eventTicker": "KXATTYGENOH-26",
+          "seriesTicker": "KXATTYGENOH",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenoh/ag-race-oh/kxattygenoh-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 25.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENOH_KXATTYGENOH-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENOH_KXATTYGENOH-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:OH-AG:2026:general:R:party_winner",
+      "seat_id": "OH-AG",
+      "state": "OH",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENOH-26-R",
+          "eventTicker": "KXATTYGENOH-26",
+          "seriesTicker": "KXATTYGENOH",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenoh/ag-race-oh/kxattygenoh-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 78.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENOH_KXATTYGENOH-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENOH_KXATTYGENOH-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:OK-AG:2026:general:D:party_winner",
+      "seat_id": "OK-AG",
+      "state": "OK",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENOK-26-D",
+          "eventTicker": "KXATTYGENOK-26",
+          "seriesTicker": "KXATTYGENOK",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenok/ag-race-ok/kxattygenok-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 7.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENOK_KXATTYGENOK-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENOK_KXATTYGENOK-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:OK-AG:2026:general:R:party_winner",
+      "seat_id": "OK-AG",
+      "state": "OK",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENOK-26-R",
+          "eventTicker": "KXATTYGENOK-26",
+          "seriesTicker": "KXATTYGENOK",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenok/ag-race-ok/kxattygenok-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENOK_KXATTYGENOK-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENOK_KXATTYGENOK-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:RI-AG:2026:general:D:party_winner",
+      "seat_id": "RI-AG",
+      "state": "RI",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENRI-26-D",
+          "eventTicker": "KXATTYGENRI-26",
+          "seriesTicker": "KXATTYGENRI",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenri/ag-race-ri/kxattygenri-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 84.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENRI_KXATTYGENRI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENRI_KXATTYGENRI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:RI-AG:2026:general:R:party_winner",
+      "seat_id": "RI-AG",
+      "state": "RI",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENRI-26-R",
+          "eventTicker": "KXATTYGENRI-26",
+          "seriesTicker": "KXATTYGENRI",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenri/ag-race-ri/kxattygenri-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 8.2,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENRI_KXATTYGENRI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENRI_KXATTYGENRI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:SC-AG:2026:general:D:party_winner",
+      "seat_id": "SC-AG",
+      "state": "SC",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENSC-26-D",
+          "eventTicker": "KXATTYGENSC-26",
+          "seriesTicker": "KXATTYGENSC",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygensc/ag-race-sc/kxattygensc-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 12.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENSC_KXATTYGENSC-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENSC_KXATTYGENSC-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:SC-AG:2026:general:R:party_winner",
+      "seat_id": "SC-AG",
+      "state": "SC",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENSC-26-R",
+          "eventTicker": "KXATTYGENSC-26",
+          "seriesTicker": "KXATTYGENSC",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygensc/ag-race-sc/kxattygensc-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 97.5,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENSC_KXATTYGENSC-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENSC_KXATTYGENSC-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:SD-AG:2026:general:D:party_winner",
+      "seat_id": "SD-AG",
+      "state": "SD",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENSD-26-D",
+          "eventTicker": "KXATTYGENSD-26",
+          "seriesTicker": "KXATTYGENSD",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygensd/ag-race-sd/kxattygensd-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 10.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENSD_KXATTYGENSD-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENSD_KXATTYGENSD-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:SD-AG:2026:general:R:party_winner",
+      "seat_id": "SD-AG",
+      "state": "SD",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENSD-26-R",
+          "eventTicker": "KXATTYGENSD-26",
+          "seriesTicker": "KXATTYGENSD",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygensd/ag-race-sd/kxattygensd-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 95.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENSD_KXATTYGENSD-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENSD_KXATTYGENSD-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:TX-AG:2026:general:D:party_winner",
+      "seat_id": "TX-AG",
+      "state": "TX",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENTX-26-D",
+          "eventTicker": "KXATTYGENTX-26",
+          "seriesTicker": "KXATTYGENTX",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygentx/ag-race-tx/kxattygentx-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 17.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENTX_KXATTYGENTX-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENTX_KXATTYGENTX-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:TX-AG:2026:general:R:party_winner",
+      "seat_id": "TX-AG",
+      "state": "TX",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENTX-26-R",
+          "eventTicker": "KXATTYGENTX-26",
+          "seriesTicker": "KXATTYGENTX",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygentx/ag-race-tx/kxattygentx-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 80.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENTX_KXATTYGENTX-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENTX_KXATTYGENTX-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:VT-AG:2026:general:D:party_winner",
+      "seat_id": "VT-AG",
+      "state": "VT",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENVT-26-D",
+          "eventTicker": "KXATTYGENVT-26",
+          "seriesTicker": "KXATTYGENVT",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenvt/ag-race-vt/kxattygenvt-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 87.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENVT_KXATTYGENVT-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENVT_KXATTYGENVT-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:VT-AG:2026:general:R:party_winner",
+      "seat_id": "VT-AG",
+      "state": "VT",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENVT-26-R",
+          "eventTicker": "KXATTYGENVT-26",
+          "seriesTicker": "KXATTYGENVT",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenvt/ag-race-vt/kxattygenvt-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 13.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENVT_KXATTYGENVT-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENVT_KXATTYGENVT-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:WI-AG:2026:general:D:party_winner",
+      "seat_id": "WI-AG",
+      "state": "WI",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENWI-26-D",
+          "eventTicker": "KXATTYGENWI-26",
+          "seriesTicker": "KXATTYGENWI",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenwi/ag-race-wi/kxattygenwi-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 86.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENWI_KXATTYGENWI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENWI_KXATTYGENWI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-AG:WI-AG:2026:general:R:party_winner",
+      "seat_id": "WI-AG",
+      "state": "WI",
+      "office": "AG",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXATTYGENWI-26-R",
+          "eventTicker": "KXATTYGENWI-26",
+          "seriesTicker": "KXATTYGENWI",
+          "kalshiUrl": "https://kalshi.com/markets/kxattygenwi/ag-race-wi/kxattygenwi-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 15.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXATTYGENWI_KXATTYGENWI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXATTYGENWI_KXATTYGENWI-26-R.json"
+      ]
+    }
+  ]
+}

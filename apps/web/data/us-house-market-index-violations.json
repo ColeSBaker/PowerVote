@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-04-12T19:42:19.114591+00:00",
+  "count": 1,
+  "violations": [
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:TX-15:2026:general:OTH:candidate_winner",
+      "seat": "TX-15",
+      "round": "general",
+      "market_role": "candidate_winner",
+      "odds_map_sum": 20.0,
+      "odds_map_sum_status": "out_of_band"
+    }
+  ]
+}

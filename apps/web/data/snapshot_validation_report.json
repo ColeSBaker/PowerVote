@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "failures": [],
+  "metrics": {
+    "unresolvedHighImpact": 0,
+    "unresolvedIncludedSenateMarkets": 0,
+    "schemaContractOk": true,
+    "artifactHashesOk": true,
+    "requiredArtifactsPresent": true
+  },
+  "snapshotId": "2026-04-13T03:35:35.602397+00:00",
+  "snapshotDate": "2026-04-13"
+}

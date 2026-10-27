@@ -1,0 +1,378 @@
+{
+  "generatedAt": "2026-04-13T03:35:16.231082+00:00",
+  "summary": {
+    "generated_at": "2026-04-13T03:35:16.231082+00:00",
+    "selected_markets": 4035,
+    "included_markets": 20,
+    "excluded_count": 1,
+    "contest_count": 5,
+    "violation_count": 1,
+    "overrides_used_count": 0,
+    "by_round": {
+      "general": 14,
+      "primary": 6,
+      "runoff": 0
+    },
+    "by_market_type": {
+      "candidate_nominee": 6,
+      "candidate_winner": 14,
+      "party_winner": 0
+    },
+    "excluded_markets": [
+      {
+        "market_ticker": "KXGA1ROUND-26NOV03-LTGOV",
+        "event_ticker": "KXGA1ROUND-26NOV03",
+        "series_ticker": "KXGA1ROUND",
+        "title": "Will anyone win the 2026 Georgia Lieutenant Governor general election election in the first round?",
+        "raw_source_path": "../kalshi/data/markets/market_KXGA1ROUND_KXGA1ROUND-26NOV03-LTGOV.json",
+        "exclusion_reason": "meta_market_first_round"
+      }
+    ]
+  },
+  "marketDirs": [
+    "../kalshi/data/markets",
+    "test_data/kalshi/market",
+    "test_data/kalshi_json_data/market"
+  ],
+  "seriesDirs": [
+    "../kalshi/data/series",
+    "test_data/kalshi/series",
+    "test_data/kalshi_json_data/series"
+  ],
+  "contests": [
+    {
+      "contest_id": "US-LTGOV:CA-LTGOV:2026:general:D:candidate_winner",
+      "seat_id": "CA-LTGOV",
+      "state": "CA",
+      "office": "LTGOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "candidate_winner",
+      "market_count": 6,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-FMA",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Fiona Ma",
+          "status": "active",
+          "oddsPercent": 73.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-FMA.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-JFRY",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Josh Fryday",
+          "status": "active",
+          "oddsPercent": 15.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-JFRY.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-MTUB",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Michael Tubbs",
+          "status": "active",
+          "oddsPercent": 14.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-MTUB.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-OMA",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Oliver Ma",
+          "status": "active",
+          "oddsPercent": 9.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-OMA.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-JKEL",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Janelle Kellman",
+          "status": "active",
+          "oddsPercent": 1.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-JKEL.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-TMYE",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Tim Myers",
+          "status": "active",
+          "oddsPercent": 1.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-TMYE.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-FMA.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-JFRY.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-JKEL.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-MTUB.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-OMA.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-TMYE.json"
+      ]
+    },
+    {
+      "contest_id": "US-LTGOV:CA-LTGOV:2026:general:R:candidate_winner",
+      "seat_id": "CA-LTGOV",
+      "state": "CA",
+      "office": "LTGOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "candidate_winner",
+      "market_count": 3,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-BDAH",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Brian Dahle",
+          "status": "active",
+          "oddsPercent": 1.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-BDAH.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-DFEN",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "David Fennell",
+          "status": "active",
+          "oddsPercent": 1.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-DFEN.json"
+        },
+        {
+          "marketTicker": "KXCALIEUTENANTGOV-26NOV03-GROM",
+          "eventTicker": "KXCALIEUTENANTGOV-26NOV03",
+          "seriesTicker": "KXCALIEUTENANTGOV",
+          "kalshiUrl": "https://kalshi.com/markets/kxcalieutenantgov/california-lieutenant-governor-winner/kxcalieutenantgov-26nov03",
+          "entityName": "Gloria Romero",
+          "status": "active",
+          "oddsPercent": 1.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-GROM.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-BDAH.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-DFEN.json",
+        "../kalshi/data/markets/market_KXCALIEUTENANTGOV_KXCALIEUTENANTGOV-26NOV03-GROM.json"
+      ]
+    },
+    {
+      "contest_id": "US-LTGOV:GA-LTGOV:2026:general:NA:candidate_winner",
+      "seat_id": "GA-LTGOV",
+      "state": "GA",
+      "office": "LTGOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": null,
+      "market_type": "candidate_winner",
+      "market_count": 2,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXLTGOVGA-26-GOP",
+          "eventTicker": "KXLTGOVGA-26",
+          "seriesTicker": "KXLTGOVGA",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovga/georgia-lieutenant-governor-winner/kxltgovga-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 60.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVGA_KXLTGOVGA-26-GOP.json"
+        },
+        {
+          "marketTicker": "KXLTGOVGA-26-DEM",
+          "eventTicker": "KXLTGOVGA-26",
+          "seriesTicker": "KXLTGOVGA",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovga/georgia-lieutenant-governor-winner/kxltgovga-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 42.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVGA_KXLTGOVGA-26-DEM.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXLTGOVGA_KXLTGOVGA-26-DEM.json",
+        "../kalshi/data/markets/market_KXLTGOVGA_KXLTGOVGA-26-GOP.json"
+      ]
+    },
+    {
+      "contest_id": "US-LTGOV:OK-LTGOV:2026:primary:R:candidate_nominee",
+      "seat_id": "OK-LTGOV",
+      "state": "OK",
+      "office": "LTGOV",
+      "cycle_year": 2026,
+      "round": "primary",
+      "party": "R",
+      "market_type": "candidate_nominee",
+      "market_count": 6,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXLTGOVOKNOMR-26-TSHA",
+          "eventTicker": "KXLTGOVOKNOMR-26",
+          "seriesTicker": "KXLTGOVOKNOMR",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovoknomr/lt-gov-oklahoma-republican-nominee/kxltgovoknomr-26",
+          "entityName": "T.W. Shannon",
+          "status": "active",
+          "oddsPercent": 86.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-TSHA.json"
+        },
+        {
+          "marketTicker": "KXLTGOVOKNOMR-26-BHIL",
+          "eventTicker": "KXLTGOVOKNOMR-26",
+          "seriesTicker": "KXLTGOVOKNOMR",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovoknomr/lt-gov-oklahoma-republican-nominee/kxltgovoknomr-26",
+          "entityName": "Brian Hill",
+          "status": "active",
+          "oddsPercent": 6.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-BHIL.json"
+        },
+        {
+          "marketTicker": "KXLTGOVOKNOMR-26-DWEA",
+          "eventTicker": "KXLTGOVOKNOMR-26",
+          "seriesTicker": "KXLTGOVOKNOMR",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovoknomr/lt-gov-oklahoma-republican-nominee/kxltgovoknomr-26",
+          "entityName": "Darrell Weaver",
+          "status": "active",
+          "oddsPercent": 4.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-DWEA.json"
+        },
+        {
+          "marketTicker": "KXLTGOVOKNOMR-26-JHUM",
+          "eventTicker": "KXLTGOVOKNOMR-26",
+          "seriesTicker": "KXLTGOVOKNOMR",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovoknomr/lt-gov-oklahoma-republican-nominee/kxltgovoknomr-26",
+          "entityName": "Justin Humphrey",
+          "status": "active",
+          "oddsPercent": 3.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-JHUM.json"
+        },
+        {
+          "marketTicker": "KXLTGOVOKNOMR-26-CBYR",
+          "eventTicker": "KXLTGOVOKNOMR-26",
+          "seriesTicker": "KXLTGOVOKNOMR",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovoknomr/lt-gov-oklahoma-republican-nominee/kxltgovoknomr-26",
+          "entityName": "Cindy Byrd",
+          "status": "active",
+          "oddsPercent": 2.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-CBYR.json"
+        },
+        {
+          "marketTicker": "KXLTGOVOKNOMR-26-VFLO",
+          "eventTicker": "KXLTGOVOKNOMR-26",
+          "seriesTicker": "KXLTGOVOKNOMR",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovoknomr/lt-gov-oklahoma-republican-nominee/kxltgovoknomr-26",
+          "entityName": "Victor Flores",
+          "status": "active",
+          "oddsPercent": 0.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-VFLO.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-BHIL.json",
+        "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-CBYR.json",
+        "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-DWEA.json",
+        "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-JHUM.json",
+        "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-TSHA.json",
+        "../kalshi/data/markets/market_KXLTGOVOKNOMR_KXLTGOVOKNOMR-26-VFLO.json"
+      ]
+    },
+    {
+      "contest_id": "US-LTGOV:TX-LTGOV:2026:general:NA:candidate_winner",
+      "seat_id": "TX-LTGOV",
+      "state": "TX",
+      "office": "LTGOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": null,
+      "market_type": "candidate_winner",
+      "market_count": 3,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXLTGOVTX-26-GOP",
+          "eventTicker": "KXLTGOVTX-26",
+          "seriesTicker": "KXLTGOVTX",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovtx/who-will-win-the-lieutenant-governor-election-in-texas/kxltgovtx-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVTX_KXLTGOVTX-26-GOP.json"
+        },
+        {
+          "marketTicker": "KXANYDEMWINTEXAS-26NOV03",
+          "eventTicker": "KXANYDEMWINTEXAS-26NOV03",
+          "seriesTicker": "KXANYDEMWINTEXAS",
+          "kalshiUrl": "https://kalshi.com/markets/kxanydemwintexas/will-any-democrat-win-a-statewide-race-in-texas/kxanydemwintexas-26nov03",
+          "entityName": "Yes",
+          "status": "active",
+          "oddsPercent": 46.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXANYDEMWINTEXAS_KXANYDEMWINTEXAS-26NOV03.json"
+        },
+        {
+          "marketTicker": "KXLTGOVTX-26-DEM",
+          "eventTicker": "KXLTGOVTX-26",
+          "seriesTicker": "KXLTGOVTX",
+          "kalshiUrl": "https://kalshi.com/markets/kxltgovtx/who-will-win-the-lieutenant-governor-election-in-texas/kxltgovtx-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 6.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXLTGOVTX_KXLTGOVTX-26-DEM.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXANYDEMWINTEXAS_KXANYDEMWINTEXAS-26NOV03.json",
+        "../kalshi/data/markets/market_KXLTGOVTX_KXLTGOVTX-26-DEM.json",
+        "../kalshi/data/markets/market_KXLTGOVTX_KXLTGOVTX-26-GOP.json"
+      ]
+    }
+  ],
+  "artifacts": {
+    "candidate_winner_json": "apps/web/data/kalshi-lt-governor-candidate-winner.json",
+    "candidate_winner_csv": "apps/web/data/kalshi-lt-governor-candidate-winner.csv",
+    "party_winner_json": "apps/web/data/kalshi-lt-governor-party-winner.json",
+    "party_winner_csv": "apps/web/data/kalshi-lt-governor-party-winner.csv",
+    "candidate_nominee_json": "apps/web/data/kalshi-lt-governor-candidate-nominee.json",
+    "candidate_nominee_csv": "apps/web/data/kalshi-lt-governor-candidate-nominee.csv",
+    "excluded_csv": "apps/web/data/kalshi-lt-governor-excluded-markets.csv",
+    "unmapped_csv": "apps/web/data/kalshi-lt-governor-unmapped-markets.csv",
+    "ambiguous_csv": "apps/web/data/kalshi-lt-governor-ambiguous-markets.csv",
+    "coverage_json": "apps/web/data/kalshi-lt-governor-coverage-summary.json",
+    "candidate_match_report_json": "apps/web/data/kalshi-lt-governor-candidate-match-report.json",
+    "candidate_match_report_csv": "apps/web/data/kalshi-lt-governor-candidate-match-report.csv"
+  }
+}

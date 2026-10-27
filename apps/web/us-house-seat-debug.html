@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PowerVote U.S. House Seat Debug View</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <nav class="page-nav" aria-label="Application pages">
+        <a class="page-nav__link" href="./index.html">State lookup map</a>
+        <a class="page-nav__link" href="./congressional-map.html">Congressional district map</a>
+        <a class="page-nav__link page-nav__link--active" href="./us-house-seat-debug.html" aria-current="page">House seat debug view</a>
+      </nav>
+
+      <header>
+        <h1>PowerVote: U.S. House Seat Debug View</h1>
+        <p>
+          Inspect canonical congressional filing data, Ballotpedia text normalization, and Kalshi market coverage side-by-side for each House seat.
+        </p>
+      </header>
+
+      <section class="lookup-panel debug-controls-panel" aria-label="Seat debug filters">
+        <div class="debug-controls-grid">
+          <label class="scheme-control" for="seat-debug-search">
+            <span class="scheme-control__label">Search elections</span>
+            <input id="seat-debug-search" type="search" placeholder="Search by seat ID, state, district, or candidate" />
+          </label>
+
+          <label class="scheme-control" for="seat-debug-state-filter">
+            <span class="scheme-control__label">State</span>
+            <select id="seat-debug-state-filter" class="scheme-control__select">
+              <option value="">All states</option>
+            </select>
+          </label>
+
+          <label class="scheme-control" for="seat-debug-data-filter">
+            <span class="scheme-control__label">Seat coverage</span>
+            <select id="seat-debug-data-filter" class="scheme-control__select">
+              <option value="all">All canonical seats</option>
+              <option value="withAnyData">Only seats with any source data</option>
+              <option value="withBallotpedia">Only seats with Ballotpedia data</option>
+              <option value="withKalshi">Only seats with Kalshi data</option>
+            </select>
+          </label>
+        </div>
+
+        <p id="seat-debug-status" class="status-message status-message--neutral">Loading seat data…</p>
+        <p id="seat-debug-summary" class="lookup-result">Source coverage summary will appear here.</p>
+      </section>
+
+      <section class="lookup-panel debug-layout" aria-label="U.S. House seat debug viewer">
+        <aside class="debug-seat-list-panel">
+          <h2>Elections</h2>
+          <ul id="seat-debug-list" class="debug-seat-list" aria-label="U.S. House elections"></ul>
+        </aside>
+
+        <div class="debug-seat-detail-panel">
+          <section class="congressional-card">
+            <h2 id="seat-debug-title">Select a seat</h2>
+            <p id="seat-debug-meta" class="lookup-result">Choose a seat from the list to inspect each source without merging them together.</p>
+          </section>
+
+          <section class="debug-source-grid">
+            <article class="congressional-card debug-source-card debug-source-card--wide">
+              <h2>Unified View</h2>
+              <div id="seat-debug-unified" class="debug-source-content"></div>
+            </article>
+
+            <article class="congressional-card debug-source-card">
+              <h2>Congressional Filings</h2>
+              <div id="seat-debug-filings" class="debug-source-content"></div>
+            </article>
+
+            <article class="congressional-card debug-source-card">
+              <h2>Ballotpedia</h2>
+              <div id="seat-debug-ballotpedia" class="debug-source-content"></div>
+            </article>
+
+            <article class="congressional-card debug-source-card">
+              <h2>Kalshi</h2>
+              <div id="seat-debug-kalshi" class="debug-source-content"></div>
+            </article>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./us-house-seat-debug.js"></script>
+  </body>
+</html>

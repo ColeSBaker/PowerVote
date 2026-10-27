@@ -1,0 +1,1680 @@
+{
+  "generatedAt": "2026-04-13T03:34:31.009502+00:00",
+  "summary": {
+    "contest_count": 61,
+    "included_markets": 63
+  },
+  "contests": [
+    {
+      "contest_id": "US-SEN:AK-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "AK-SEN-C2",
+      "state": "AK",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEAK-26-D",
+          "eventTicker": "SENATEAK-26",
+          "seriesTicker": "SENATEAK",
+          "kalshiUrl": "https://kalshi.com/markets/senateak/alaska-senate-race/senateak-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 62.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEAK_SENATEAK-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEAK_SENATEAK-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:AK-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "AK-SEN-C2",
+      "state": "AK",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEAK-26-R",
+          "eventTicker": "SENATEAK-26",
+          "seriesTicker": "SENATEAK",
+          "kalshiUrl": "https://kalshi.com/markets/senateak/alaska-senate-race/senateak-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 39.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEAK_SENATEAK-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEAK_SENATEAK-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:AL-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "AL-SEN-C2",
+      "state": "AL",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEAL-26-D",
+          "eventTicker": "SENATEAL-26",
+          "seriesTicker": "SENATEAL",
+          "kalshiUrl": "https://kalshi.com/markets/senateal/alabama/senateal-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 5.5,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEAL_SENATEAL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEAL_SENATEAL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:AL-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "AL-SEN-C2",
+      "state": "AL",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEAL-26-R",
+          "eventTicker": "SENATEAL-26",
+          "seriesTicker": "SENATEAL",
+          "kalshiUrl": "https://kalshi.com/markets/senateal/alabama/senateal-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEAL_SENATEAL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEAL_SENATEAL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:AR-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "AR-SEN-C2",
+      "state": "AR",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEAR-26-D",
+          "eventTicker": "SENATEAR-26",
+          "seriesTicker": "SENATEAR",
+          "kalshiUrl": "https://kalshi.com/markets/senatear/arkansas-senate-race/senatear-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 4.2,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEAR_SENATEAR-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEAR_SENATEAR-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:AR-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "AR-SEN-C2",
+      "state": "AR",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEAR-26-R",
+          "eventTicker": "SENATEAR-26",
+          "seriesTicker": "SENATEAR",
+          "kalshiUrl": "https://kalshi.com/markets/senatear/arkansas-senate-race/senatear-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 94.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEAR_SENATEAR-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEAR_SENATEAR-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:CO-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "CO-SEN-C2",
+      "state": "CO",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATECO-26-D",
+          "eventTicker": "SENATECO-26",
+          "seriesTicker": "SENATECO",
+          "kalshiUrl": "https://kalshi.com/markets/senateco/colorado-senate-race/senateco-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 97.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATECO_SENATECO-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATECO_SENATECO-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:CO-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "CO-SEN-C2",
+      "state": "CO",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATECO-26-R",
+          "eventTicker": "SENATECO-26",
+          "seriesTicker": "SENATECO",
+          "kalshiUrl": "https://kalshi.com/markets/senateco/colorado-senate-race/senateco-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 6.3,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATECO_SENATECO-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATECO_SENATECO-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:DE-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "DE-SEN-C2",
+      "state": "DE",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEDE-26-D",
+          "eventTicker": "SENATEDE-26",
+          "seriesTicker": "SENATEDE",
+          "kalshiUrl": "https://kalshi.com/markets/senatede/deleware-senate-race/senatede-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 94.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEDE_SENATEDE-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEDE_SENATEDE-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:DE-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "DE-SEN-C2",
+      "state": "DE",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEDE-26-R",
+          "eventTicker": "SENATEDE-26",
+          "seriesTicker": "SENATEDE",
+          "kalshiUrl": "https://kalshi.com/markets/senatede/deleware-senate-race/senatede-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 4.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEDE_SENATEDE-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEDE_SENATEDE-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:GA-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "GA-SEN-C2",
+      "state": "GA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEGA-26-D",
+          "eventTicker": "SENATEGA-26",
+          "seriesTicker": "SENATEGA",
+          "kalshiUrl": "https://kalshi.com/markets/senatega/georgia-senate-race/senatega-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 84.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEGA_SENATEGA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEGA_SENATEGA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:GA-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "GA-SEN-C2",
+      "state": "GA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEGA-26-R",
+          "eventTicker": "SENATEGA-26",
+          "seriesTicker": "SENATEGA",
+          "kalshiUrl": "https://kalshi.com/markets/senatega/georgia-senate-race/senatega-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 17.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEGA_SENATEGA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEGA_SENATEGA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:IA-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "IA-SEN-C2",
+      "state": "IA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEIA-26-D",
+          "eventTicker": "SENATEIA-26",
+          "seriesTicker": "SENATEIA",
+          "kalshiUrl": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 37.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEIA_SENATEIA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEIA_SENATEIA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:IA-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "IA-SEN-C2",
+      "state": "IA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEIA-26-R",
+          "eventTicker": "SENATEIA-26",
+          "seriesTicker": "SENATEIA",
+          "kalshiUrl": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 62.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEIA_SENATEIA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEIA_SENATEIA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:ID-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "ID-SEN-C2",
+      "state": "ID",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEID-26-D",
+          "eventTicker": "SENATEID-26",
+          "seriesTicker": "SENATEID",
+          "kalshiUrl": "https://kalshi.com/markets/senateid/idaho-senate-race/senateid-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 6.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEID_SENATEID-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEID_SENATEID-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:ID-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "ID-SEN-C2",
+      "state": "ID",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEID-26-R",
+          "eventTicker": "SENATEID-26",
+          "seriesTicker": "SENATEID",
+          "kalshiUrl": "https://kalshi.com/markets/senateid/idaho-senate-race/senateid-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.5,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEID_SENATEID-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEID_SENATEID-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:IL-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "IL-SEN-C2",
+      "state": "IL",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEIL-26-D",
+          "eventTicker": "SENATEIL-26",
+          "seriesTicker": "SENATEIL",
+          "kalshiUrl": "https://kalshi.com/markets/senateil/illinois-senate-race/senateil-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 92.8,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEIL_SENATEIL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEIL_SENATEIL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:IL-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "IL-SEN-C2",
+      "state": "IL",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEIL-26-R",
+          "eventTicker": "SENATEIL-26",
+          "seriesTicker": "SENATEIL",
+          "kalshiUrl": "https://kalshi.com/markets/senateil/illinois-senate-race/senateil-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 5.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEIL_SENATEIL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEIL_SENATEIL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:KS-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "KS-SEN-C2",
+      "state": "KS",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEKS-26-D",
+          "eventTicker": "SENATEKS-26",
+          "seriesTicker": "SENATEKS",
+          "kalshiUrl": "https://kalshi.com/markets/senateks/kansas-senate-race/senateks-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 9.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEKS_SENATEKS-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEKS_SENATEKS-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:KS-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "KS-SEN-C2",
+      "state": "KS",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEKS-26-R",
+          "eventTicker": "SENATEKS-26",
+          "seriesTicker": "SENATEKS",
+          "kalshiUrl": "https://kalshi.com/markets/senateks/kansas-senate-race/senateks-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 86.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEKS_SENATEKS-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEKS_SENATEKS-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:LA-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "LA-SEN-C2",
+      "state": "LA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 2,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATELA-26-D",
+          "eventTicker": "SENATELA-26",
+          "seriesTicker": "SENATELA",
+          "kalshiUrl": "https://kalshi.com/markets/senatela/kentucky-senate-race/senatela-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 8.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATELA_SENATELA-26-D.json"
+        },
+        {
+          "marketTicker": "KXSENATELA-26NOV-D",
+          "eventTicker": "KXSENATELA-26NOV",
+          "seriesTicker": "KXSENATELA",
+          "kalshiUrl": "https://kalshi.com/markets/kxsenatela/who-will-win-the-senate-race-in-louisiana/kxsenatela-26nov",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 7.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-D.json",
+        "../kalshi/data/markets/market_SENATELA_SENATELA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:LA-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "LA-SEN-C2",
+      "state": "LA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 2,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXSENATELA-26NOV-R",
+          "eventTicker": "KXSENATELA-26NOV",
+          "seriesTicker": "KXSENATELA",
+          "kalshiUrl": "https://kalshi.com/markets/kxsenatela/who-will-win-the-senate-race-in-louisiana/kxsenatela-26nov",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-R.json"
+        },
+        {
+          "marketTicker": "SENATELA-26-R",
+          "eventTicker": "SENATELA-26",
+          "seriesTicker": "SENATELA",
+          "kalshiUrl": "https://kalshi.com/markets/senatela/kentucky-senate-race/senatela-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 92.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATELA_SENATELA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-R.json",
+        "../kalshi/data/markets/market_SENATELA_SENATELA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MA-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "MA-SEN-C2",
+      "state": "MA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMA-26-D",
+          "eventTicker": "SENATEMA-26",
+          "seriesTicker": "SENATEMA",
+          "kalshiUrl": "https://kalshi.com/markets/senatema/massachusetts-senate-race/senatema-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMA_SENATEMA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMA_SENATEMA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MA-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "MA-SEN-C2",
+      "state": "MA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMA-26-R",
+          "eventTicker": "SENATEMA-26",
+          "seriesTicker": "SENATEMA",
+          "kalshiUrl": "https://kalshi.com/markets/senatema/massachusetts-senate-race/senatema-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 3.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMA_SENATEMA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMA_SENATEMA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:ME-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "ME-SEN-C2",
+      "state": "ME",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEME-26-D",
+          "eventTicker": "SENATEME-26",
+          "seriesTicker": "SENATEME",
+          "kalshiUrl": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 73.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEME_SENATEME-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEME_SENATEME-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:ME-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "ME-SEN-C2",
+      "state": "ME",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEME-26-R",
+          "eventTicker": "SENATEME-26",
+          "seriesTicker": "SENATEME",
+          "kalshiUrl": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 27.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEME_SENATEME-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEME_SENATEME-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MI-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "MI-SEN-C2",
+      "state": "MI",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMI-26-D",
+          "eventTicker": "SENATEMI-26",
+          "seriesTicker": "SENATEMI",
+          "kalshiUrl": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 78.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMI_SENATEMI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMI_SENATEMI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MI-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "MI-SEN-C2",
+      "state": "MI",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMI-26-R",
+          "eventTicker": "SENATEMI-26",
+          "seriesTicker": "SENATEMI",
+          "kalshiUrl": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 23.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMI_SENATEMI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMI_SENATEMI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MN-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "MN-SEN-C2",
+      "state": "MN",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMN-26-D",
+          "eventTicker": "SENATEMN-26",
+          "seriesTicker": "SENATEMN",
+          "kalshiUrl": "https://kalshi.com/markets/senatemn/minnesota-senate-race/senatemn-26",
+          "entityName": "Democratic (DFL) party",
+          "status": "active",
+          "oddsPercent": 90.3,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMN_SENATEMN-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMN_SENATEMN-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MN-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "MN-SEN-C2",
+      "state": "MN",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMN-26-R",
+          "eventTicker": "SENATEMN-26",
+          "seriesTicker": "SENATEMN",
+          "kalshiUrl": "https://kalshi.com/markets/senatemn/minnesota-senate-race/senatemn-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 9.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMN_SENATEMN-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMN_SENATEMN-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MS-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "MS-SEN-C2",
+      "state": "MS",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMS-26-D",
+          "eventTicker": "SENATEMS-26",
+          "seriesTicker": "SENATEMS",
+          "kalshiUrl": "https://kalshi.com/markets/senatems/mississippi-senate-race/senatems-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 6.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMS_SENATEMS-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMS_SENATEMS-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MS-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "MS-SEN-C2",
+      "state": "MS",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMS-26-R",
+          "eventTicker": "SENATEMS-26",
+          "seriesTicker": "SENATEMS",
+          "kalshiUrl": "https://kalshi.com/markets/senatems/mississippi-senate-race/senatems-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 92.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMS_SENATEMS-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMS_SENATEMS-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MT-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "MT-SEN-C2",
+      "state": "MT",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMT-26-D",
+          "eventTicker": "SENATEMT-26",
+          "seriesTicker": "SENATEMT",
+          "kalshiUrl": "https://kalshi.com/markets/senatemt/montana-senate-race/senatemt-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 8.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:MT-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "MT-SEN-C2",
+      "state": "MT",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEMT-26-R",
+          "eventTicker": "SENATEMT-26",
+          "seriesTicker": "SENATEMT",
+          "kalshiUrl": "https://kalshi.com/markets/senatemt/montana-senate-race/senatemt-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 78.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NE-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "NE-SEN-C2",
+      "state": "NE",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENE-26-D",
+          "eventTicker": "SENATENE-26",
+          "seriesTicker": "SENATENE",
+          "kalshiUrl": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 1.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENE_SENATENE-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENE_SENATENE-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NE-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "NE-SEN-C2",
+      "state": "NE",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENE-26-R",
+          "eventTicker": "SENATENE-26",
+          "seriesTicker": "SENATENE",
+          "kalshiUrl": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 71.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENE_SENATENE-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENE_SENATENE-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NH-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "NH-SEN-C2",
+      "state": "NH",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENH-26-D",
+          "eventTicker": "SENATENH-26",
+          "seriesTicker": "SENATENH",
+          "kalshiUrl": "https://kalshi.com/markets/senatenh/new-hampshire-senate-race/senatenh-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 85.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENH_SENATENH-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENH_SENATENH-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NH-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "NH-SEN-C2",
+      "state": "NH",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENH-26-R",
+          "eventTicker": "SENATENH-26",
+          "seriesTicker": "SENATENH",
+          "kalshiUrl": "https://kalshi.com/markets/senatenh/new-hampshire-senate-race/senatenh-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 18.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENH_SENATENH-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENH_SENATENH-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NJ-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "NJ-SEN-C2",
+      "state": "NJ",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENJ-26-D",
+          "eventTicker": "SENATENJ-26",
+          "seriesTicker": "SENATENJ",
+          "kalshiUrl": "https://kalshi.com/markets/senatenj/new-jersey-senate-race/senatenj-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 92.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENJ_SENATENJ-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENJ_SENATENJ-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NJ-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "NJ-SEN-C2",
+      "state": "NJ",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENJ-26-R",
+          "eventTicker": "SENATENJ-26",
+          "seriesTicker": "SENATENJ",
+          "kalshiUrl": "https://kalshi.com/markets/senatenj/new-jersey-senate-race/senatenj-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 6.2,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENJ_SENATENJ-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENJ_SENATENJ-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NM-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "NM-SEN-C2",
+      "state": "NM",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENM-26-D",
+          "eventTicker": "SENATENM-26",
+          "seriesTicker": "SENATENM",
+          "kalshiUrl": "https://kalshi.com/markets/senatenm/new-mexico-senate-race/senatenm-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 97.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENM_SENATENM-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENM_SENATENM-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:NM-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "NM-SEN-C2",
+      "state": "NM",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATENM-26-R",
+          "eventTicker": "SENATENM-26",
+          "seriesTicker": "SENATENM",
+          "kalshiUrl": "https://kalshi.com/markets/senatenm/new-mexico-senate-race/senatenm-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 4.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATENM_SENATENM-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATENM_SENATENM-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:OK-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "OK-SEN-C2",
+      "state": "OK",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEOK-26-D",
+          "eventTicker": "SENATEOK-26",
+          "seriesTicker": "SENATEOK",
+          "kalshiUrl": "https://kalshi.com/markets/senateok/oklahoma-senate-race/senateok-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 4.8,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEOK_SENATEOK-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEOK_SENATEOK-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:OK-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "OK-SEN-C2",
+      "state": "OK",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEOK-26-R",
+          "eventTicker": "SENATEOK-26",
+          "seriesTicker": "SENATEOK",
+          "kalshiUrl": "https://kalshi.com/markets/senateok/oklahoma-senate-race/senateok-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 97.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEOK_SENATEOK-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEOK_SENATEOK-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:OR-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "OR-SEN-C2",
+      "state": "OR",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEOR-26-D",
+          "eventTicker": "SENATEOR-26",
+          "seriesTicker": "SENATEOR",
+          "kalshiUrl": "https://kalshi.com/markets/senateor/oregon-senate-race/senateor-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 95.6,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEOR_SENATEOR-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEOR_SENATEOR-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:OR-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "OR-SEN-C2",
+      "state": "OR",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEOR-26-R",
+          "eventTicker": "SENATEOR-26",
+          "seriesTicker": "SENATEOR",
+          "kalshiUrl": "https://kalshi.com/markets/senateor/oregon-senate-race/senateor-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 6.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEOR_SENATEOR-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEOR_SENATEOR-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:RI-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "RI-SEN-C2",
+      "state": "RI",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATERI-26-D",
+          "eventTicker": "SENATERI-26",
+          "seriesTicker": "SENATERI",
+          "kalshiUrl": "https://kalshi.com/markets/senateri/rhode-island-senate-race/senateri-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 93.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATERI_SENATERI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATERI_SENATERI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:RI-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "RI-SEN-C2",
+      "state": "RI",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATERI-26-R",
+          "eventTicker": "SENATERI-26",
+          "seriesTicker": "SENATERI",
+          "kalshiUrl": "https://kalshi.com/markets/senateri/rhode-island-senate-race/senateri-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 5.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATERI_SENATERI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATERI_SENATERI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:SC-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "SC-SEN-C2",
+      "state": "SC",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATESC-26-D",
+          "eventTicker": "SENATESC-26",
+          "seriesTicker": "SENATESC",
+          "kalshiUrl": "https://kalshi.com/markets/senatesc/south-carolina-senate-race/senatesc-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 19.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATESC_SENATESC-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATESC_SENATESC-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:SC-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "SC-SEN-C2",
+      "state": "SC",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATESC-26-R",
+          "eventTicker": "SENATESC-26",
+          "seriesTicker": "SENATESC",
+          "kalshiUrl": "https://kalshi.com/markets/senatesc/south-carolina-senate-race/senatesc-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 79.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATESC_SENATESC-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATESC_SENATESC-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:SD-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "SD-SEN-C2",
+      "state": "SD",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATESD-26-D",
+          "eventTicker": "SENATESD-26",
+          "seriesTicker": "SENATESD",
+          "kalshiUrl": "https://kalshi.com/markets/senatesd/south-dakota-senate-race/senatesd-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 5.5,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATESD_SENATESD-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATESD_SENATESD-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:SD-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "SD-SEN-C2",
+      "state": "SD",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATESD-26-R",
+          "eventTicker": "SENATESD-26",
+          "seriesTicker": "SENATESD",
+          "kalshiUrl": "https://kalshi.com/markets/senatesd/south-dakota-senate-race/senatesd-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATESD_SENATESD-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATESD_SENATESD-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:TN-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "TN-SEN-C2",
+      "state": "TN",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATETN-26-D",
+          "eventTicker": "SENATETN-26",
+          "seriesTicker": "SENATETN",
+          "kalshiUrl": "https://kalshi.com/markets/senatetn/tennessee-senate-race/senatetn-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 6.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATETN_SENATETN-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATETN_SENATETN-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:TN-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "TN-SEN-C2",
+      "state": "TN",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATETN-26-R",
+          "eventTicker": "SENATETN-26",
+          "seriesTicker": "SENATETN",
+          "kalshiUrl": "https://kalshi.com/markets/senatetn/tennessee-senate-race/senatetn-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 92.6,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATETN_SENATETN-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATETN_SENATETN-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:TX-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "TX-SEN-C2",
+      "state": "TX",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATETX-26-R",
+          "eventTicker": "SENATETX-26",
+          "seriesTicker": "SENATETX",
+          "kalshiUrl": "https://kalshi.com/markets/senatetx/texas-senate-race/senatetx-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 57.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATETX_SENATETX-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATETX_SENATETX-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:VA-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "VA-SEN-C2",
+      "state": "VA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEVA-26-D",
+          "eventTicker": "SENATEVA-26",
+          "seriesTicker": "SENATEVA",
+          "kalshiUrl": "https://kalshi.com/markets/senateva/virginia-senate-race/senateva-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEVA_SENATEVA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEVA_SENATEVA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:VA-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "VA-SEN-C2",
+      "state": "VA",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEVA-26-R",
+          "eventTicker": "SENATEVA-26",
+          "seriesTicker": "SENATEVA",
+          "kalshiUrl": "https://kalshi.com/markets/senateva/virginia-senate-race/senateva-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 5.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEVA_SENATEVA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEVA_SENATEVA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:WV-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "WV-SEN-C2",
+      "state": "WV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEWV-26-D",
+          "eventTicker": "SENATEWV-26",
+          "seriesTicker": "SENATEWV",
+          "kalshiUrl": "https://kalshi.com/markets/senatewv/west-virginia-senate-race/senatewv-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 6.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEWV_SENATEWV-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEWV_SENATEWV-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:WV-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "WV-SEN-C2",
+      "state": "WV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEWV-26-R",
+          "eventTicker": "SENATEWV-26",
+          "seriesTicker": "SENATEWV",
+          "kalshiUrl": "https://kalshi.com/markets/senatewv/west-virginia-senate-race/senatewv-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEWV_SENATEWV-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEWV_SENATEWV-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:WY-SEN-C2:2026:general:D:party_winner",
+      "seat_id": "WY-SEN-C2",
+      "state": "WY",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEWY-26-D",
+          "eventTicker": "SENATEWY-26",
+          "seriesTicker": "SENATEWY",
+          "kalshiUrl": "https://kalshi.com/markets/senatewy/wyoming-senate-race/senatewy-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 5.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEWY_SENATEWY-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEWY_SENATEWY-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-SEN:WY-SEN-C2:2026:general:R:party_winner",
+      "seat_id": "WY-SEN-C2",
+      "state": "WY",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "SENATEWY-26-R",
+          "eventTicker": "SENATEWY-26",
+          "seriesTicker": "SENATEWY",
+          "kalshiUrl": "https://kalshi.com/markets/senatewy/wyoming-senate-race/senatewy-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_SENATEWY_SENATEWY-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_SENATEWY_SENATEWY-26-R.json"
+      ]
+    }
+  ]
+}

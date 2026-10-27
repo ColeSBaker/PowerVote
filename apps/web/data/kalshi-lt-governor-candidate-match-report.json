@@ -1,0 +1,537 @@
+{
+  "generatedAt": "2026-04-13T03:35:16.231082+00:00",
+  "office": "us_ltgov",
+  "unresolved_odds_threshold": 2.0,
+  "blocking_issue_count": 5,
+  "ambiguous_auto_match_issue_count": 0,
+  "top_unresolved_examples": [
+    {
+      "market_ticker": "KXLTGOVTX-26-GOP",
+      "seat": "TX-LTGOV",
+      "round": "general",
+      "party": "",
+      "oddsPercent": 95.0,
+      "kalshi_candidate_name": "Republican party",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "TX-LTGOV|general|OTH",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Mike Collier",
+          "source": "general_other",
+          "score": 0.2857
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXLTGOVGA-26-GOP",
+      "seat": "GA-LTGOV",
+      "round": "general",
+      "party": "",
+      "oddsPercent": 60.0,
+      "kalshi_candidate_name": "Republican party",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "GA-LTGOV|ANY|ANY",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Richard N. Wright",
+          "source": "primary",
+          "score": 0.5
+        },
+        {
+          "candidate_name": "Nabilah Parkes",
+          "source": "primary",
+          "score": 0.4667
+        },
+        {
+          "candidate_name": "Brenda Nelson-Porter",
+          "source": "primary",
+          "score": 0.4444
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+      "seat": "TX-LTGOV",
+      "round": "general",
+      "party": "",
+      "oddsPercent": 46.0,
+      "kalshi_candidate_name": "Yes",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "TX-LTGOV|general|OTH",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Mike Collier",
+          "source": "general_other",
+          "score": 0.1333
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXLTGOVGA-26-DEM",
+      "seat": "GA-LTGOV",
+      "round": "general",
+      "party": "",
+      "oddsPercent": 42.0,
+      "kalshi_candidate_name": "Democratic party",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "GA-LTGOV|ANY|ANY",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Nabilah Parkes",
+          "source": "primary",
+          "score": 0.4
+        },
+        {
+          "candidate_name": "Brenda Nelson-Porter",
+          "source": "primary",
+          "score": 0.3889
+        },
+        {
+          "candidate_name": "Richard N. Wright",
+          "source": "primary",
+          "score": 0.375
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXLTGOVTX-26-DEM",
+      "seat": "TX-LTGOV",
+      "round": "general",
+      "party": "",
+      "oddsPercent": 6.0,
+      "kalshi_candidate_name": "Democratic party",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "TX-LTGOV|general|OTH",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Mike Collier",
+          "source": "general_other",
+          "score": 0.2143
+        }
+      ],
+      "waiver_reason": null
+    }
+  ],
+  "candidate_winner": {
+    "office": "us_ltgov",
+    "market_type": "candidate_winner",
+    "row_count": 14,
+    "matched_count": 8,
+    "unmatched_count": 6,
+    "ambiguous_count": 0,
+    "positive_odds_matched_count": 8,
+    "positive_odds_unmatched_count": 6,
+    "positive_odds_ambiguous_count": 0,
+    "tier_counts": {
+      "A": 8,
+      "B": 0,
+      "C": 0,
+      "D": 6
+    },
+    "threshold_tier_counts": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 5
+    },
+    "unresolved_odds_threshold": 2.0,
+    "threshold_odds_matched_count": 4,
+    "threshold_odds_unmatched_count": 5,
+    "threshold_odds_ambiguous_count": 0,
+    "threshold_unresolved_count": 5,
+    "below_threshold_unresolved_count": 1,
+    "blocking_issue_count": 5,
+    "waived_issue_count": 0,
+    "ambiguous_auto_match_issue_count": 0,
+    "per_seat_unresolved_counts": {
+      "TX-LTGOV": 3,
+      "GA-LTGOV": 2
+    },
+    "unresolved_examples": [
+      {
+        "market_ticker": "KXLTGOVTX-26-GOP",
+        "seat": "TX-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 95.0,
+        "kalshi_candidate_name": "Republican party",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "TX-LTGOV|general|OTH",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mike Collier",
+            "source": "general_other",
+            "score": 0.2857
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXLTGOVGA-26-GOP",
+        "seat": "GA-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 60.0,
+        "kalshi_candidate_name": "Republican party",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "GA-LTGOV|ANY|ANY",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Richard N. Wright",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Nabilah Parkes",
+            "source": "primary",
+            "score": 0.4667
+          },
+          {
+            "candidate_name": "Brenda Nelson-Porter",
+            "source": "primary",
+            "score": 0.4444
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+        "seat": "TX-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 46.0,
+        "kalshi_candidate_name": "Yes",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "TX-LTGOV|general|OTH",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mike Collier",
+            "source": "general_other",
+            "score": 0.1333
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXLTGOVGA-26-DEM",
+        "seat": "GA-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 42.0,
+        "kalshi_candidate_name": "Democratic party",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "GA-LTGOV|ANY|ANY",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Nabilah Parkes",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Brenda Nelson-Porter",
+            "source": "primary",
+            "score": 0.3889
+          },
+          {
+            "candidate_name": "Richard N. Wright",
+            "source": "primary",
+            "score": 0.375
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXLTGOVTX-26-DEM",
+        "seat": "TX-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 6.0,
+        "kalshi_candidate_name": "Democratic party",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "TX-LTGOV|general|OTH",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mike Collier",
+            "source": "general_other",
+            "score": 0.2143
+          }
+        ],
+        "waiver_reason": null
+      }
+    ],
+    "waived_examples": [],
+    "review_queue": [
+      {
+        "market_ticker": "KXLTGOVTX-26-GOP",
+        "seat": "TX-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 95.0,
+        "kalshi_candidate_name": "Republican party",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mike Collier",
+            "source": "general_other",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXLTGOVGA-26-GOP",
+        "seat": "GA-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 60.0,
+        "kalshi_candidate_name": "Republican party",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Richard N. Wright",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Nabilah Parkes",
+            "source": "primary",
+            "score": 0.4667
+          },
+          {
+            "candidate_name": "Brenda Nelson-Porter",
+            "source": "primary",
+            "score": 0.4444
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+        "seat": "TX-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 46.0,
+        "kalshi_candidate_name": "Yes",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mike Collier",
+            "source": "general_other",
+            "score": 0.1333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXLTGOVGA-26-DEM",
+        "seat": "GA-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 42.0,
+        "kalshi_candidate_name": "Democratic party",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Nabilah Parkes",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Brenda Nelson-Porter",
+            "source": "primary",
+            "score": 0.3889
+          },
+          {
+            "candidate_name": "Richard N. Wright",
+            "source": "primary",
+            "score": 0.375
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXLTGOVTX-26-DEM",
+        "seat": "TX-LTGOV",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 6.0,
+        "kalshi_candidate_name": "Democratic party",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mike Collier",
+            "source": "general_other",
+            "score": 0.2143
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXCALIEUTENANTGOV-26NOV03-BDAH",
+        "seat": "CA-LTGOV",
+        "round": "general",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Brian Dahle",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Abdur Sikder",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Fiona Ma",
+            "source": "primary",
+            "score": 0.4211
+          },
+          {
+            "candidate_name": "Gloria J. Romero",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      }
+    ]
+  },
+  "candidate_nominee": {
+    "office": "us_ltgov",
+    "market_type": "candidate_nominee",
+    "row_count": 6,
+    "matched_count": 5,
+    "unmatched_count": 1,
+    "ambiguous_count": 0,
+    "positive_odds_matched_count": 4,
+    "positive_odds_unmatched_count": 1,
+    "positive_odds_ambiguous_count": 0,
+    "tier_counts": {
+      "A": 5,
+      "B": 0,
+      "C": 0,
+      "D": 1
+    },
+    "threshold_tier_counts": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0
+    },
+    "unresolved_odds_threshold": 2.0,
+    "threshold_odds_matched_count": 4,
+    "threshold_odds_unmatched_count": 0,
+    "threshold_odds_ambiguous_count": 0,
+    "threshold_unresolved_count": 0,
+    "below_threshold_unresolved_count": 1,
+    "blocking_issue_count": 0,
+    "waived_issue_count": 0,
+    "ambiguous_auto_match_issue_count": 0,
+    "per_seat_unresolved_counts": {},
+    "unresolved_examples": [],
+    "waived_examples": [],
+    "review_queue": [
+      {
+        "market_ticker": "KXLTGOVOKNOMR-26-CBYR",
+        "seat": "OK-LTGOV",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Cindy Byrd",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "David Ostrowe",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Brian Hill",
+            "source": "primary",
+            "score": 0.3
+          },
+          {
+            "candidate_name": "Victor Flores",
+            "source": "primary",
+            "score": 0.2609
+          }
+        ]
+      }
+    ]
+  }
+}

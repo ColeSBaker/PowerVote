@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PowerVote Prototype</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <nav class="page-nav" aria-label="Application pages">
+        <a class="page-nav__link page-nav__link--active" href="./index.html" aria-current="page">State lookup map</a>
+        <a class="page-nav__link" href="./congressional-map.html">Congressional district map</a>
+              <a class="page-nav__link" href="./us-house-seat-debug.html">House seat debug view</a>
+      </nav>
+
+      <header>
+        <h1>PowerVote: State Map + Address Lookup</h1>
+        <p>Click a state or search for a U.S. address to resolve its state. The map now uses geographic state borders for the contiguous U.S. and DC.</p>
+      </header>
+
+      <section class="lookup-panel">
+        <form id="lookup-form">
+          <label for="address">Address lookup</label>
+          <div class="lookup-row">
+            <input id="address" list="address-suggestions" autocomplete="street-address" value="1600 Pennsylvania Avenue NW, Washington, DC" />
+            <datalist id="address-suggestions"></datalist>
+            <button type="submit">Find state</button>
+          </div>
+        </form>
+
+        <p id="status" class="status-message"></p>
+        <p class="selection-summary"><strong>Selected state:</strong> <span id="selected">None yet</span></p>
+        <p id="result" class="lookup-result"></p>
+        <div id="state-market-panel" class="state-market-panel">
+          <h2>State election winner markets</h2>
+          <div class="filters-panel" aria-label="Market filters">
+            <div class="filter-group">
+              <h3>Election type</h3>
+              <div id="election-filters" class="toggle-list"></div>
+            </div>
+            <div class="filter-group">
+              <h3>Seat type</h3>
+              <div id="seat-filters" class="toggle-list"></div>
+            </div>
+          </div>
+          <p id="market-summary" class="market-summary">Select a state to load relevant Kalshi markets.</p>
+          <ul id="market-list" class="market-list"></ul>
+        </div>
+      </section>
+
+      <section class="map-panel">
+        <svg id="us-map" viewBox="0 0 960 600" role="img" aria-label="Clickable map of U.S. states"></svg>
+      </section>
+    </main>
+
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

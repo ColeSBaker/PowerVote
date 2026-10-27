@@ -1,0 +1,242 @@
+{
+  "snapshotId": "2026-04-13T03:35:35.602397+00:00",
+  "snapshotDate": "2026-04-13",
+  "schemaVersion": "v1",
+  "generatedAt": "2026-04-13T03:35:35.602397+00:00",
+  "sourceLineage": [
+    "ballotpedia-general-election-rollup.csv",
+    "ballotpedia-primary-election-rollup.csv",
+    "ballotpedia-runoff-election-rollup.csv",
+    "kalshi-us-rep-contest-index.csv",
+    "candidate-rollup-2026.csv",
+    "ballotpedia-senate-general-election-rollup.csv",
+    "ballotpedia-senate-primary-election-rollup.csv",
+    "ballotpedia-senate-runoff-election-rollup.csv",
+    "kalshi-us-senate-contest-index.csv",
+    "candidate-rollup-senate-2026.csv",
+    "ballotpedia-governor-general-election-rollup.csv",
+    "ballotpedia-governor-primary-election-rollup.csv",
+    "ballotpedia-governor-runoff-election-rollup.csv",
+    "kalshi-us-governor-contest-index.csv",
+    "governor-candidate-rollup-2026.csv",
+    "ballotpedia-lieutenant-governor-general-election-rollup.csv",
+    "ballotpedia-lieutenant-governor-primary-election-rollup.csv",
+    "ballotpedia-lieutenant-governor-runoff-election-rollup.csv",
+    "kalshi-us-lt-governor-contest-index.csv",
+    "lieutenant-governor-candidate-rollup-2026.csv",
+    "ballotpedia-attorney-general-general-election-rollup.csv",
+    "ballotpedia-attorney-general-primary-election-rollup.csv",
+    "ballotpedia-attorney-general-runoff-election-rollup.csv",
+    "kalshi-us-attorney-general-contest-index.csv",
+    "attorney-general-candidate-rollup-2026.csv"
+  ],
+  "artifacts": [
+    {
+      "artifactName": "ballotpedia-general-election-rollup_csv",
+      "fileName": "ballotpedia-general-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-general-election-rollup.csv",
+      "contentHash": "e4dd4bd51555080015aed3547cf2c1c7eb5ec3de6ff344df3995df521f55ad5c",
+      "rowCount": 435,
+      "bytes": 1654184
+    },
+    {
+      "artifactName": "ballotpedia-primary-election-rollup_csv",
+      "fileName": "ballotpedia-primary-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-primary-election-rollup.csv",
+      "contentHash": "dc6170cb68cda10adf8257aefe97e25b649e9132f223421f5ce342fbb72981d6",
+      "rowCount": 835,
+      "bytes": 1534036
+    },
+    {
+      "artifactName": "ballotpedia-runoff-election-rollup_csv",
+      "fileName": "ballotpedia-runoff-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-runoff-election-rollup.csv",
+      "contentHash": "db6c45b85d5acd9f97372f970363c1b001fede0b1ef4e1c23ac1a20b5e3e2a9f",
+      "rowCount": 19,
+      "bytes": 28037
+    },
+    {
+      "artifactName": "kalshi-us-rep-contest-index_csv",
+      "fileName": "kalshi-us-rep-contest-index.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/kalshi-us-rep-contest-index.csv",
+      "contentHash": "c2699160cac7809de9af62d9282f4b5c64ed112161068ec5424ba133593aa14d",
+      "rowCount": 480,
+      "bytes": 1197061
+    },
+    {
+      "artifactName": "candidate-rollup-2026_csv",
+      "fileName": "candidate-rollup-2026.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/candidate-rollup-2026.csv",
+      "contentHash": "c0b464803ad6873341cb6cc4f72da3d2cd276ec603e844316a608bbc596f7ca0",
+      "rowCount": 2568,
+      "bytes": 2884427
+    },
+    {
+      "artifactName": "ballotpedia-senate-general-election-rollup_csv",
+      "fileName": "ballotpedia-senate-general-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-senate-general-election-rollup.csv",
+      "contentHash": "afd4dfa6a10a4f4b5a252e8b93d0b659b74f802da73a3ff2cb3997f36eee224e",
+      "rowCount": 35,
+      "bytes": 171428
+    },
+    {
+      "artifactName": "ballotpedia-senate-primary-election-rollup_csv",
+      "fileName": "ballotpedia-senate-primary-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-senate-primary-election-rollup.csv",
+      "contentHash": "d8df97bdec0e70d0898d28288563b9308ed2b9212397c58ee0422b23692a6fba",
+      "rowCount": 74,
+      "bytes": 182439
+    },
+    {
+      "artifactName": "ballotpedia-senate-runoff-election-rollup_csv",
+      "fileName": "ballotpedia-senate-runoff-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-senate-runoff-election-rollup.csv",
+      "contentHash": "7b56b9f69bc4c905157cf0cfa336b76210eb475cbcb058f90cd0c96d2807c8c9",
+      "rowCount": 1,
+      "bytes": 2377
+    },
+    {
+      "artifactName": "kalshi-us-senate-contest-index_csv",
+      "fileName": "kalshi-us-senate-contest-index.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/kalshi-us-senate-contest-index.csv",
+      "contentHash": "1806380627307aa51244d4b5ab71e26d7f5a130f93926457c3629e1fb18e12e7",
+      "rowCount": 118,
+      "bytes": 208804
+    },
+    {
+      "artifactName": "candidate-rollup-senate-2026_csv",
+      "fileName": "candidate-rollup-senate-2026.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/candidate-rollup-senate-2026.csv",
+      "contentHash": "136934bc8f548b80edf83021860d6f48909319599e05e50d14e912dc87dcbaa4",
+      "rowCount": 360,
+      "bytes": 170820
+    },
+    {
+      "artifactName": "ballotpedia-governor-general-election-rollup_csv",
+      "fileName": "ballotpedia-governor-general-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-governor-general-election-rollup.csv",
+      "contentHash": "79be32a2f7c2889ab5421240d2a46747ac3dde43e9fba2c6446ab33211bb486b",
+      "rowCount": 36,
+      "bytes": 171006
+    },
+    {
+      "artifactName": "ballotpedia-governor-primary-election-rollup_csv",
+      "fileName": "ballotpedia-governor-primary-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-governor-primary-election-rollup.csv",
+      "contentHash": "0fabf6f43ec803fb252df6250957bb409e540b0d45da0a4a7278b468fb77fd94",
+      "rowCount": 73,
+      "bytes": 232046
+    },
+    {
+      "artifactName": "ballotpedia-governor-runoff-election-rollup_csv",
+      "fileName": "ballotpedia-governor-runoff-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-governor-runoff-election-rollup.csv",
+      "contentHash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "rowCount": 0,
+      "bytes": 2
+    },
+    {
+      "artifactName": "kalshi-us-governor-contest-index_csv",
+      "fileName": "kalshi-us-governor-contest-index.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/kalshi-us-governor-contest-index.csv",
+      "contentHash": "f43f5f0e494ae0a11bcefdd25ce4efda6681be598767eae79359d8126efc5c2c",
+      "rowCount": 157,
+      "bytes": 292250
+    },
+    {
+      "artifactName": "governor-candidate-rollup-2026_csv",
+      "fileName": "governor-candidate-rollup-2026.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/governor-candidate-rollup-2026.csv",
+      "contentHash": "9d086916f7f2cf89e155d3afd62fb6677e0d4d761ceeb46afb71cc5477ffee8c",
+      "rowCount": 472,
+      "bytes": 534745
+    },
+    {
+      "artifactName": "ballotpedia-lieutenant-governor-general-election-rollup_csv",
+      "fileName": "ballotpedia-lieutenant-governor-general-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-lieutenant-governor-general-election-rollup.csv",
+      "contentHash": "cecaab69a349d1e04e446c717046d498c0f5b85b352ad0867657e9c9ba85aa42",
+      "rowCount": 31,
+      "bytes": 91395
+    },
+    {
+      "artifactName": "ballotpedia-lieutenant-governor-primary-election-rollup_csv",
+      "fileName": "ballotpedia-lieutenant-governor-primary-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-lieutenant-governor-primary-election-rollup.csv",
+      "contentHash": "d5e52aec9824ed69b151a98fe654be8e08aa401b6e9ffb51ba97ff33c7247339",
+      "rowCount": 61,
+      "bytes": 156604
+    },
+    {
+      "artifactName": "ballotpedia-lieutenant-governor-runoff-election-rollup_csv",
+      "fileName": "ballotpedia-lieutenant-governor-runoff-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-lieutenant-governor-runoff-election-rollup.csv",
+      "contentHash": "7f7d50723a36a11800f6b6e23c5b025be489f986d6bdef29c573a6b3cdac448b",
+      "rowCount": 1,
+      "bytes": 2379
+    },
+    {
+      "artifactName": "kalshi-us-lt-governor-contest-index_csv",
+      "fileName": "kalshi-us-lt-governor-contest-index.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/kalshi-us-lt-governor-contest-index.csv",
+      "contentHash": "dffaa65b900571eff5618579e03880eead54ae99d1cedc29d383049b190c88b8",
+      "rowCount": 5,
+      "bytes": 13347
+    },
+    {
+      "artifactName": "lieutenant-governor-candidate-rollup-2026_csv",
+      "fileName": "lieutenant-governor-candidate-rollup-2026.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/lieutenant-governor-candidate-rollup-2026.csv",
+      "contentHash": "44a38c6ef4d50000310278559044eb043ae8f14161220aef37e5ecac3c18c1de",
+      "rowCount": 330,
+      "bytes": 186030
+    },
+    {
+      "artifactName": "ballotpedia-attorney-general-general-election-rollup_csv",
+      "fileName": "ballotpedia-attorney-general-general-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-attorney-general-general-election-rollup.csv",
+      "contentHash": "4ee21de8f4cc494c4182bfd2cf8a8c190482193cda08af6df0c1648aadee5293",
+      "rowCount": 30,
+      "bytes": 83452
+    },
+    {
+      "artifactName": "ballotpedia-attorney-general-primary-election-rollup_csv",
+      "fileName": "ballotpedia-attorney-general-primary-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-attorney-general-primary-election-rollup.csv",
+      "contentHash": "372b5961103647fc1dab1c3ad37a3b282f5d20777507a2415eabb5f6808c08e2",
+      "rowCount": 46,
+      "bytes": 58120
+    },
+    {
+      "artifactName": "ballotpedia-attorney-general-runoff-election-rollup_csv",
+      "fileName": "ballotpedia-attorney-general-runoff-election-rollup.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/ballotpedia-attorney-general-runoff-election-rollup.csv",
+      "contentHash": "1aef7553c1e66de12aa04250cc8cf2e5290b6ff85a8499b9d93e88978f7d1244",
+      "rowCount": 2,
+      "bytes": 3697
+    },
+    {
+      "artifactName": "kalshi-us-attorney-general-contest-index_csv",
+      "fileName": "kalshi-us-attorney-general-contest-index.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/kalshi-us-attorney-general-contest-index.csv",
+      "contentHash": "5a0aa91add541756a02257361af909757ab2e0b06c7dddd6e963cd9389303179",
+      "rowCount": 65,
+      "bytes": 49558
+    },
+    {
+      "artifactName": "attorney-general-candidate-rollup-2026_csv",
+      "fileName": "attorney-general-candidate-rollup-2026.csv",
+      "uri": "s3://powervote-snapshots/2026-04-13/attorney-general-candidate-rollup-2026.csv",
+      "contentHash": "6456ac08bb2206d1284904549cfe30ca4079ef2806812e37ba563bdb240c7de0",
+      "rowCount": 82,
+      "bytes": 57397
+    }
+  ],
+  "officeSnapshotDates": {
+    "us_house": "2026-04-13",
+    "us_senate": "2026-04-13",
+    "us_governor": "2026-04-13",
+    "us_lieutenant_governor": "2026-04-13",
+    "us_attorney_general": "2026-04-13"
+  }
+}

@@ -1,0 +1,19 @@
+ballotpedia_name,conflict,match_strategy,matched_candidate_id,matched_candidate_name,party,seat,state
+Mary Peltola,party_mismatch_fallback,state_name_fallback,S6AK00276,"PELTOLA, MARY",OTH,AK-SEN-C2,AK
+Matthew Wood,party_mismatch_fallback,state_name_fallback,S6CO00432,"WOOD, MATTHEW",OTH,CO-SEN-C2,CO
+Dexter Bland,party_mismatch_fallback,state_name_fallback,S6DE00164,"BLAND, DEXTER",OTH,DE-SEN-C2,DE
+Chris Capparell,party_mismatch_fallback,state_name_fallback,S6GA00341,"CAPPARELL, CHRIS",OTH,GA-SEN-C2,GA
+Elbert Bartell,party_mismatch_fallback,state_name_fallback,S6GA00317,"BARTELL, ELBERT",OTH,GA-SEN-C2,GA
+Tyrone Muhammad,party_mismatch_fallback,state_name_fallback,S6IL00557,"MUHAMMAD, TYRONE",OTH,IL-SEN-C2,IL
+Ty Pinkins,party_mismatch_fallback,state_name_fallback,S4MS00187,"PINKINS, TY",OTH,MS-SEN-C2,MS
+Seth Bodnar,party_mismatch_fallback,state_name_fallback,S6MT00287,"BODNAR, SETH",OTH,MT-SEN-C2,MT
+Cindy Burbank,party_mismatch_fallback,state_name_fallback,S6NE00145,"BURBANK, CINDY",D,NE-SEN-C2,NE
+Dan Osborn,party_mismatch_fallback,state_name_fallback,S4NE00207,"OSBORN, DAN",OTH,NE-SEN-C2,NE
+Ron Meinhardt,party_mismatch_fallback,state_name_fallback,S6OK04205,"MEINHARDT, RON",OTH,OK-SEN-C2,OK
+Jon Lindley,party_mismatch_fallback,state_name_fallback,S6RI00254,"LINDLEY, JON",OTH,RI-SEN-C2,RI
+Paul Sedletsky,party_mismatch_fallback,state_name_fallback,S6SC04312,"SEDLETSKY, PAUL",OTH,SC-SEN-C2,SC
+Reece Wright-McDonald,party_mismatch_fallback,state_name_fallback,S6SC04205,"WRIGHT-MCDONALD, REECE",OTH,SC-SEN-C2,SC
+Brian Bengs,party_mismatch_fallback,state_name_fallback,S6SD01117,"BENGS, BRIAN",OTH,SD-SEN-C2,SD
+Jade Simmons,multiple_fallback_matches,state_name_fallback_latest,S6TX00495,"SIMMONS, JADE",OTH,TX-SEN-C2,TX
+Joshua Cain,party_mismatch_fallback,state_name_fallback,S6TX00420,"CAIN, JOSHUA",OTH,TX-SEN-C2,TX
+Mark Moran,party_mismatch_fallback,state_name_fallback,S6VA00218,"MORAN, MARK",OTH,VA-SEN-C2,VA

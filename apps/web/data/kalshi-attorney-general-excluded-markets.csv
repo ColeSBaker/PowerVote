@@ -1,0 +1,2 @@
+event_ticker,exclusion_reason,market_ticker,raw_source_path,series_ticker,title
+KXGA1ROUND-26NOV03,state_unresolved,KXGA1ROUND-26NOV03-AG,../kalshi/data/markets/market_KXGA1ROUND_KXGA1ROUND-26NOV03-AG.json,KXGA1ROUND,Will anyone win the 2026 Georgia Attorney General general election election in the first round?

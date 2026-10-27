@@ -1,0 +1,255 @@
+{
+  "pipeline": "daily_refresh",
+  "generatedAt": "2026-04-12T22:30:45.018528+00:00",
+  "snapshotDate": "2026-04-12",
+  "status": "success",
+  "steps": [
+    {
+      "name": "scrape_ballotpedia_house",
+      "command": [
+        "python",
+        "scripts/scrape_ballotpedia_house_raw.py",
+        "--outdir",
+        "data/raw/ballotpedia_house_raw"
+      ],
+      "started_at": "2026-04-12T22:26:56.404586+00:00",
+      "finished_at": "2026-04-12T22:27:25.072440+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "parse_ballotpedia_rollups",
+      "command": [
+        "python",
+        "scripts/parse_ballotpedia_house_raw.py"
+      ],
+      "started_at": "2026-04-12T22:27:25.072691+00:00",
+      "finished_at": "2026-04-12T22:28:20.956364+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_kalshi_us_rep_contest_index",
+      "command": [
+        "python",
+        "scripts/build_kalshi_us_rep_contest_index.py",
+        "--no-strict"
+      ],
+      "started_at": "2026-04-12T22:28:20.956651+00:00",
+      "finished_at": "2026-04-12T22:28:43.716203+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_candidate_rollup",
+      "command": [
+        "python",
+        "scripts/build_candidate_rollup.py"
+      ],
+      "started_at": "2026-04-12T22:28:43.716407+00:00",
+      "finished_at": "2026-04-12T22:29:09.541290+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "scrape_ballotpedia_senate",
+      "command": [
+        "python",
+        "scripts/scrape_ballotpedia_senate_raw.py",
+        "--outdir",
+        "data/raw/ballotpedia_senate_raw"
+      ],
+      "started_at": "2026-04-12T22:29:09.541725+00:00",
+      "finished_at": "2026-04-12T22:29:10.982539+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "parse_ballotpedia_senate_rollups",
+      "command": [
+        "python",
+        "scripts/parse_ballotpedia_senate_raw.py"
+      ],
+      "started_at": "2026-04-12T22:29:10.982738+00:00",
+      "finished_at": "2026-04-12T22:29:14.264253+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_kalshi_us_senate_contest_index",
+      "command": [
+        "python",
+        "scripts/build_kalshi_us_senate_contest_index.py",
+        "--no-strict"
+      ],
+      "started_at": "2026-04-12T22:29:14.264490+00:00",
+      "finished_at": "2026-04-12T22:29:16.563427+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_senate_fec_linkage",
+      "command": [
+        "python",
+        "scripts/build_senate_fec_linkage.py"
+      ],
+      "started_at": "2026-04-12T22:29:16.563613+00:00",
+      "finished_at": "2026-04-12T22:29:16.819197+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_candidate_rollup_senate",
+      "command": [
+        "python",
+        "scripts/build_candidate_rollup_senate.py"
+      ],
+      "started_at": "2026-04-12T22:29:16.819533+00:00",
+      "finished_at": "2026-04-12T22:29:17.130794+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "scrape_ballotpedia_governor",
+      "command": [
+        "python",
+        "scripts/scrape_ballotpedia_governor_raw.py",
+        "--outdir",
+        "data/raw/ballotpedia_governor_raw"
+      ],
+      "started_at": "2026-04-12T22:29:17.131037+00:00",
+      "finished_at": "2026-04-12T22:29:20.589833+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "parse_ballotpedia_governor_rollups",
+      "command": [
+        "python",
+        "scripts/parse_ballotpedia_governor_raw.py"
+      ],
+      "started_at": "2026-04-12T22:29:20.590060+00:00",
+      "finished_at": "2026-04-12T22:29:29.383257+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_kalshi_us_governor_contest_index",
+      "command": [
+        "python",
+        "scripts/build_kalshi_us_governor_contest_index.py",
+        "--no-strict"
+      ],
+      "started_at": "2026-04-12T22:29:29.383485+00:00",
+      "finished_at": "2026-04-12T22:29:31.712868+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_kalshi_us_ltgov_contest_index",
+      "command": [
+        "python",
+        "scripts/build_kalshi_us_ltgov_contest_index.py",
+        "--no-strict"
+      ],
+      "started_at": "2026-04-12T22:29:31.713081+00:00",
+      "finished_at": "2026-04-12T22:29:33.833965+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_governor_candidate_rollup",
+      "command": [
+        "python",
+        "scripts/build_governor_candidate_rollup.py"
+      ],
+      "started_at": "2026-04-12T22:29:33.834202+00:00",
+      "finished_at": "2026-04-12T22:29:34.753096+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "scrape_ballotpedia_attorney_general",
+      "command": [
+        "python",
+        "scripts/scrape_ballotpedia_attorney_general_raw.py"
+      ],
+      "started_at": "2026-04-12T22:29:34.753343+00:00",
+      "finished_at": "2026-04-12T22:29:35.827826+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "parse_ballotpedia_attorney_general_rollups",
+      "command": [
+        "python",
+        "scripts/parse_ballotpedia_attorney_general_raw.py"
+      ],
+      "started_at": "2026-04-12T22:29:35.828042+00:00",
+      "finished_at": "2026-04-12T22:29:38.481434+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_kalshi_us_attorney_general_contest_index",
+      "command": [
+        "python",
+        "scripts/build_kalshi_us_attorney_general_contest_index.py",
+        "--no-strict"
+      ],
+      "started_at": "2026-04-12T22:29:38.481670+00:00",
+      "finished_at": "2026-04-12T22:29:40.363389+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "build_attorney_general_candidate_rollup",
+      "command": [
+        "python",
+        "scripts/build_attorney_general_candidate_rollup.py"
+      ],
+      "started_at": "2026-04-12T22:29:40.363606+00:00",
+      "finished_at": "2026-04-12T22:29:40.609068+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "publish_snapshot_artifacts",
+      "command": [
+        "python",
+        "scripts/pipeline/publish_snapshot_artifacts.py"
+      ],
+      "started_at": "2026-04-12T22:29:40.609315+00:00",
+      "finished_at": "2026-04-12T22:29:41.071293+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "name": "rollup_quality_tests",
+      "command": [
+        "python",
+        "-m",
+        "pytest",
+        "-q",
+        "tests/test_ballotpedia_rollup_parser.py",
+        "tests/test_ballotpedia_general_primary_status_buckets.py",
+        "tests/test_ballotpedia_kalshi_rollup_integrity.py",
+        "tests/test_candidate_rollup_data_quality.py",
+        "tests/test_ballotpedia_senate_rollup_parser.py",
+        "tests/test_kalshi_senate_contest_index.py",
+        "tests/test_senate_fec_linkage.py",
+        "tests/test_build_candidate_rollup_senate.py",
+        "tests/test_ballotpedia_governor_rollup_parser.py",
+        "tests/test_ballotpedia_attorney_general_rollup_parser.py",
+        "tests/test_kalshi_governor_contest_index.py",
+        "tests/test_kalshi_ltgov_contest_index.py",
+        "tests/test_kalshi_attorney_general_contest_index.py",
+        "tests/test_governor_ag_candidate_rollup_kalshi_integrity.py"
+      ],
+      "started_at": "2026-04-12T22:29:41.071574+00:00",
+      "finished_at": "2026-04-12T22:30:45.018097+00:00",
+      "exit_code": 0,
+      "stderr": ""
+    }
+  ]
+}

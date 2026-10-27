@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-04-13T03:35:16.231082+00:00",
+  "count": 1,
+  "violations": [
+    {
+      "type": "candidate_match_blocking_unresolved",
+      "office": "us_ltgov",
+      "threshold": 2.0,
+      "count": 5
+    }
+  ]
+}

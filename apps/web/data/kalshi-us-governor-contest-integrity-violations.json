@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-04-13T03:35:13.453281+00:00",
+  "count": 7,
+  "violations": [
+    {
+      "type": "advance_sum_out_of_band",
+      "event_ticker": "KXGOVCAPRIMARYPARTY-26",
+      "seat_ids": [
+        "CA-GOV"
+      ],
+      "advance_count": 2,
+      "observed_sum": 104.9,
+      "expected_range": [
+        160,
+        240
+      ]
+    },
+    {
+      "type": "unresolved_mapping",
+      "market_ticker": "KXGOVVTNOMR-262-JBEN",
+      "event_ticker": "KXGOVVTNOMR-262",
+      "series_ticker": "KXGOVVTNOMR",
+      "state_code": "VT",
+      "cycle_year": null,
+      "seat_id": "VT-GOV",
+      "round": "primary",
+      "party": "R",
+      "source_file": "../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-JBEN.json"
+    },
+    {
+      "type": "unresolved_mapping",
+      "market_ticker": "KXGOVVTNOMR-262-JROD",
+      "event_ticker": "KXGOVVTNOMR-262",
+      "series_ticker": "KXGOVVTNOMR",
+      "state_code": "VT",
+      "cycle_year": null,
+      "seat_id": "VT-GOV",
+      "round": "primary",
+      "party": "R",
+      "source_file": "../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-JROD.json"
+    },
+    {
+      "type": "unresolved_mapping",
+      "market_ticker": "KXGOVVTNOMR-262-PDAM",
+      "event_ticker": "KXGOVVTNOMR-262",
+      "series_ticker": "KXGOVVTNOMR",
+      "state_code": "VT",
+      "cycle_year": null,
+      "seat_id": "VT-GOV",
+      "round": "primary",
+      "party": "R",
+      "source_file": "../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-PDAM.json"
+    },
+    {
+      "type": "unresolved_mapping",
+      "market_ticker": "KXGOVVTNOMR-262-PSCO",
+      "event_ticker": "KXGOVVTNOMR-262",
+      "series_ticker": "KXGOVVTNOMR",
+      "state_code": "VT",
+      "cycle_year": null,
+      "seat_id": "VT-GOV",
+      "round": "primary",
+      "party": "R",
+      "source_file": "../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-PSCO.json"
+    },
+    {
+      "type": "unresolved_mapping",
+      "market_ticker": "KXGOVVTNOMR-262-RING",
+      "event_ticker": "KXGOVVTNOMR-262",
+      "series_ticker": "KXGOVVTNOMR",
+      "state_code": "VT",
+      "cycle_year": null,
+      "seat_id": "VT-GOV",
+      "round": "primary",
+      "party": "R",
+      "source_file": "../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-RING.json"
+    },
+    {
+      "type": "candidate_match_blocking_unresolved",
+      "office": "us_governor",
+      "threshold": 2.0,
+      "count": 42
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+event_ticker,exclusion_reason,market_ticker,raw_source_path,series_ticker,title
+KXGA1ROUND-26NOV03,meta_market_first_round,KXGA1ROUND-26NOV03-LTGOV,../kalshi/data/markets/market_KXGA1ROUND_KXGA1ROUND-26NOV03-LTGOV.json,KXGA1ROUND,Will anyone win the 2026 Georgia Lieutenant Governor general election election in the first round?

@@ -1,0 +1,363 @@
+{
+  "generatedAt": "2026-04-13T03:35:35.068665+00:00",
+  "office": "us_attorney_general",
+  "unresolved_odds_threshold": 2.0,
+  "blocking_issue_count": 3,
+  "ambiguous_auto_match_issue_count": 0,
+  "top_unresolved_examples": [
+    {
+      "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+      "seat": "TX-AG",
+      "round": "general",
+      "party": "",
+      "oddsPercent": 46.0,
+      "kalshi_candidate_name": "Yes",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "TX-AG|ANY|ANY",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Mayes Middleton",
+          "source": "primary",
+          "score": 0.3333
+        },
+        {
+          "candidate_name": "Mayes Middleton",
+          "source": "runoff",
+          "score": 0.3333
+        },
+        {
+          "candidate_name": "Joe Jaworski",
+          "source": "primary",
+          "score": 0.2667
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXAGNOMAZR-26-GROE",
+      "seat": "AZ-AG",
+      "round": "primary",
+      "party": "R",
+      "oddsPercent": 5.4,
+      "kalshi_candidate_name": "Greg Roeberg",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "AZ-AG|primary|R",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Warren Petersen",
+          "source": "primary",
+          "score": 0.4444
+        },
+        {
+          "candidate_name": "Rodney Glassman",
+          "source": "primary",
+          "score": 0.2963
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXAGNOMMID-26-WNOA",
+      "seat": "MI-AG",
+      "round": "primary",
+      "party": "D",
+      "oddsPercent": 4.0,
+      "kalshi_candidate_name": "William Noakes",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "MI-AG|ANY|ANY",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Matthew DePerno",
+          "source": "general_nominee",
+          "score": 0.2759
+        },
+        {
+          "candidate_name": "Eli Savit",
+          "source": "general_other",
+          "score": 0.2609
+        },
+        {
+          "candidate_name": "Doug Lloyd",
+          "source": "general_other",
+          "score": 0.25
+        }
+      ],
+      "waiver_reason": null
+    }
+  ],
+  "candidate_winner": {
+    "office": "us_attorney_general",
+    "market_type": "candidate_winner",
+    "row_count": 1,
+    "matched_count": 0,
+    "unmatched_count": 1,
+    "ambiguous_count": 0,
+    "positive_odds_matched_count": 0,
+    "positive_odds_unmatched_count": 1,
+    "positive_odds_ambiguous_count": 0,
+    "tier_counts": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 1
+    },
+    "threshold_tier_counts": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 1
+    },
+    "unresolved_odds_threshold": 2.0,
+    "threshold_odds_matched_count": 0,
+    "threshold_odds_unmatched_count": 1,
+    "threshold_odds_ambiguous_count": 0,
+    "threshold_unresolved_count": 1,
+    "below_threshold_unresolved_count": 0,
+    "blocking_issue_count": 1,
+    "waived_issue_count": 0,
+    "ambiguous_auto_match_issue_count": 0,
+    "per_seat_unresolved_counts": {
+      "TX-AG": 1
+    },
+    "unresolved_examples": [
+      {
+        "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+        "seat": "TX-AG",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 46.0,
+        "kalshi_candidate_name": "Yes",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "TX-AG|ANY|ANY",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mayes Middleton",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Mayes Middleton",
+            "source": "runoff",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Joe Jaworski",
+            "source": "primary",
+            "score": 0.2667
+          }
+        ],
+        "waiver_reason": null
+      }
+    ],
+    "waived_examples": [],
+    "review_queue": [
+      {
+        "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+        "seat": "TX-AG",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 46.0,
+        "kalshi_candidate_name": "Yes",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mayes Middleton",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Mayes Middleton",
+            "source": "runoff",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Joe Jaworski",
+            "source": "primary",
+            "score": 0.2667
+          }
+        ]
+      }
+    ]
+  },
+  "candidate_nominee": {
+    "office": "us_attorney_general",
+    "market_type": "candidate_nominee",
+    "row_count": 19,
+    "matched_count": 17,
+    "unmatched_count": 2,
+    "ambiguous_count": 0,
+    "positive_odds_matched_count": 17,
+    "positive_odds_unmatched_count": 2,
+    "positive_odds_ambiguous_count": 0,
+    "tier_counts": {
+      "A": 17,
+      "B": 0,
+      "C": 0,
+      "D": 2
+    },
+    "threshold_tier_counts": {
+      "A": 17,
+      "B": 0,
+      "C": 0,
+      "D": 2
+    },
+    "unresolved_odds_threshold": 2.0,
+    "threshold_odds_matched_count": 17,
+    "threshold_odds_unmatched_count": 2,
+    "threshold_odds_ambiguous_count": 0,
+    "threshold_unresolved_count": 2,
+    "below_threshold_unresolved_count": 0,
+    "blocking_issue_count": 2,
+    "waived_issue_count": 0,
+    "ambiguous_auto_match_issue_count": 0,
+    "per_seat_unresolved_counts": {
+      "AZ-AG": 1,
+      "MI-AG": 1
+    },
+    "unresolved_examples": [
+      {
+        "market_ticker": "KXAGNOMAZR-26-GROE",
+        "seat": "AZ-AG",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 5.4,
+        "kalshi_candidate_name": "Greg Roeberg",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "AZ-AG|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Warren Petersen",
+            "source": "primary",
+            "score": 0.4444
+          },
+          {
+            "candidate_name": "Rodney Glassman",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXAGNOMMID-26-WNOA",
+        "seat": "MI-AG",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "William Noakes",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "MI-AG|ANY|ANY",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Matthew DePerno",
+            "source": "general_nominee",
+            "score": 0.2759
+          },
+          {
+            "candidate_name": "Eli Savit",
+            "source": "general_other",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Doug Lloyd",
+            "source": "general_other",
+            "score": 0.25
+          }
+        ],
+        "waiver_reason": null
+      }
+    ],
+    "waived_examples": [],
+    "review_queue": [
+      {
+        "market_ticker": "KXAGNOMAZR-26-GROE",
+        "seat": "AZ-AG",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 5.4,
+        "kalshi_candidate_name": "Greg Roeberg",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Warren Petersen",
+            "source": "primary",
+            "score": 0.4444
+          },
+          {
+            "candidate_name": "Rodney Glassman",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXAGNOMMID-26-WNOA",
+        "seat": "MI-AG",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "William Noakes",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Matthew DePerno",
+            "source": "general_nominee",
+            "score": 0.2759
+          },
+          {
+            "candidate_name": "Eli Savit",
+            "source": "general_other",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Doug Lloyd",
+            "source": "general_other",
+            "score": 0.25
+          }
+        ]
+      }
+    ]
+  }
+}

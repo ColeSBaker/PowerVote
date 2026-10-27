@@ -1,0 +1,2851 @@
+{
+  "generatedAt": "2026-04-13T03:35:13.453281+00:00",
+  "summary": {
+    "contest_count": 98,
+    "included_markets": 98
+  },
+  "contests": [
+    {
+      "contest_id": "US-GOV:AK-GOV:2026:general:D:party_winner",
+      "seat_id": "AK-GOV",
+      "state": "AK",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXGOVPARTYAK-26-D",
+          "eventTicker": "KXGOVPARTYAK-26",
+          "seriesTicker": "KXGOVPARTYAK",
+          "kalshiUrl": "https://kalshi.com/markets/kxgovpartyak/alaska-governor/kxgovpartyak-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 28.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXGOVPARTYAK_KXGOVPARTYAK-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXGOVPARTYAK_KXGOVPARTYAK-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AK-GOV:2026:general:R:party_winner",
+      "seat_id": "AK-GOV",
+      "state": "AK",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "KXGOVPARTYAK-26-R",
+          "eventTicker": "KXGOVPARTYAK-26",
+          "seriesTicker": "KXGOVPARTYAK",
+          "kalshiUrl": "https://kalshi.com/markets/kxgovpartyak/alaska-governor/kxgovpartyak-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 76.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_KXGOVPARTYAK_KXGOVPARTYAK-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_KXGOVPARTYAK_KXGOVPARTYAK-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AL-GOV:2026:general:D:party_winner",
+      "seat_id": "AL-GOV",
+      "state": "AL",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYAL-26-D",
+          "eventTicker": "GOVPARTYAL-26",
+          "seriesTicker": "GOVPARTYAL",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyal/alabama-governor/govpartyal-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 8.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYAL_GOVPARTYAL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYAL_GOVPARTYAL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AL-GOV:2026:general:R:party_winner",
+      "seat_id": "AL-GOV",
+      "state": "AL",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYAL-26-R",
+          "eventTicker": "GOVPARTYAL-26",
+          "seriesTicker": "GOVPARTYAL",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyal/alabama-governor/govpartyal-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYAL_GOVPARTYAL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYAL_GOVPARTYAL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AR-GOV:2026:general:D:party_winner",
+      "seat_id": "AR-GOV",
+      "state": "AR",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYAR-26-D",
+          "eventTicker": "GOVPARTYAR-26",
+          "seriesTicker": "GOVPARTYAR",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyar/arkansas-governor/govpartyar-26",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 4.8,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYAR_GOVPARTYAR-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYAR_GOVPARTYAR-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AR-GOV:2026:general:R:party_winner",
+      "seat_id": "AR-GOV",
+      "state": "AR",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYAR-26-R",
+          "eventTicker": "GOVPARTYAR-26",
+          "seriesTicker": "GOVPARTYAR",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyar/arkansas-governor/govpartyar-26",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 94.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYAR_GOVPARTYAR-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYAR_GOVPARTYAR-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AZ-GOV:2026:general:D:party_winner",
+      "seat_id": "AZ-GOV",
+      "state": "AZ",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYAZ-26-D",
+          "eventTicker": "GOVPARTYAZ-26",
+          "seriesTicker": "GOVPARTYAZ",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyaz/arizona-governor/govpartyaz-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 80.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYAZ_GOVPARTYAZ-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYAZ_GOVPARTYAZ-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:AZ-GOV:2026:general:R:party_winner",
+      "seat_id": "AZ-GOV",
+      "state": "AZ",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYAZ-26-R",
+          "eventTicker": "GOVPARTYAZ-26",
+          "seriesTicker": "GOVPARTYAZ",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyaz/arizona-governor/govpartyaz-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 21.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYAZ_GOVPARTYAZ-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYAZ_GOVPARTYAZ-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:CA-GOV:2026:general:D:party_winner",
+      "seat_id": "CA-GOV",
+      "state": "CA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYCA-26-D",
+          "eventTicker": "GOVPARTYCA-26",
+          "seriesTicker": "GOVPARTYCA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyca/california-governor/govpartyca-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 86.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYCA_GOVPARTYCA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYCA_GOVPARTYCA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:CA-GOV:2026:general:R:party_winner",
+      "seat_id": "CA-GOV",
+      "state": "CA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYCA-26-R",
+          "eventTicker": "GOVPARTYCA-26",
+          "seriesTicker": "GOVPARTYCA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyca/california-governor/govpartyca-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 14.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYCA_GOVPARTYCA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYCA_GOVPARTYCA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:CO-GOV:2026:general:D:party_winner",
+      "seat_id": "CO-GOV",
+      "state": "CO",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYCO-26-D",
+          "eventTicker": "GOVPARTYCO-26",
+          "seriesTicker": "GOVPARTYCO",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyco/colorado-governor/govpartyco-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 91.7,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYCO_GOVPARTYCO-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYCO_GOVPARTYCO-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:CO-GOV:2026:general:R:party_winner",
+      "seat_id": "CO-GOV",
+      "state": "CO",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYCO-26-R",
+          "eventTicker": "GOVPARTYCO-26",
+          "seriesTicker": "GOVPARTYCO",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyco/colorado-governor/govpartyco-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 12.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYCO_GOVPARTYCO-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYCO_GOVPARTYCO-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:CT-GOV:2026:general:D:party_winner",
+      "seat_id": "CT-GOV",
+      "state": "CT",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYCT-26-D",
+          "eventTicker": "GOVPARTYCT-26",
+          "seriesTicker": "GOVPARTYCT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyct/connecticut-governor/govpartyct-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYCT_GOVPARTYCT-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYCT_GOVPARTYCT-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:CT-GOV:2026:general:R:party_winner",
+      "seat_id": "CT-GOV",
+      "state": "CT",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYCT-26-R",
+          "eventTicker": "GOVPARTYCT-26",
+          "seriesTicker": "GOVPARTYCT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyct/connecticut-governor/govpartyct-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 7.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYCT_GOVPARTYCT-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYCT_GOVPARTYCT-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:DE-GOV:2028:general:D:party_winner",
+      "seat_id": "DE-GOV",
+      "state": "DE",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYDE-28-D",
+          "eventTicker": "GOVPARTYDE-28",
+          "seriesTicker": "GOVPARTYDE",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyde/deleware-governor/govpartyde-28",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 91.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYDE_GOVPARTYDE-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYDE_GOVPARTYDE-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:DE-GOV:2028:general:R:party_winner",
+      "seat_id": "DE-GOV",
+      "state": "DE",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYDE-28-R",
+          "eventTicker": "GOVPARTYDE-28",
+          "seriesTicker": "GOVPARTYDE",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyde/deleware-governor/govpartyde-28",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 11.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYDE_GOVPARTYDE-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYDE_GOVPARTYDE-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:FL-GOV:2026:general:D:party_winner",
+      "seat_id": "FL-GOV",
+      "state": "FL",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYFL-26-D",
+          "eventTicker": "GOVPARTYFL-26",
+          "seriesTicker": "GOVPARTYFL",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyfl/florida-governor/govpartyfl-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 28.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYFL_GOVPARTYFL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYFL_GOVPARTYFL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:FL-GOV:2026:general:R:party_winner",
+      "seat_id": "FL-GOV",
+      "state": "FL",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYFL-26-R",
+          "eventTicker": "GOVPARTYFL-26",
+          "seriesTicker": "GOVPARTYFL",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyfl/florida-governor/govpartyfl-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 75.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYFL_GOVPARTYFL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYFL_GOVPARTYFL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:GA-GOV:2026:general:D:party_winner",
+      "seat_id": "GA-GOV",
+      "state": "GA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYGA-26-D",
+          "eventTicker": "GOVPARTYGA-26",
+          "seriesTicker": "GOVPARTYGA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyga/georgia-governor/govpartyga-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 56.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYGA_GOVPARTYGA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYGA_GOVPARTYGA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:GA-GOV:2026:general:R:party_winner",
+      "seat_id": "GA-GOV",
+      "state": "GA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYGA-26-R",
+          "eventTicker": "GOVPARTYGA-26",
+          "seriesTicker": "GOVPARTYGA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyga/georgia-governor/govpartyga-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 47.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYGA_GOVPARTYGA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYGA_GOVPARTYGA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:HI-GOV:2026:general:D:party_winner",
+      "seat_id": "HI-GOV",
+      "state": "HI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYHI-26-D",
+          "eventTicker": "GOVPARTYHI-26",
+          "seriesTicker": "GOVPARTYHI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyhi/hawaii-governor/govpartyhi-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 95.6,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYHI_GOVPARTYHI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYHI_GOVPARTYHI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:HI-GOV:2026:general:R:party_winner",
+      "seat_id": "HI-GOV",
+      "state": "HI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYHI-26-R",
+          "eventTicker": "GOVPARTYHI-26",
+          "seriesTicker": "GOVPARTYHI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyhi/hawaii-governor/govpartyhi-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 6.8,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYHI_GOVPARTYHI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYHI_GOVPARTYHI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:IA-GOV:2026:general:D:party_winner",
+      "seat_id": "IA-GOV",
+      "state": "IA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYIA-26-D",
+          "eventTicker": "GOVPARTYIA-26",
+          "seriesTicker": "GOVPARTYIA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyia/iowa-governor/govpartyia-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 61.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYIA_GOVPARTYIA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYIA_GOVPARTYIA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:IA-GOV:2026:general:R:party_winner",
+      "seat_id": "IA-GOV",
+      "state": "IA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYIA-26-R",
+          "eventTicker": "GOVPARTYIA-26",
+          "seriesTicker": "GOVPARTYIA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyia/iowa-governor/govpartyia-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 44.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYIA_GOVPARTYIA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYIA_GOVPARTYIA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:ID-GOV:2026:general:D:party_winner",
+      "seat_id": "ID-GOV",
+      "state": "ID",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYID-26-D",
+          "eventTicker": "GOVPARTYID-26",
+          "seriesTicker": "GOVPARTYID",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyid/idaho-governor/govpartyid-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 4.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYID_GOVPARTYID-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYID_GOVPARTYID-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:ID-GOV:2026:general:R:party_winner",
+      "seat_id": "ID-GOV",
+      "state": "ID",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYID-26-R",
+          "eventTicker": "GOVPARTYID-26",
+          "seriesTicker": "GOVPARTYID",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyid/idaho-governor/govpartyid-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYID_GOVPARTYID-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYID_GOVPARTYID-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:IL-GOV:2026:general:D:party_winner",
+      "seat_id": "IL-GOV",
+      "state": "IL",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYIL-26-D",
+          "eventTicker": "GOVPARTYIL-26",
+          "seriesTicker": "GOVPARTYIL",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyil/illinois-governor/govpartyil-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 92.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYIL_GOVPARTYIL-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYIL_GOVPARTYIL-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:IL-GOV:2026:general:R:party_winner",
+      "seat_id": "IL-GOV",
+      "state": "IL",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYIL-26-R",
+          "eventTicker": "GOVPARTYIL-26",
+          "seriesTicker": "GOVPARTYIL",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyil/illinois-governor/govpartyil-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 9.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYIL_GOVPARTYIL-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYIL_GOVPARTYIL-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:IN-GOV:2028:general:D:party_winner",
+      "seat_id": "IN-GOV",
+      "state": "IN",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYIN-28-D",
+          "eventTicker": "GOVPARTYIN-28",
+          "seriesTicker": "GOVPARTYIN",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyin/indiana-governor/govpartyin-28",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 10.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYIN_GOVPARTYIN-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYIN_GOVPARTYIN-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:IN-GOV:2028:general:R:party_winner",
+      "seat_id": "IN-GOV",
+      "state": "IN",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYIN-28-R",
+          "eventTicker": "GOVPARTYIN-28",
+          "seriesTicker": "GOVPARTYIN",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyin/indiana-governor/govpartyin-28",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYIN_GOVPARTYIN-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYIN_GOVPARTYIN-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:KS-GOV:2027:general:D:party_winner",
+      "seat_id": "KS-GOV",
+      "state": "KS",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYKS-27-D",
+          "eventTicker": "GOVPARTYKS-27",
+          "seriesTicker": "GOVPARTYKS",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyks/kansas-governor/govpartyks-27",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 33.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYKS_GOVPARTYKS-27-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYKS_GOVPARTYKS-27-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:KS-GOV:2027:general:R:party_winner",
+      "seat_id": "KS-GOV",
+      "state": "KS",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYKS-27-R",
+          "eventTicker": "GOVPARTYKS-27",
+          "seriesTicker": "GOVPARTYKS",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyks/kansas-governor/govpartyks-27",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 72.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYKS_GOVPARTYKS-27-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYKS_GOVPARTYKS-27-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:KY-GOV:2027:general:D:party_winner",
+      "seat_id": "KY-GOV",
+      "state": "KY",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYKY-27-D",
+          "eventTicker": "GOVPARTYKY-27",
+          "seriesTicker": "GOVPARTYKY",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyky/ky-gov/govpartyky-27",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 21.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYKY_GOVPARTYKY-27-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYKY_GOVPARTYKY-27-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:KY-GOV:2027:general:R:party_winner",
+      "seat_id": "KY-GOV",
+      "state": "KY",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYKY-27-R",
+          "eventTicker": "GOVPARTYKY-27",
+          "seriesTicker": "GOVPARTYKY",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyky/ky-gov/govpartyky-27",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 83.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYKY_GOVPARTYKY-27-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYKY_GOVPARTYKY-27-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:LA-GOV:2027:general:D:party_winner",
+      "seat_id": "LA-GOV",
+      "state": "LA",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYLA-27-D",
+          "eventTicker": "GOVPARTYLA-27",
+          "seriesTicker": "GOVPARTYLA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyla/la-gov/govpartyla-27",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 8.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYLA_GOVPARTYLA-27-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYLA_GOVPARTYLA-27-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:LA-GOV:2027:general:R:party_winner",
+      "seat_id": "LA-GOV",
+      "state": "LA",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYLA-27-R",
+          "eventTicker": "GOVPARTYLA-27",
+          "seriesTicker": "GOVPARTYLA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyla/la-gov/govpartyla-27",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 85.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYLA_GOVPARTYLA-27-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYLA_GOVPARTYLA-27-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MA-GOV:2026:general:D:party_winner",
+      "seat_id": "MA-GOV",
+      "state": "MA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMA-26-D",
+          "eventTicker": "GOVPARTYMA-26",
+          "seriesTicker": "GOVPARTYMA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyma/massachusetts-governor/govpartyma-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMA_GOVPARTYMA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMA_GOVPARTYMA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MA-GOV:2026:general:R:party_winner",
+      "seat_id": "MA-GOV",
+      "state": "MA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMA-26-R",
+          "eventTicker": "GOVPARTYMA-26",
+          "seriesTicker": "GOVPARTYMA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyma/massachusetts-governor/govpartyma-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 13.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMA_GOVPARTYMA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMA_GOVPARTYMA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MD-GOV:2026:general:D:party_winner",
+      "seat_id": "MD-GOV",
+      "state": "MD",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMD-26-D",
+          "eventTicker": "GOVPARTYMD-26",
+          "seriesTicker": "GOVPARTYMD",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymd/maryland-governor/govpartymd-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMD_GOVPARTYMD-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMD_GOVPARTYMD-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MD-GOV:2026:general:R:party_winner",
+      "seat_id": "MD-GOV",
+      "state": "MD",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMD-26-R",
+          "eventTicker": "GOVPARTYMD-26",
+          "seriesTicker": "GOVPARTYMD",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymd/maryland-governor/govpartymd-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 4.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMD_GOVPARTYMD-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMD_GOVPARTYMD-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:ME-GOV:2026:general:D:party_winner",
+      "seat_id": "ME-GOV",
+      "state": "ME",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYME-26-D",
+          "eventTicker": "GOVPARTYME-26",
+          "seriesTicker": "GOVPARTYME",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyme/maine-governor/govpartyme-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 87.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYME_GOVPARTYME-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYME_GOVPARTYME-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:ME-GOV:2026:general:R:party_winner",
+      "seat_id": "ME-GOV",
+      "state": "ME",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYME-26-R",
+          "eventTicker": "GOVPARTYME-26",
+          "seriesTicker": "GOVPARTYME",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyme/maine-governor/govpartyme-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 17.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYME_GOVPARTYME-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYME_GOVPARTYME-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MI-GOV:2026:general:D:party_winner",
+      "seat_id": "MI-GOV",
+      "state": "MI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMI-26-D",
+          "eventTicker": "GOVPARTYMI-26",
+          "seriesTicker": "GOVPARTYMI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymi/michigan-governor/govpartymi-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 60.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMI_GOVPARTYMI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMI_GOVPARTYMI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MI-GOV:2026:general:R:party_winner",
+      "seat_id": "MI-GOV",
+      "state": "MI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMI-26-R",
+          "eventTicker": "GOVPARTYMI-26",
+          "seriesTicker": "GOVPARTYMI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymi/michigan-governor/govpartymi-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 16.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMI_GOVPARTYMI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMI_GOVPARTYMI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MN-GOV:2026:general:D:party_winner",
+      "seat_id": "MN-GOV",
+      "state": "MN",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMN-26-D",
+          "eventTicker": "GOVPARTYMN-26",
+          "seriesTicker": "GOVPARTYMN",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymn/minnesota-governor/govpartymn-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMN_GOVPARTYMN-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMN_GOVPARTYMN-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MN-GOV:2026:general:R:party_winner",
+      "seat_id": "MN-GOV",
+      "state": "MN",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMN-26-R",
+          "eventTicker": "GOVPARTYMN-26",
+          "seriesTicker": "GOVPARTYMN",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymn/minnesota-governor/govpartymn-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 7.2,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMN_GOVPARTYMN-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMN_GOVPARTYMN-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MO-GOV:2028:general:D:party_winner",
+      "seat_id": "MO-GOV",
+      "state": "MO",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMO-28-D",
+          "eventTicker": "GOVPARTYMO-28",
+          "seriesTicker": "GOVPARTYMO",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymo/missouri-governor/govpartymo-28",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 9.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMO_GOVPARTYMO-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMO_GOVPARTYMO-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MO-GOV:2028:general:R:party_winner",
+      "seat_id": "MO-GOV",
+      "state": "MO",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMO-28-R",
+          "eventTicker": "GOVPARTYMO-28",
+          "seriesTicker": "GOVPARTYMO",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymo/missouri-governor/govpartymo-28",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 91.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMO_GOVPARTYMO-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMO_GOVPARTYMO-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MS-GOV:2027:general:D:party_winner",
+      "seat_id": "MS-GOV",
+      "state": "MS",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMS-27-D",
+          "eventTicker": "GOVPARTYMS-27",
+          "seriesTicker": "GOVPARTYMS",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyms/ms-gov/govpartyms-27",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 10.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMS_GOVPARTYMS-27-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMS_GOVPARTYMS-27-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MS-GOV:2027:general:R:party_winner",
+      "seat_id": "MS-GOV",
+      "state": "MS",
+      "office": "GOV",
+      "cycle_year": 2027,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMS-27-R",
+          "eventTicker": "GOVPARTYMS-27",
+          "seriesTicker": "GOVPARTYMS",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyms/ms-gov/govpartyms-27",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 87.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMS_GOVPARTYMS-27-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMS_GOVPARTYMS-27-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MT-GOV:2028:general:D:party_winner",
+      "seat_id": "MT-GOV",
+      "state": "MT",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMT-28-D",
+          "eventTicker": "GOVPARTYMT-28",
+          "seriesTicker": "GOVPARTYMT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymt/governor-montana/govpartymt-28",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 15.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMT_GOVPARTYMT-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMT_GOVPARTYMT-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:MT-GOV:2028:general:R:party_winner",
+      "seat_id": "MT-GOV",
+      "state": "MT",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYMT-28-R",
+          "eventTicker": "GOVPARTYMT-28",
+          "seriesTicker": "GOVPARTYMT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartymt/governor-montana/govpartymt-28",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 86.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYMT_GOVPARTYMT-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYMT_GOVPARTYMT-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NC-GOV:2028:general:D:party_winner",
+      "seat_id": "NC-GOV",
+      "state": "NC",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNC-28-D",
+          "eventTicker": "GOVPARTYNC-28",
+          "seriesTicker": "GOVPARTYNC",
+          "kalshiUrl": "https://kalshi.com/markets/govpartync/north-carolina/govpartync-28",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 72.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNC_GOVPARTYNC-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNC_GOVPARTYNC-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NC-GOV:2028:general:R:party_winner",
+      "seat_id": "NC-GOV",
+      "state": "NC",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNC-28-R",
+          "eventTicker": "GOVPARTYNC-28",
+          "seriesTicker": "GOVPARTYNC",
+          "kalshiUrl": "https://kalshi.com/markets/govpartync/north-carolina/govpartync-28",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 28.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNC_GOVPARTYNC-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNC_GOVPARTYNC-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:ND-GOV:2028:general:D:party_winner",
+      "seat_id": "ND-GOV",
+      "state": "ND",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYND-28-D",
+          "eventTicker": "GOVPARTYND-28",
+          "seriesTicker": "GOVPARTYND",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynd/north-dakota-governor/govpartynd-28",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 11.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYND_GOVPARTYND-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYND_GOVPARTYND-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:ND-GOV:2028:general:R:party_winner",
+      "seat_id": "ND-GOV",
+      "state": "ND",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYND-28-R",
+          "eventTicker": "GOVPARTYND-28",
+          "seriesTicker": "GOVPARTYND",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynd/north-dakota-governor/govpartynd-28",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYND_GOVPARTYND-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYND_GOVPARTYND-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NE-GOV:2026:general:D:party_winner",
+      "seat_id": "NE-GOV",
+      "state": "NE",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNE-26-D",
+          "eventTicker": "GOVPARTYNE-26",
+          "seriesTicker": "GOVPARTYNE",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyne/nebraska-governor/govpartyne-26",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 13.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNE_GOVPARTYNE-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNE_GOVPARTYNE-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NE-GOV:2026:general:R:party_winner",
+      "seat_id": "NE-GOV",
+      "state": "NE",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNE-26-R",
+          "eventTicker": "GOVPARTYNE-26",
+          "seriesTicker": "GOVPARTYNE",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyne/nebraska-governor/govpartyne-26",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNE_GOVPARTYNE-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNE_GOVPARTYNE-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NH-GOV:2028:general:D:party_winner",
+      "seat_id": "NH-GOV",
+      "state": "NH",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNH-28-D",
+          "eventTicker": "GOVPARTYNH-28",
+          "seriesTicker": "GOVPARTYNH",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynh/new-hampshire-governor/govpartynh-28",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 25.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNH_GOVPARTYNH-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNH_GOVPARTYNH-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NH-GOV:2028:general:R:party_winner",
+      "seat_id": "NH-GOV",
+      "state": "NH",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNH-28-R",
+          "eventTicker": "GOVPARTYNH-28",
+          "seriesTicker": "GOVPARTYNH",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynh/new-hampshire-governor/govpartynh-28",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 79.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNH_GOVPARTYNH-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNH_GOVPARTYNH-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NM-GOV:2026:general:D:party_winner",
+      "seat_id": "NM-GOV",
+      "state": "NM",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNM-26-D",
+          "eventTicker": "GOVPARTYNM-26",
+          "seriesTicker": "GOVPARTYNM",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynm/new-mexico-governor/govpartynm-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 91.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNM_GOVPARTYNM-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNM_GOVPARTYNM-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NM-GOV:2026:general:R:party_winner",
+      "seat_id": "NM-GOV",
+      "state": "NM",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNM-26-R",
+          "eventTicker": "GOVPARTYNM-26",
+          "seriesTicker": "GOVPARTYNM",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynm/new-mexico-governor/govpartynm-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 6.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNM_GOVPARTYNM-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNM_GOVPARTYNM-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NV-GOV:2026:general:D:party_winner",
+      "seat_id": "NV-GOV",
+      "state": "NV",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNV-26-D",
+          "eventTicker": "GOVPARTYNV-26",
+          "seriesTicker": "GOVPARTYNV",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynv/nevada-governor/govpartynv-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 52.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNV_GOVPARTYNV-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNV_GOVPARTYNV-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NV-GOV:2026:general:R:party_winner",
+      "seat_id": "NV-GOV",
+      "state": "NV",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNV-26-R",
+          "eventTicker": "GOVPARTYNV-26",
+          "seriesTicker": "GOVPARTYNV",
+          "kalshiUrl": "https://kalshi.com/markets/govpartynv/nevada-governor/govpartynv-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 49.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNV_GOVPARTYNV-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNV_GOVPARTYNV-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NY-GOV:2026:general:D:party_winner",
+      "seat_id": "NY-GOV",
+      "state": "NY",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNY-26-D",
+          "eventTicker": "GOVPARTYNY-26",
+          "seriesTicker": "GOVPARTYNY",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyny/new-york-governor/govpartyny-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 92.4,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNY_GOVPARTYNY-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNY_GOVPARTYNY-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:NY-GOV:2026:general:R:party_winner",
+      "seat_id": "NY-GOV",
+      "state": "NY",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYNY-26-R",
+          "eventTicker": "GOVPARTYNY-26",
+          "seriesTicker": "GOVPARTYNY",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyny/new-york-governor/govpartyny-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 9.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYNY_GOVPARTYNY-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYNY_GOVPARTYNY-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:OH-GOV:2026:general:D:party_winner",
+      "seat_id": "OH-GOV",
+      "state": "OH",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYOH-26-D",
+          "eventTicker": "GOVPARTYOH-26",
+          "seriesTicker": "GOVPARTYOH",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyoh/ohio-governor/govpartyoh-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 53.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYOH_GOVPARTYOH-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYOH_GOVPARTYOH-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:OH-GOV:2026:general:R:party_winner",
+      "seat_id": "OH-GOV",
+      "state": "OH",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYOH-26-R",
+          "eventTicker": "GOVPARTYOH-26",
+          "seriesTicker": "GOVPARTYOH",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyoh/ohio-governor/govpartyoh-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 45.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYOH_GOVPARTYOH-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYOH_GOVPARTYOH-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:OK-GOV:2026:general:D:party_winner",
+      "seat_id": "OK-GOV",
+      "state": "OK",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYOK-26-D",
+          "eventTicker": "GOVPARTYOK-26",
+          "seriesTicker": "GOVPARTYOK",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyok/oklahoma-governor/govpartyok-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 9.1,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYOK_GOVPARTYOK-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYOK_GOVPARTYOK-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:OK-GOV:2026:general:R:party_winner",
+      "seat_id": "OK-GOV",
+      "state": "OK",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYOK-26-R",
+          "eventTicker": "GOVPARTYOK-26",
+          "seriesTicker": "GOVPARTYOK",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyok/oklahoma-governor/govpartyok-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYOK_GOVPARTYOK-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYOK_GOVPARTYOK-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:OR-GOV:2026:general:D:party_winner",
+      "seat_id": "OR-GOV",
+      "state": "OR",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYOR-26-D",
+          "eventTicker": "GOVPARTYOR-26",
+          "seriesTicker": "GOVPARTYOR",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyor/oregon-governor/govpartyor-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 80.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYOR_GOVPARTYOR-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYOR_GOVPARTYOR-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:OR-GOV:2026:general:R:party_winner",
+      "seat_id": "OR-GOV",
+      "state": "OR",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYOR-26-R",
+          "eventTicker": "GOVPARTYOR-26",
+          "seriesTicker": "GOVPARTYOR",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyor/oregon-governor/govpartyor-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 23.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYOR_GOVPARTYOR-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYOR_GOVPARTYOR-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:PA-GOV:2026:general:D:party_winner",
+      "seat_id": "PA-GOV",
+      "state": "PA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYPA-26-D",
+          "eventTicker": "GOVPARTYPA-26",
+          "seriesTicker": "GOVPARTYPA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartypa/pennsylvania-governor/govpartypa-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYPA_GOVPARTYPA-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYPA_GOVPARTYPA-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:PA-GOV:2026:general:R:party_winner",
+      "seat_id": "PA-GOV",
+      "state": "PA",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYPA-26-R",
+          "eventTicker": "GOVPARTYPA-26",
+          "seriesTicker": "GOVPARTYPA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartypa/pennsylvania-governor/govpartypa-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 5.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYPA_GOVPARTYPA-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYPA_GOVPARTYPA-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:RI-GOV:2026:general:D:party_winner",
+      "seat_id": "RI-GOV",
+      "state": "RI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYRI-26-D",
+          "eventTicker": "GOVPARTYRI-26",
+          "seriesTicker": "GOVPARTYRI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyri/rhode-island-governor/govpartyri-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYRI_GOVPARTYRI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYRI_GOVPARTYRI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:RI-GOV:2026:general:R:party_winner",
+      "seat_id": "RI-GOV",
+      "state": "RI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYRI-26-R",
+          "eventTicker": "GOVPARTYRI-26",
+          "seriesTicker": "GOVPARTYRI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyri/rhode-island-governor/govpartyri-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 8.9,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYRI_GOVPARTYRI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYRI_GOVPARTYRI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:SC-GOV:2026:general:D:party_winner",
+      "seat_id": "SC-GOV",
+      "state": "SC",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYSC-26-D",
+          "eventTicker": "GOVPARTYSC-26",
+          "seriesTicker": "GOVPARTYSC",
+          "kalshiUrl": "https://kalshi.com/markets/govpartysc/south-carolina-governor/govpartysc-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 9.4,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYSC_GOVPARTYSC-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYSC_GOVPARTYSC-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:SC-GOV:2026:general:R:party_winner",
+      "seat_id": "SC-GOV",
+      "state": "SC",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYSC-26-R",
+          "eventTicker": "GOVPARTYSC-26",
+          "seriesTicker": "GOVPARTYSC",
+          "kalshiUrl": "https://kalshi.com/markets/govpartysc/south-carolina-governor/govpartysc-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYSC_GOVPARTYSC-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYSC_GOVPARTYSC-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:SD-GOV:2026:general:D:party_winner",
+      "seat_id": "SD-GOV",
+      "state": "SD",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYSD-26-D",
+          "eventTicker": "GOVPARTYSD-26",
+          "seriesTicker": "GOVPARTYSD",
+          "kalshiUrl": "https://kalshi.com/markets/govpartysd/south-dakota-governor/govpartysd-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 2.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYSD_GOVPARTYSD-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYSD_GOVPARTYSD-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:SD-GOV:2026:general:R:party_winner",
+      "seat_id": "SD-GOV",
+      "state": "SD",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYSD-26-R",
+          "eventTicker": "GOVPARTYSD-26",
+          "seriesTicker": "GOVPARTYSD",
+          "kalshiUrl": "https://kalshi.com/markets/govpartysd/south-dakota-governor/govpartysd-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 96.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYSD_GOVPARTYSD-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYSD_GOVPARTYSD-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:TN-GOV:2026:general:D:party_winner",
+      "seat_id": "TN-GOV",
+      "state": "TN",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYTN-26-D",
+          "eventTicker": "GOVPARTYTN-26",
+          "seriesTicker": "GOVPARTYTN",
+          "kalshiUrl": "https://kalshi.com/markets/govpartytn/tennessee-governor/govpartytn-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 3.5,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYTN_GOVPARTYTN-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYTN_GOVPARTYTN-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:TN-GOV:2026:general:R:party_winner",
+      "seat_id": "TN-GOV",
+      "state": "TN",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYTN-26-R",
+          "eventTicker": "GOVPARTYTN-26",
+          "seriesTicker": "GOVPARTYTN",
+          "kalshiUrl": "https://kalshi.com/markets/govpartytn/tennessee-governor/govpartytn-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYTN_GOVPARTYTN-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYTN_GOVPARTYTN-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:TX-GOV:2026:general:D:party_winner",
+      "seat_id": "TX-GOV",
+      "state": "TX",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYTX-26-D",
+          "eventTicker": "GOVPARTYTX-26",
+          "seriesTicker": "GOVPARTYTX",
+          "kalshiUrl": "https://kalshi.com/markets/govpartytx/texas-governor/govpartytx-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 18.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYTX_GOVPARTYTX-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYTX_GOVPARTYTX-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:TX-GOV:2026:general:R:party_winner",
+      "seat_id": "TX-GOV",
+      "state": "TX",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYTX-26-R",
+          "eventTicker": "GOVPARTYTX-26",
+          "seriesTicker": "GOVPARTYTX",
+          "kalshiUrl": "https://kalshi.com/markets/govpartytx/texas-governor/govpartytx-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 84.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYTX_GOVPARTYTX-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYTX_GOVPARTYTX-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:UT-GOV:2028:general:D:party_winner",
+      "seat_id": "UT-GOV",
+      "state": "UT",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYUT-28-D",
+          "eventTicker": "GOVPARTYUT-28",
+          "seriesTicker": "GOVPARTYUT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyut/utah-governor/govpartyut-28",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 16.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYUT_GOVPARTYUT-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYUT_GOVPARTYUT-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:UT-GOV:2028:general:R:party_winner",
+      "seat_id": "UT-GOV",
+      "state": "UT",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYUT-28-R",
+          "eventTicker": "GOVPARTYUT-28",
+          "seriesTicker": "GOVPARTYUT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyut/utah-governor/govpartyut-28",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 85.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYUT_GOVPARTYUT-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYUT_GOVPARTYUT-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:VT-GOV:2026:general:D:party_winner",
+      "seat_id": "VT-GOV",
+      "state": "VT",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYVT-26-D",
+          "eventTicker": "GOVPARTYVT-26",
+          "seriesTicker": "GOVPARTYVT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyvt/vermont-governor/govpartyvt-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 20.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:VT-GOV:2028:general:D:party_winner",
+      "seat_id": "VT-GOV",
+      "state": "VT",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYVT-28-D",
+          "eventTicker": "GOVPARTYVT-28",
+          "seriesTicker": "GOVPARTYVT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyvt/vermont-governor/govpartyvt-28",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 44.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:VT-GOV:2026:general:R:party_winner",
+      "seat_id": "VT-GOV",
+      "state": "VT",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYVT-26-R",
+          "eventTicker": "GOVPARTYVT-26",
+          "seriesTicker": "GOVPARTYVT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyvt/vermont-governor/govpartyvt-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 79.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:VT-GOV:2028:general:R:party_winner",
+      "seat_id": "VT-GOV",
+      "state": "VT",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYVT-28-R",
+          "eventTicker": "GOVPARTYVT-28",
+          "seriesTicker": "GOVPARTYVT",
+          "kalshiUrl": "https://kalshi.com/markets/govpartyvt/vermont-governor/govpartyvt-28",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 56.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYVT_GOVPARTYVT-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WA-GOV:2028:general:D:party_winner",
+      "seat_id": "WA-GOV",
+      "state": "WA",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWA-28-D",
+          "eventTicker": "GOVPARTYWA-28",
+          "seriesTicker": "GOVPARTYWA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywa/washington-governor/govpartywa-28",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 95.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWA_GOVPARTYWA-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWA_GOVPARTYWA-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WA-GOV:2028:general:R:party_winner",
+      "seat_id": "WA-GOV",
+      "state": "WA",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWA-28-R",
+          "eventTicker": "GOVPARTYWA-28",
+          "seriesTicker": "GOVPARTYWA",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywa/washington-governor/govpartywa-28",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 7.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWA_GOVPARTYWA-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWA_GOVPARTYWA-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WI-GOV:2026:general:D:party_winner",
+      "seat_id": "WI-GOV",
+      "state": "WI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWI-26-D",
+          "eventTicker": "GOVPARTYWI-26",
+          "seriesTicker": "GOVPARTYWI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywi/wisconsin-governor/govpartywi-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 82.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWI_GOVPARTYWI-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWI_GOVPARTYWI-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WI-GOV:2026:general:R:party_winner",
+      "seat_id": "WI-GOV",
+      "state": "WI",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWI-26-R",
+          "eventTicker": "GOVPARTYWI-26",
+          "seriesTicker": "GOVPARTYWI",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywi/wisconsin-governor/govpartywi-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 12.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWI_GOVPARTYWI-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWI_GOVPARTYWI-26-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WV-GOV:2028:general:D:party_winner",
+      "seat_id": "WV-GOV",
+      "state": "WV",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWV-28-D",
+          "eventTicker": "GOVPARTYWV-28",
+          "seriesTicker": "GOVPARTYWV",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywv/west-virginia-governor/govpartywv-28",
+          "entityName": "Democratic",
+          "status": "active",
+          "oddsPercent": 11.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWV_GOVPARTYWV-28-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWV_GOVPARTYWV-28-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WV-GOV:2028:general:R:party_winner",
+      "seat_id": "WV-GOV",
+      "state": "WV",
+      "office": "GOV",
+      "cycle_year": 2028,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWV-28-R",
+          "eventTicker": "GOVPARTYWV-28",
+          "seriesTicker": "GOVPARTYWV",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywv/west-virginia-governor/govpartywv-28",
+          "entityName": "Republican",
+          "status": "active",
+          "oddsPercent": 89.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWV_GOVPARTYWV-28-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWV_GOVPARTYWV-28-R.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WY-GOV:2026:general:D:party_winner",
+      "seat_id": "WY-GOV",
+      "state": "WY",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "D",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWY-26-D",
+          "eventTicker": "GOVPARTYWY-26",
+          "seriesTicker": "GOVPARTYWY",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywy/wyoming-governor/govpartywy-26",
+          "entityName": "Democratic party",
+          "status": "active",
+          "oddsPercent": 5.8,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWY_GOVPARTYWY-26-D.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWY_GOVPARTYWY-26-D.json"
+      ]
+    },
+    {
+      "contest_id": "US-GOV:WY-GOV:2026:general:R:party_winner",
+      "seat_id": "WY-GOV",
+      "state": "WY",
+      "office": "GOV",
+      "cycle_year": 2026,
+      "round": "general",
+      "party": "R",
+      "market_type": "party_winner",
+      "advance_count": 1,
+      "market_count": 1,
+      "has_active_market": true,
+      "markets": [
+        {
+          "marketTicker": "GOVPARTYWY-26-R",
+          "eventTicker": "GOVPARTYWY-26",
+          "seriesTicker": "GOVPARTYWY",
+          "kalshiUrl": "https://kalshi.com/markets/govpartywy/wyoming-governor/govpartywy-26",
+          "entityName": "Republican party",
+          "status": "active",
+          "oddsPercent": 93.0,
+          "overrideApplied": "",
+          "sourceFile": "../kalshi/data/markets/market_GOVPARTYWY_GOVPARTYWY-26-R.json"
+        }
+      ],
+      "source_files": [
+        "../kalshi/data/markets/market_GOVPARTYWY_GOVPARTYWY-26-R.json"
+      ]
+    }
+  ]
+}

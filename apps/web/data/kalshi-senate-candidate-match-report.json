@@ -1,0 +1,4857 @@
+{
+  "generatedAt": "2026-04-13T03:34:31.009502+00:00",
+  "office": "us_senate",
+  "unresolved_odds_threshold": 2.0,
+  "blocking_issue_count": 6,
+  "ambiguous_auto_match_issue_count": 0,
+  "top_unresolved_examples": [
+    {
+      "market_ticker": "KXSENATEVAR-26-JMIY",
+      "seat": "VA-SEN-C2",
+      "round": "primary",
+      "party": "R",
+      "oddsPercent": 11.0,
+      "kalshi_candidate_name": "Jason Miyares",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "VA-SEN-C2|primary|R",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Al Mina",
+          "source": "primary",
+          "score": 0.5
+        },
+        {
+          "candidate_name": "Bert Mizusawa",
+          "source": "primary",
+          "score": 0.3077
+        },
+        {
+          "candidate_name": "Chuck Smith",
+          "source": "primary",
+          "score": 0.25
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXSENATEMAR-26-LEVA",
+      "seat": "MA-SEN-C2",
+      "round": "primary",
+      "party": "R",
+      "oddsPercent": 6.8,
+      "kalshi_candidate_name": "Lewis Evangelidis",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "MA-SEN-C2|primary|R",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "John Deaton",
+          "source": "primary",
+          "score": 0.2143
+        },
+        {
+          "candidate_name": "Nathan Bech",
+          "source": "primary",
+          "score": 0.2143
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXSENATEOKR-26-AARM",
+      "seat": "OK-SEN-C2",
+      "round": "primary",
+      "party": "R",
+      "oddsPercent": 6.0,
+      "kalshi_candidate_name": "Alan Armstrong",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "OK-SEN-C2|primary|R",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Tammy Swearengin",
+          "source": "primary",
+          "score": 0.4
+        },
+        {
+          "candidate_name": "Wayne Washington",
+          "source": "primary",
+          "score": 0.4
+        },
+        {
+          "candidate_name": "Brian Ragain",
+          "source": "primary",
+          "score": 0.3846
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXSENATEMER-26-DSME",
+      "seat": "ME-SEN-C2",
+      "round": "primary",
+      "party": "R",
+      "oddsPercent": 4.9,
+      "kalshi_candidate_name": "Dan Smeriglio",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "ME-SEN-C2|primary|R",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Susan Collins",
+          "source": "primary",
+          "score": 0.3846
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXSENATEFLR-26-JC",
+      "seat": "FL-SEN-C3-SPL",
+      "round": "primary",
+      "party": "R",
+      "oddsPercent": 3.0,
+      "kalshi_candidate_name": "Jay Collins",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "FL-SEN-C3-SPL|primary|R",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Jake Lang",
+          "source": "primary",
+          "score": 0.5
+        },
+        {
+          "candidate_name": "A.C. Toulme",
+          "source": "primary",
+          "score": 0.4762
+        },
+        {
+          "candidate_name": "Ashley Baptiste",
+          "source": "primary",
+          "score": 0.3846
+        }
+      ],
+      "waiver_reason": null
+    },
+    {
+      "market_ticker": "KXAKSENATE-26NOV03-ADIE",
+      "seat": "AK-SEN-C2",
+      "round": "general",
+      "party": "D",
+      "oddsPercent": 2.1,
+      "kalshi_candidate_name": "Ann Diener",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_candidate_pool_key": "AK-SEN-C2|ANY|ANY",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Dustin Darden",
+          "source": "primary",
+          "score": 0.4348
+        },
+        {
+          "candidate_name": "Daniel S. Sullivan",
+          "source": "primary",
+          "score": 0.3704
+        },
+        {
+          "candidate_name": "Mary Peltola",
+          "source": "primary",
+          "score": 0.2727
+        }
+      ],
+      "waiver_reason": null
+    }
+  ],
+  "candidate_winner": {
+    "office": "us_senate",
+    "market_type": "candidate_winner",
+    "row_count": 10,
+    "matched_count": 8,
+    "unmatched_count": 2,
+    "ambiguous_count": 0,
+    "positive_odds_matched_count": 8,
+    "positive_odds_unmatched_count": 2,
+    "positive_odds_ambiguous_count": 0,
+    "tier_counts": {
+      "A": 8,
+      "B": 0,
+      "C": 0,
+      "D": 2
+    },
+    "threshold_tier_counts": {
+      "A": 7,
+      "B": 0,
+      "C": 0,
+      "D": 1
+    },
+    "unresolved_odds_threshold": 2.0,
+    "threshold_odds_matched_count": 7,
+    "threshold_odds_unmatched_count": 1,
+    "threshold_odds_ambiguous_count": 0,
+    "threshold_unresolved_count": 1,
+    "below_threshold_unresolved_count": 1,
+    "blocking_issue_count": 1,
+    "waived_issue_count": 0,
+    "ambiguous_auto_match_issue_count": 0,
+    "per_seat_unresolved_counts": {
+      "AK-SEN-C2": 1
+    },
+    "unresolved_examples": [
+      {
+        "market_ticker": "KXAKSENATE-26NOV03-ADIE",
+        "seat": "AK-SEN-C2",
+        "round": "general",
+        "party": "D",
+        "oddsPercent": 2.1,
+        "kalshi_candidate_name": "Ann Diener",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "AK-SEN-C2|ANY|ANY",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Dustin Darden",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Daniel S. Sullivan",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Mary Peltola",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ],
+        "waiver_reason": null
+      }
+    ],
+    "waived_examples": [],
+    "review_queue": [
+      {
+        "market_ticker": "KXAKSENATE-26NOV03-ADIE",
+        "seat": "AK-SEN-C2",
+        "round": "general",
+        "party": "D",
+        "oddsPercent": 2.1,
+        "kalshi_candidate_name": "Ann Diener",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Dustin Darden",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Daniel S. Sullivan",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Mary Peltola",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXAKSENATE-26NOV03-SHIL",
+        "seat": "AK-SEN-C2",
+        "round": "general",
+        "party": "",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Sid Hill",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Daniel S. Sullivan",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Mary Peltola",
+            "source": "primary",
+            "score": 0.3
+          },
+          {
+            "candidate_name": "Dustin Darden",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      }
+    ]
+  },
+  "candidate_nominee": {
+    "office": "us_senate",
+    "market_type": "candidate_nominee",
+    "row_count": 270,
+    "matched_count": 137,
+    "unmatched_count": 131,
+    "ambiguous_count": 2,
+    "positive_odds_matched_count": 134,
+    "positive_odds_unmatched_count": 130,
+    "positive_odds_ambiguous_count": 2,
+    "tier_counts": {
+      "A": 137,
+      "B": 0,
+      "C": 2,
+      "D": 131
+    },
+    "threshold_tier_counts": {
+      "A": 110,
+      "B": 0,
+      "C": 0,
+      "D": 24
+    },
+    "unresolved_odds_threshold": 2.0,
+    "threshold_odds_matched_count": 110,
+    "threshold_odds_unmatched_count": 24,
+    "threshold_odds_ambiguous_count": 0,
+    "threshold_unresolved_count": 24,
+    "below_threshold_unresolved_count": 109,
+    "blocking_issue_count": 5,
+    "waived_issue_count": 19,
+    "ambiguous_auto_match_issue_count": 0,
+    "per_seat_unresolved_counts": {
+      "FL-SEN-C3-SPL": 1,
+      "MA-SEN-C2": 1,
+      "ME-SEN-C2": 1,
+      "OK-SEN-C2": 1,
+      "VA-SEN-C2": 1
+    },
+    "unresolved_examples": [
+      {
+        "market_ticker": "KXSENATEVAR-26-JMIY",
+        "seat": "VA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 11.0,
+        "kalshi_candidate_name": "Jason Miyares",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "VA-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Al Mina",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Bert Mizusawa",
+            "source": "primary",
+            "score": 0.3077
+          },
+          {
+            "candidate_name": "Chuck Smith",
+            "source": "primary",
+            "score": 0.25
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXSENATEMAR-26-LEVA",
+        "seat": "MA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 6.8,
+        "kalshi_candidate_name": "Lewis Evangelidis",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "MA-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Deaton",
+            "source": "primary",
+            "score": 0.2143
+          },
+          {
+            "candidate_name": "Nathan Bech",
+            "source": "primary",
+            "score": 0.2143
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-AARM",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 6.0,
+        "kalshi_candidate_name": "Alan Armstrong",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "OK-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Tammy Swearengin",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Wayne Washington",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Brian Ragain",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXSENATEMER-26-DSME",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 4.9,
+        "kalshi_candidate_name": "Dan Smeriglio",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "ME-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Susan Collins",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ],
+        "waiver_reason": null
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-JC",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Jay Collins",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "no_match",
+        "ballotpedia_candidate_pool_key": "FL-SEN-C3-SPL|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "A.C. Toulme",
+            "source": "primary",
+            "score": 0.4762
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ],
+        "waiver_reason": null
+      }
+    ],
+    "waived_examples": [
+      {
+        "market_ticker": "KXSENATEALD-26-DJON",
+        "seat": "AL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Doug Jones",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "AL-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Everett Wess",
+            "source": "primary",
+            "score": 0.2727
+          },
+          {
+            "candidate_name": "Kyle Sweetser",
+            "source": "primary",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Dakarai Larriett",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATECOR-26-HGAN",
+        "seat": "CO-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 8.1,
+        "kalshi_candidate_name": "Heidi Ganahl",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "CO-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Janak Joshi",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Amanda Calderon",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Sean Pond",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-JM",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Jared Moskowitz",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "FL-SEN-C3-SPL|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Joey Mendoza Atkins",
+            "source": "primary",
+            "score": 0.3529
+          },
+          {
+            "candidate_name": "Alex Vindman",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Angela Nixon",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-RDS",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 8.2,
+        "kalshi_candidate_name": "Ron DeSantis",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "FL-SEN-C3-SPL|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ernie Rivera",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-BC",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 10.0,
+        "kalshi_candidate_name": "Buddy Carter",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "GA-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "naming_alias_gap",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Earl Carter",
+            "source": "primary",
+            "score": 0.6087
+          },
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.2727
+          },
+          {
+            "candidate_name": "Derek Dooley",
+            "source": "primary",
+            "score": 0.25
+          }
+        ],
+        "waiver_reason": "naming_alias_gap"
+      },
+      {
+        "market_ticker": "KXSENATEKSD-26-SDAV",
+        "seat": "KS-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 30.0,
+        "kalshi_candidate_name": "Sharice Davids",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "KS-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Christy Davis",
+            "source": "primary",
+            "score": 0.6667
+          },
+          {
+            "candidate_name": "Patrick Schmidt",
+            "source": "primary",
+            "score": 0.4828
+          },
+          {
+            "candidate_name": "Erik Murray",
+            "source": "primary",
+            "score": 0.32
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEMAR-26-CBAK",
+        "seat": "MA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 16.0,
+        "kalshi_candidate_name": "Charlie Baker",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "MA-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Deaton",
+            "source": "primary",
+            "score": 0.1667
+          },
+          {
+            "candidate_name": "Nathan Bech",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATENER-26-EDUN",
+        "seat": "NE-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Edward Dunn",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "NE-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Todd Knobel",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Debb Axtell Schultz",
+            "source": "primary",
+            "score": 0.2667
+          },
+          {
+            "candidate_name": "Eric Mortimore",
+            "source": "primary",
+            "score": 0.24
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-AKUS",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Annie Kuster",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "NH-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-MGOO",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Maggie Goodlander",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "NH-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.375
+          },
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.1379
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-SSHA",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "Stefany Shaheen",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "NH-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.2222
+          },
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.2
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATENJR-26-AHAB",
+        "seat": "NJ-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Alina Habba",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "NJ-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Justin Murphy",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Richard Tabor",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Alex Zdan",
+            "source": "primary",
+            "score": 0.3
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-JBRE",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Josh Brecheen",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "OK-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Hern",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Sean Buckner",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Tammy Swearengin",
+            "source": "primary",
+            "score": 0.2759
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-KSTI",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "Kevin Stitt",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "OK-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Hern",
+            "source": "primary",
+            "score": 0.5714
+          },
+          {
+            "candidate_name": "Nick Hankins",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Wayne Washington",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEORD-26-JRYA",
+        "seat": "OR-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 4.6,
+        "kalshi_candidate_name": "Jacob Ryan",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "OR-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jeff Merkley",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Paul Damian Wells",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATESCD-26-JWAL",
+        "seat": "SC-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 3.5,
+        "kalshi_candidate_name": "Joe Walsh",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "SC-SEN-C2|primary|D",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Annie Andrews",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Christopher Giracello",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Kyle Freeman",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATESDR-26-KNOE",
+        "seat": "SD-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "Kristi Noem",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "SD-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Justin McNeal",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Mike Rounds",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEVAR-26-WES",
+        "seat": "VA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Winsome Earle-Sears",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "VA-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alex De Paula",
+            "source": "primary",
+            "score": 0.3125
+          },
+          {
+            "candidate_name": "Al Mina",
+            "source": "primary",
+            "score": 0.2308
+          },
+          {
+            "candidate_name": "Kim Farington",
+            "source": "primary",
+            "score": 0.1875
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      },
+      {
+        "market_ticker": "KXSENATEWYR-26-RRAS",
+        "seat": "WY-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 5.8,
+        "kalshi_candidate_name": "Reid Rasner",
+        "ballotpedia_match_status": "unmatched",
+        "ballotpedia_match_strategy": "override_waive",
+        "ballotpedia_candidate_pool_key": "WY-SEN-C2|primary|R",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Harriet Hageman",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "Jimmy Skovgard",
+            "source": "primary",
+            "score": 0.16
+          }
+        ],
+        "waiver_reason": "source_data_issue"
+      }
+    ],
+    "review_queue": [
+      {
+        "market_ticker": "KXSENATEKSD-26-SDAV",
+        "seat": "KS-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 30.0,
+        "kalshi_candidate_name": "Sharice Davids",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Christy Davis",
+            "source": "primary",
+            "score": 0.6667
+          },
+          {
+            "candidate_name": "Patrick Schmidt",
+            "source": "primary",
+            "score": 0.4828
+          },
+          {
+            "candidate_name": "Erik Murray",
+            "source": "primary",
+            "score": 0.32
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMAR-26-CBAK",
+        "seat": "MA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 16.0,
+        "kalshi_candidate_name": "Charlie Baker",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Deaton",
+            "source": "primary",
+            "score": 0.1667
+          },
+          {
+            "candidate_name": "Nathan Bech",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEVAR-26-JMIY",
+        "seat": "VA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 11.0,
+        "kalshi_candidate_name": "Jason Miyares",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Al Mina",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Bert Mizusawa",
+            "source": "primary",
+            "score": 0.3077
+          },
+          {
+            "candidate_name": "Chuck Smith",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-BC",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 10.0,
+        "kalshi_candidate_name": "Buddy Carter",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "naming_alias_gap",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Earl Carter",
+            "source": "primary",
+            "score": 0.6087
+          },
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.2727
+          },
+          {
+            "candidate_name": "Derek Dooley",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-RDS",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 8.2,
+        "kalshi_candidate_name": "Ron DeSantis",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ernie Rivera",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATECOR-26-HGAN",
+        "seat": "CO-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 8.1,
+        "kalshi_candidate_name": "Heidi Ganahl",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Janak Joshi",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Amanda Calderon",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Sean Pond",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMAR-26-LEVA",
+        "seat": "MA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 6.8,
+        "kalshi_candidate_name": "Lewis Evangelidis",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Deaton",
+            "source": "primary",
+            "score": 0.2143
+          },
+          {
+            "candidate_name": "Nathan Bech",
+            "source": "primary",
+            "score": 0.2143
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-AARM",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 6.0,
+        "kalshi_candidate_name": "Alan Armstrong",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Tammy Swearengin",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Wayne Washington",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Brian Ragain",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEWYR-26-RRAS",
+        "seat": "WY-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 5.8,
+        "kalshi_candidate_name": "Reid Rasner",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Harriet Hageman",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "Jimmy Skovgard",
+            "source": "primary",
+            "score": 0.16
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-JM",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Jared Moskowitz",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Joey Mendoza Atkins",
+            "source": "primary",
+            "score": 0.3529
+          },
+          {
+            "candidate_name": "Alex Vindman",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Angela Nixon",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-AKUS",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Annie Kuster",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-MGOO",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Maggie Goodlander",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.375
+          },
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.1379
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENJR-26-AHAB",
+        "seat": "NJ-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 5.0,
+        "kalshi_candidate_name": "Alina Habba",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Justin Murphy",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Richard Tabor",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Alex Zdan",
+            "source": "primary",
+            "score": 0.3
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMER-26-DSME",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 4.9,
+        "kalshi_candidate_name": "Dan Smeriglio",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Susan Collins",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEORD-26-JRYA",
+        "seat": "OR-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 4.6,
+        "kalshi_candidate_name": "Jacob Ryan",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jeff Merkley",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Paul Damian Wells",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-SSHA",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "Stefany Shaheen",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.2222
+          },
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.2
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-KSTI",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "Kevin Stitt",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Hern",
+            "source": "primary",
+            "score": 0.5714
+          },
+          {
+            "candidate_name": "Nick Hankins",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Wayne Washington",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATESDR-26-KNOE",
+        "seat": "SD-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 4.0,
+        "kalshi_candidate_name": "Kristi Noem",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Justin McNeal",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Mike Rounds",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATESCD-26-JWAL",
+        "seat": "SC-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 3.5,
+        "kalshi_candidate_name": "Joe Walsh",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Annie Andrews",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Christopher Giracello",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Kyle Freeman",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEALD-26-DJON",
+        "seat": "AL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Doug Jones",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Everett Wess",
+            "source": "primary",
+            "score": 0.2727
+          },
+          {
+            "candidate_name": "Kyle Sweetser",
+            "source": "primary",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Dakarai Larriett",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-JC",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Jay Collins",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "A.C. Toulme",
+            "source": "primary",
+            "score": 0.4762
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENER-26-EDUN",
+        "seat": "NE-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Edward Dunn",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Todd Knobel",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Debb Axtell Schultz",
+            "source": "primary",
+            "score": 0.2667
+          },
+          {
+            "candidate_name": "Eric Mortimore",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-JBRE",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Josh Brecheen",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Hern",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Sean Buckner",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Tammy Swearengin",
+            "source": "primary",
+            "score": 0.2759
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEVAR-26-WES",
+        "seat": "VA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 3.0,
+        "kalshi_candidate_name": "Winsome Earle-Sears",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alex De Paula",
+            "source": "primary",
+            "score": 0.3125
+          },
+          {
+            "candidate_name": "Al Mina",
+            "source": "primary",
+            "score": 0.2308
+          },
+          {
+            "candidate_name": "Kim Farington",
+            "source": "primary",
+            "score": 0.1875
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-ANIX",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Angie Nixon",
+        "ballotpedia_candidate_name": "Angela Nixon",
+        "match_confidence_tier": "C",
+        "match_reason_code": "review_similarity_band",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Angela Nixon",
+            "source": "primary",
+            "score": 0.9
+          },
+          {
+            "candidate_name": "Alan Grayson",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Frank DiMola",
+            "source": "primary",
+            "score": 0.3478
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-CC",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Charlie Crist",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Charles Gould",
+            "source": "primary",
+            "score": 0.5385
+          },
+          {
+            "candidate_name": "Shawn Bettis",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Paul Ron Cruz",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-CM",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Cory Mills",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Michaelangelo Hamilton",
+            "source": "primary",
+            "score": 0.375
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "A.C. Toulme",
+            "source": "primary",
+            "score": 0.3
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-JN",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Jeanette Nuñez",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ernie Rivera",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "Neelam Perry",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.3478
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-JO",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "José R. Oliva",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ernie Rivera",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.4762
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEIAR-26-JERN",
+        "seat": "IA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Joni Ernst",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jim Carlin",
+            "source": "primary",
+            "score": 0.2
+          },
+          {
+            "candidate_name": "Ashley Hinson",
+            "source": "primary",
+            "score": 0.1739
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEIAR-26-JSMI",
+        "seat": "IA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Joshua Smith",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ashley Hinson",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Jim Carlin",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKYD-26-JRAN",
+        "seat": "KY-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Jared Randall",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Charles Booker",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Amy McGrath",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Joshua Blanton Sr.",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKYR-26-KCRA",
+        "seat": "KY-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Kelly Craft",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Daniel Cameron",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Mike Faris",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "James Duncan",
+            "source": "primary",
+            "score": 0.3478
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKYR-26-RSTI",
+        "seat": "KY-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Robert Stivers",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Andrew Shelley",
+            "source": "primary",
+            "score": 0.3571
+          },
+          {
+            "candidate_name": "Val Fredrick",
+            "source": "primary",
+            "score": 0.3077
+          },
+          {
+            "candidate_name": "Jonathan Holliday",
+            "source": "primary",
+            "score": 0.2581
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKYR-26-RQUA",
+        "seat": "KY-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Ryan Quarles",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Andy Barr",
+            "source": "primary",
+            "score": 0.4762
+          },
+          {
+            "candidate_name": "Anissa Catlett",
+            "source": "primary",
+            "score": 0.4615
+          },
+          {
+            "candidate_name": "Andrew Shelley",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATELAR-26-JEME",
+        "seat": "LA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Julie Emerson",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Julia Letlow",
+            "source": "primary",
+            "score": 0.48
+          },
+          {
+            "candidate_name": "John Fleming",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Mark Spencer",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENHR-26-DINN",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Dan Innis",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Sununu",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Tejasinha Sivalingam",
+            "source": "primary",
+            "score": 0.2759
+          },
+          {
+            "candidate_name": "Charlie Hough",
+            "source": "primary",
+            "score": 0.1818
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENJR-26-VBRA",
+        "seat": "NJ-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Vinnie Brand",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alex Zdan",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Justin Murphy",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Richard Tabor",
+            "source": "primary",
+            "score": 0.32
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-GDRU",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Gentner Drummond",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Hern",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "Gary England",
+            "source": "primary",
+            "score": 0.3571
+          },
+          {
+            "candidate_name": "Sean Buckner",
+            "source": "primary",
+            "score": 0.3571
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-RMEI",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Ron Meinhardt",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Brian Ragain",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Kevin Hern",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Nick Hankins",
+            "source": "primary",
+            "score": 0.32
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOKR-26-SBIC",
+        "seat": "OK-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 2.0,
+        "kalshi_candidate_name": "Stephanie Bice",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Sean Buckner",
+            "source": "primary",
+            "score": 0.6154
+          },
+          {
+            "candidate_name": "Tammy Swearengin",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Wayne Washington",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEIAR-26-MWHI",
+        "seat": "IA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.9,
+        "kalshi_candidate_name": "Matthew Whitaker",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ashley Hinson",
+            "source": "primary",
+            "score": 0.4138
+          },
+          {
+            "candidate_name": "Jim Carlin",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEVAD-26-MMOR",
+        "seat": "VA-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.9,
+        "kalshi_candidate_name": "Mark Moran",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mark Warner",
+            "source": "primary",
+            "score": 0.6667
+          },
+          {
+            "candidate_name": "Lorita Daniels",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Jason Reynolds",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEWVR-26-JMCN",
+        "seat": "WV-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.6,
+        "kalshi_candidate_name": "Janey McNulty",
+        "ballotpedia_candidate_name": "Janet McNulty",
+        "match_confidence_tier": "C",
+        "match_reason_code": "review_similarity_band",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Janet McNulty",
+            "source": "primary",
+            "score": 0.9
+          },
+          {
+            "candidate_name": "Shelley Moore Capito",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Alexander Gaaserud",
+            "source": "primary",
+            "score": 0.3226
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXKXSENATEIAD-26-NSAG",
+        "seat": "IA-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.5,
+        "kalshi_candidate_name": "Nathan Sage",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Zach Wahls",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Josh Turek",
+            "source": "primary",
+            "score": 0.1905
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENHD-26-JSUL",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.5,
+        "kalshi_candidate_name": "Jared Sullivan",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Karishma Manzur",
+            "source": "primary",
+            "score": 0.3448
+          },
+          {
+            "candidate_name": "Chris Pappas",
+            "source": "primary",
+            "score": 0.1538
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-BRAF",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.3,
+        "kalshi_candidate_name": "Brad Raffensperger",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Earl Carter",
+            "source": "primary",
+            "score": 0.3448
+          },
+          {
+            "candidate_name": "Derek Dooley",
+            "source": "primary",
+            "score": 0.2667
+          },
+          {
+            "candidate_name": "Mike Collins",
+            "source": "primary",
+            "score": 0.2
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATESCR-26-TMUR",
+        "seat": "SC-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.2,
+        "kalshi_candidate_name": "Thomas Murphy",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Thomas Dismukes",
+            "source": "primary",
+            "score": 0.6429
+          },
+          {
+            "candidate_name": "Darius Mitchell",
+            "source": "primary",
+            "score": 0.3571
+          },
+          {
+            "candidate_name": "Mark Lynch",
+            "source": "primary",
+            "score": 0.3478
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEALR-26-BPEA",
+        "seat": "AL-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Bruce Pearl",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Rodney Walker",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Steve Marshall",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Dale Shelton Deas Jr.",
+            "source": "primary",
+            "score": 0.3226
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEALR-26-JSPRAT",
+        "seat": "AL-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jeremy Spratling",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jared Hudson",
+            "source": "primary",
+            "score": 0.4286
+          },
+          {
+            "candidate_name": "Steve Marshall",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Seth Burton",
+            "source": "primary",
+            "score": 0.2963
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEALR-26-MBRO",
+        "seat": "AL-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Mo Brooks",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Seth Burton",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Morgan Murphy",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Barry Moore",
+            "source": "primary",
+            "score": 0.3
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEALR-26-PFIN",
+        "seat": "AL-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Paul Finebaum",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Dale Shelton Deas Jr.",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Barry Moore",
+            "source": "primary",
+            "score": 0.25
+          },
+          {
+            "candidate_name": "Jared Hudson",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATECOD-26-NMIN",
+        "seat": "CO-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Nichole Miner",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Anthony Zimpfer",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "John Hickenlooper",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Karen Breslin",
+            "source": "primary",
+            "score": 0.3077
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-AH",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Ashton Hayward",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ashley B. Moody",
+            "source": "primary",
+            "score": 0.3571
+          },
+          {
+            "candidate_name": "Chris Gleason",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Michaelangelo Hamilton",
+            "source": "primary",
+            "score": 0.2778
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-CDS",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Casey DeSantis",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.6207
+          },
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Ashley B. Moody",
+            "source": "primary",
+            "score": 0.4286
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-HMUJ",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Hector Mujica",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alex Vindman",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Shawn Bettis",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Charles Gould",
+            "source": "primary",
+            "score": 0.3077
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-JU",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "James Uthmeier",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Neelam Perry",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "Jake Lang",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Ashley Baptiste",
+            "source": "primary",
+            "score": 0.3448
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-JJEN",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jennifer Jenkins",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Dennis Stevens",
+            "source": "primary",
+            "score": 0.5333
+          },
+          {
+            "candidate_name": "Joey Mendoza Atkins",
+            "source": "primary",
+            "score": 0.4571
+          },
+          {
+            "candidate_name": "Frank DiMola",
+            "source": "primary",
+            "score": 0.3571
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLD-26-JWEI",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Josh Weil",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Shawn Bettis",
+            "source": "primary",
+            "score": 0.4762
+          },
+          {
+            "candidate_name": "Dennis Stevens",
+            "source": "primary",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Joey Mendoza Atkins",
+            "source": "primary",
+            "score": 0.2143
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEFLR-26-LT",
+        "seat": "FL-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Lara Trump",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "A.C. Toulme",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Neelam Perry",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Ashley B. Moody",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-BK",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Brian Kemp",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.3
+          },
+          {
+            "candidate_name": "Jonathan McColumn",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Earl Carter",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-JKIN",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "John King",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.6316
+          },
+          {
+            "candidate_name": "Jonathan McColumn",
+            "source": "primary",
+            "score": 0.4615
+          },
+          {
+            "candidate_name": "Mike Collins",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-MTG",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Marjorie Taylor-Greene",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.375
+          },
+          {
+            "candidate_name": "Mike Collins",
+            "source": "primary",
+            "score": 0.3529
+          },
+          {
+            "candidate_name": "Earl Carter",
+            "source": "primary",
+            "score": 0.303
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-RB",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Reagan Box",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jonathan McColumn",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Derek Dooley",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.3
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEGAR-26-RMCC",
+        "seat": "GA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Rich McCormick",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jonathan McColumn",
+            "source": "primary",
+            "score": 0.4516
+          },
+          {
+            "candidate_name": "Mike Collins",
+            "source": "primary",
+            "score": 0.3846
+          },
+          {
+            "candidate_name": "John Coyne",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXKXSENATEIAD-26-JSCH",
+        "seat": "IA-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "J.D. Scholten",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Josh Turek",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Zach Wahls",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-AGIA",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Alexi Giannoulias",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Ryan",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Adam Delgado",
+            "source": "primary",
+            "score": 0.3448
+          },
+          {
+            "candidate_name": "Awisi Bustos",
+            "source": "primary",
+            "score": 0.3448
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-AMIN",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Austin Mink",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jonathan Dean",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Kevin Ryan",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Sean Brown",
+            "source": "primary",
+            "score": 0.381
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-DDUR",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Dick Durbin",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Robin Kelly",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Juliana Stratton",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Kevin Ryan",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILR-26-DBEN",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Doug Bennett",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Don Tracy",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Jeannie Evans",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Pamela Denise Long",
+            "source": "primary",
+            "score": 0.2667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-JPRI",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "JB Pritzker",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Robin Kelly",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Christopher Swann",
+            "source": "primary",
+            "score": 0.3571
+          },
+          {
+            "candidate_name": "Raja Krishnamoorthi",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILR-26-JGOO",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "John Goodman",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Don Tracy",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Jimmy Lee Tillman II",
+            "source": "primary",
+            "score": 0.3125
+          },
+          {
+            "candidate_name": "Jeannie Evans",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-KRAO",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Kwame Raoul",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Ryan",
+            "source": "primary",
+            "score": 0.4762
+          },
+          {
+            "candidate_name": "Adam Delgado",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Juliana Stratton",
+            "source": "primary",
+            "score": 0.3704
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-LUND",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Lauren Underwood",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Adam Delgado",
+            "source": "primary",
+            "score": 0.3571
+          },
+          {
+            "candidate_name": "Jonathan Dean",
+            "source": "primary",
+            "score": 0.3448
+          },
+          {
+            "candidate_name": "Kevin Ryan",
+            "source": "primary",
+            "score": 0.3077
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-MSHI",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Meredith Shiner",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Kevin Ryan",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Christopher Swann",
+            "source": "primary",
+            "score": 0.3125
+          },
+          {
+            "candidate_name": "Steve Botsford Jr.",
+            "source": "primary",
+            "score": 0.3125
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-MFRE",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Michael Frerichs",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Christopher Swann",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Steve Botsford Jr.",
+            "source": "primary",
+            "score": 0.303
+          },
+          {
+            "candidate_name": "Raja Krishnamoorthi",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-REMA",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Rahm Emanuel",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Bryan Maxwell",
+            "source": "primary",
+            "score": 0.56
+          },
+          {
+            "candidate_name": "Adam Delgado",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Jonathan Dean",
+            "source": "primary",
+            "score": 0.4
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-RPET",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Robert Peters",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Christopher Swann",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Robin Kelly",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Raja Krishnamoorthi",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEILD-26-RBLA",
+        "seat": "IL-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Rod Blajegovich",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Robin Kelly",
+            "source": "primary",
+            "score": 0.3077
+          },
+          {
+            "candidate_name": "Raja Krishnamoorthi",
+            "source": "primary",
+            "score": 0.2941
+          },
+          {
+            "candidate_name": "Steve Botsford Jr.",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKSD-26-LKEL",
+        "seat": "KS-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Laura Kelly",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Erik Murray",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Anne Parelkar",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Sandy Spidel Neumann",
+            "source": "primary",
+            "score": 0.2581
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKSD-26-MHOL",
+        "seat": "KS-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Mark Holland",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Patrick Schmidt",
+            "source": "primary",
+            "score": 0.4444
+          },
+          {
+            "candidate_name": "Erik Murray",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Anne Parelkar",
+            "source": "primary",
+            "score": 0.32
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKYD-26-RADK",
+        "seat": "KY-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Rocky Adkins",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Dale Romans",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Amy McGrath",
+            "source": "primary",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Charles Booker",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEKYR-26-SJEN",
+        "seat": "KY-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Scott Jennings",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Donald Wenzel",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Anissa Catlett",
+            "source": "primary",
+            "score": 0.2857
+          },
+          {
+            "candidate_name": "George Washington",
+            "source": "primary",
+            "score": 0.2581
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATELAR-26-BMIG",
+        "seat": "LA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Blake Miguez",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Fleming",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Bill Cassidy",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Mark Spencer",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATELAR-26-ESKR",
+        "seat": "LA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Eric Skrmetta",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Julia Letlow",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Bill Cassidy",
+            "source": "primary",
+            "score": 0.24
+          },
+          {
+            "candidate_name": "John Fleming",
+            "source": "primary",
+            "score": 0.16
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATELAR-26-KSEI",
+        "seat": "LA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Kathy Seiden",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Fleming",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Mark Spencer",
+            "source": "primary",
+            "score": 0.4167
+          },
+          {
+            "candidate_name": "Bill Cassidy",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATELAR-26-SWYA",
+        "seat": "LA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Sammy Wyatt",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Julia Letlow",
+            "source": "primary",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Bill Cassidy",
+            "source": "primary",
+            "score": 0.1739
+          },
+          {
+            "candidate_name": "John Fleming",
+            "source": "primary",
+            "score": 0.087
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMAD-26-APRE",
+        "seat": "MA-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Ayanna Pressley",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alexander Rikleen",
+            "source": "primary",
+            "score": 0.4375
+          },
+          {
+            "candidate_name": "Edward J. Markey",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "William Gates",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMED-26-CP",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Chellie Pingree",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Graham Platner",
+            "source": "primary",
+            "score": 0.3448
+          },
+          {
+            "candidate_name": "David Costello",
+            "source": "primary",
+            "score": 0.2759
+          },
+          {
+            "candidate_name": "Andrea LaFlamme",
+            "source": "primary",
+            "score": 0.2667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMED-26-DKLEB",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Dan Kleban",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Andrea LaFlamme",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Janet T. Mills",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "David Costello",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMED-26-JG",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jared Golden",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Andrea LaFlamme",
+            "source": "primary",
+            "score": 0.4444
+          },
+          {
+            "candidate_name": "Janet T. Mills",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "David Costello",
+            "source": "primary",
+            "score": 0.3846
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMED-26-JWOO",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jordan Wood",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "David Costello",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Janet T. Mills",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Graham Platner",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMED-26-TJ",
+        "seat": "ME-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Troy Jackson",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Janet T. Mills",
+            "source": "primary",
+            "score": 0.24
+          },
+          {
+            "candidate_name": "Andrea LaFlamme",
+            "source": "primary",
+            "score": 0.2222
+          },
+          {
+            "candidate_name": "David Costello",
+            "source": "primary",
+            "score": 0.1538
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMID-26-ALEV",
+        "seat": "MI-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Andy Levin",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Haley Stevens",
+            "source": "primary",
+            "score": 0.5217
+          },
+          {
+            "candidate_name": "Abdul El-Sayed",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Travis Zollner",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMID-26-DNES",
+        "seat": "MI-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Dana Nessel",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Abdul El-Sayed",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Travis Zollner",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Haley Stevens",
+            "source": "primary",
+            "score": 0.25
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMID-26-KMCD",
+        "seat": "MI-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Kristen McDonald Rivet",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Mallory McMorrow",
+            "source": "primary",
+            "score": 0.3158
+          },
+          {
+            "candidate_name": "Haley Stevens",
+            "source": "primary",
+            "score": 0.2857
+          },
+          {
+            "candidate_name": "Travis Zollner",
+            "source": "primary",
+            "score": 0.2778
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMID-26-RTLA",
+        "seat": "MI-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Rashida Tlaib",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Travis Zollner",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "Rachel Howard",
+            "source": "primary",
+            "score": 0.3077
+          },
+          {
+            "candidate_name": "Haley Stevens",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMID-26-SANT",
+        "seat": "MI-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Sarah Anthony",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Travis Zollner",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Mallory McMorrow",
+            "source": "primary",
+            "score": 0.2759
+          },
+          {
+            "candidate_name": "Abdul El-Sayed",
+            "source": "primary",
+            "score": 0.2222
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-BMCC",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Betty McCollum",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.2857
+          },
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-DWEL",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "David Wellstone",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.2308
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.1379
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-IOMA",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Ilhan Omar",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.5
+          },
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-JFRE",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jacob Frey",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.2857
+          },
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.2
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMNR-26-JCOL",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Julia Coleman",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alycia Gruenhagen",
+            "source": "primary",
+            "score": 0.4667
+          },
+          {
+            "candidate_name": "Michele Tafoya",
+            "source": "primary",
+            "score": 0.3704
+          },
+          {
+            "candidate_name": "David Hann",
+            "source": "primary",
+            "score": 0.3478
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-KELL",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Keith Ellison",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMNR-26-KROB",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Kristin Robbins",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Christopher Brooks",
+            "source": "primary",
+            "score": 0.4848
+          },
+          {
+            "candidate_name": "Mike Ruoho",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "David Hann",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-MLOP",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Melisa López Franzen",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.4118
+          },
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.2667
+          },
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.2581
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-MHOR",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Melissa Hortman",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.2759
+          },
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.1538
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMND-26-SSIM",
+        "seat": "MN-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Steve Simon",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Angie Craig",
+            "source": "primary",
+            "score": 0.2727
+          },
+          {
+            "candidate_name": "Peggy Flanagan",
+            "source": "primary",
+            "score": 0.24
+          },
+          {
+            "candidate_name": "Billy Nord",
+            "source": "primary",
+            "score": 0.1905
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENHR-26-CS",
+        "seat": "NH-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Chris Sununu",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "last_name_only_conflict",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Sununu",
+            "source": "primary",
+            "score": 0.6957
+          },
+          {
+            "candidate_name": "Charlie Hough",
+            "source": "primary",
+            "score": 0.48
+          },
+          {
+            "candidate_name": "Scott Brown",
+            "source": "primary",
+            "score": 0.2609
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENJR-26-MTES",
+        "seat": "NJ-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Mike Testa",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Richard Tabor",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Alex Zdan",
+            "source": "primary",
+            "score": 0.3158
+          },
+          {
+            "candidate_name": "Justin Murphy",
+            "source": "primary",
+            "score": 0.1739
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATENJR-26-NRIV",
+        "seat": "NJ-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Natalie Rivera",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Alex Zdan",
+            "source": "primary",
+            "score": 0.4348
+          },
+          {
+            "candidate_name": "Richard Tabor",
+            "source": "primary",
+            "score": 0.2963
+          },
+          {
+            "candidate_name": "Justin Murphy",
+            "source": "primary",
+            "score": 0.2222
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSD-26-AR",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Allison Russo",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ron Kincaid",
+            "source": "primary",
+            "score": 0.25
+          },
+          {
+            "candidate_name": "Sherrod Brown",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-DY",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Dave Yost",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.3158
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-FLR",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Frank LaRose",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.3636
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSD-26-GL",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Greg Landsman",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ron Kincaid",
+            "source": "primary",
+            "score": 0.3333
+          },
+          {
+            "candidate_name": "Sherrod Brown",
+            "source": "primary",
+            "score": 0.2308
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-JT",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jane Timken",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.2857
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-JS",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Jason Stephens",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.5833
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-JM",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Josh Mandel",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.381
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-MD",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Matt Dolan",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.2
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-MH",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Matt Huffman",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-MCO",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Mehek Cooke",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.0952
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-MC",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Mike Carey",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.1
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-MDW",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Mike DeWine",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.1905
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-RS",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Robert Sprague",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.1667
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-SK",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Sharon Kennedy",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.4167
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-VR",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Vivek Ramaswamy",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.08
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSR-26-WD",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Warren Davidson",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Jon Husted",
+            "source": "primary",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATESCR-26-PDANS",
+        "seat": "SC-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Paul Dans",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Patrick Herrmann",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Calvin Cowen",
+            "source": "primary",
+            "score": 0.381
+          },
+          {
+            "candidate_name": "Thomas Dismukes",
+            "source": "primary",
+            "score": 0.3333
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEVAR-26-BREE",
+        "seat": "VA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 1.0,
+        "kalshi_candidate_name": "Bryce Reeves",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Bert Mizusawa",
+            "source": "primary",
+            "score": 0.32
+          },
+          {
+            "candidate_name": "Chuck Smith",
+            "source": "primary",
+            "score": 0.2609
+          },
+          {
+            "candidate_name": "Alex De Paula",
+            "source": "primary",
+            "score": 0.16
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEIAR-26-PGRA",
+        "seat": "IA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 0.9,
+        "kalshi_candidate_name": "Pat Grassley",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Ashley Hinson",
+            "source": "primary",
+            "score": 0.4
+          },
+          {
+            "candidate_name": "Jim Carlin",
+            "source": "primary",
+            "score": 0.2727
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMID-26-MSAH",
+        "seat": "MI-SEN-C2",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 0.9,
+        "kalshi_candidate_name": "Matt Sahr",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Rachel Howard",
+            "source": "primary",
+            "score": 0.3636
+          },
+          {
+            "candidate_name": "Abdul El-Sayed",
+            "source": "primary",
+            "score": 0.3478
+          },
+          {
+            "candidate_name": "Mallory McMorrow",
+            "source": "primary",
+            "score": 0.32
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEOHSD-26-TR",
+        "seat": "OH-SEN-C3-SPL",
+        "round": "primary",
+        "party": "D",
+        "oddsPercent": 0.9,
+        "kalshi_candidate_name": "Tim Ryan",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "waived_unresolved",
+        "review_status": "waived",
+        "review_recommendation": "source_data_issue",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "Sherrod Brown",
+            "source": "primary",
+            "score": 0.2857
+          },
+          {
+            "candidate_name": "Ron Kincaid",
+            "source": "primary",
+            "score": 0.2105
+          }
+        ]
+      },
+      {
+        "market_ticker": "KXSENATEMAR-26-CTHR",
+        "seat": "MA-SEN-C2",
+        "round": "primary",
+        "party": "R",
+        "oddsPercent": 0.0,
+        "kalshi_candidate_name": "Christopher Thrasher",
+        "ballotpedia_candidate_name": "",
+        "match_confidence_tier": "D",
+        "match_reason_code": "no_candidate_above_threshold",
+        "review_status": "pending",
+        "review_recommendation": "pending",
+        "top_candidate_suggestions": [
+          {
+            "candidate_name": "John Deaton",
+            "source": "primary",
+            "score": 0.1935
+          },
+          {
+            "candidate_name": "Nathan Bech",
+            "source": "primary",
+            "score": 0.129
+          }
+        ]
+      }
+    ]
+  }
+}

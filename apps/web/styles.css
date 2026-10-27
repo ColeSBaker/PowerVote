@@ -1,0 +1,601 @@
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  line-height: 1.4;
+  color: #0f172a;
+  background: #f8fafc;
+}
+body { margin: 0; }
+.app-shell { max-width: 1080px; margin: 0 auto; padding: 2rem 1rem; }
+.page-nav {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.page-nav__link {
+  text-decoration: none;
+  border: 1px solid #cbd5e1;
+  background: #fff;
+  color: #0f172a;
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  font-weight: 600;
+}
+.page-nav__link--active {
+  background: #dbeafe;
+  border-color: #60a5fa;
+  color: #1d4ed8;
+}
+.lookup-panel, .map-panel {
+  background: #fff;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+.lookup-row { display: flex; gap: .75rem; margin-top: .5rem; }
+input { flex: 1; border: 1px solid #94a3b8; border-radius: .5rem; padding: .6rem .75rem; }
+button { border: 0; border-radius: .5rem; padding: .6rem 1rem; background: #2563eb; color: #fff; font-weight: 600; }
+.status-message { color: #b91c1c; min-height: 1.25rem; }
+.status-message--neutral { color: #334155; }
+.lookup-result { min-height: 1.25rem; }
+.state { stroke-width: 1.4; stroke-linejoin: round; stroke-linecap: round; cursor: pointer; transition: fill 120ms ease, stroke 120ms ease, transform 120ms ease; }
+.state.match { fill: #60a5fa; stroke: #1d4ed8; }
+.state.no-match { fill: #e2e8f0; stroke: #64748b; }
+.state:hover { fill: #93c5fd; }
+.state-group:hover .label { font-weight: 700; }
+.state.selected { stroke: #7c3aed; stroke-width: 3.2; }
+.label { font-size: 10px; fill: #0f172a; pointer-events: none; text-anchor: middle; }
+
+.state-market-panel {
+  margin-top: 1rem;
+  border-top: 1px solid #e2e8f0;
+  padding-top: 1rem;
+}
+
+.filters-panel {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem 1rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.filter-group h3 {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.toggle-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.4rem;
+}
+
+.toggle-controls {
+  width: 100%;
+}
+
+.toggle-all-button {
+  border: 1px solid #cbd5e1;
+  border-radius: 999px;
+  padding: 0.18rem 0.6rem;
+  background: #fff;
+  color: #0f172a;
+  font-size: 0.78rem;
+}
+
+.toggle-item {
+  font-size: 0.82rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: #f8fafc;
+}
+
+.toggle-item input {
+  margin: 0;
+}
+
+.market-summary {
+  margin: 0.25rem 0 0.75rem;
+}
+.market-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  max-height: 320px;
+  overflow-y: auto;
+}
+.market-item {
+  margin-bottom: 0.65rem;
+}
+.market-title {
+  margin: 0;
+  font-weight: 600;
+}
+.market-meta {
+  margin: 0.15rem 0 0;
+  font-size: 0.88rem;
+  color: #334155;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+
+.candidate-list {
+  margin: 0.5rem 0 0;
+  padding-left: 1.15rem;
+}
+
+.candidate-list li {
+  margin-bottom: 0.2rem;
+}
+
+.candidate-market-meta {
+  color: #64748b;
+  font-size: 0.82rem;
+}
+
+.congressional-layout {
+  display: grid;
+  grid-template-columns: minmax(260px, 320px) minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.congressional-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.congressional-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  padding: 0.9rem 1rem;
+  background: #f8fafc;
+}
+
+.congressional-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.congressional-notes {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: #334155;
+}
+
+
+.scheme-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.scheme-control__label {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.scheme-control__select {
+  width: 100%;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.5rem;
+  background: #ffffff;
+  color: #0f172a;
+  font: inherit;
+}
+
+.scheme-control__description {
+  margin-top: 0.75rem;
+  color: #334155;
+}
+
+.district-detail-view-control {
+  margin-bottom: 0.75rem;
+}
+
+.map-panel--full {
+  margin-top: 0;
+  overflow: hidden;
+}
+
+.congressional-status-panel {
+  margin-top: 1rem;
+}
+
+.congressional-status-panel .congressional-card {
+  background: #fff;
+}
+
+#district-map {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%);
+  border-radius: 0.6rem;
+}
+
+.district-fill {
+  fill: var(--district-fill, #bfdbfe);
+  stroke: #ffffff;
+  stroke-width: 0.7;
+  vector-effect: non-scaling-stroke;
+  transition: fill 120ms ease;
+}
+
+.district-fill:hover,
+.district-fill.is-active {
+  fill: var(--district-fill-hover, #60a5fa);
+}
+
+.district-label {
+  font-size: 11px;
+  fill: #0f172a;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+@media (max-width: 900px) {
+  .congressional-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.district-market-summary {
+  margin-top: 0.75rem;
+}
+
+.district-market-list {
+  margin: 0.75rem 0 0;
+  padding-left: 1rem;
+  max-height: 24rem;
+  overflow-y: auto;
+}
+
+.district-market-item {
+  margin-bottom: 0.85rem;
+}
+
+.district-party-view-list {
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.district-party-view-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  padding: 0.75rem 0.9rem;
+  background: #fff;
+}
+
+.district-party-view-card__title {
+  margin: 0 0 0.35rem;
+  font-weight: 700;
+}
+
+.district-party-view-metrics {
+  margin: 0;
+  padding-left: 1rem;
+  color: #334155;
+}
+
+.district-party-view-metrics li {
+  margin-bottom: 0.2rem;
+}
+
+.district-market-item__title {
+  margin: 0;
+  font-weight: 600;
+}
+
+.district-market-item__meta,
+.district-market-item__detail {
+  margin: 0.15rem 0 0;
+  color: #334155;
+  font-size: 0.86rem;
+}
+
+
+.district-fill {
+  cursor: pointer;
+}
+
+.district-fill.is-active {
+  fill: #60a5fa;
+}
+
+.district-fill.is-pinned {
+  fill: var(--district-fill-pinned, #2563eb);
+  stroke: #1d4ed8;
+  stroke-width: 1.4;
+}
+
+.district-fill:focus-visible {
+  outline: none;
+  fill: #60a5fa;
+  stroke: #1d4ed8;
+  stroke-width: 1.4;
+}
+
+.district-selection-hint {
+  margin-top: 0.5rem;
+  color: #334155;
+}
+
+.district-market-card {
+  list-style: none;
+  margin-left: 0;
+}
+
+.district-election-summary {
+  margin-top: 0.75rem;
+}
+
+.district-candidate-groups {
+  margin: 0.75rem 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.district-candidate-group {
+  border: 1px solid #dbe4ee;
+  border-radius: 0.65rem;
+  background: #fff;
+  padding: 0.75rem;
+  margin-bottom: 0.65rem;
+}
+
+.district-candidate-group__title {
+  margin: 0 0 0.5rem;
+  font-size: 0.92rem;
+}
+
+.district-candidate-group__list {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.district-candidate-group__list li + li {
+  margin-top: 0.25rem;
+}
+
+.district-candidate-meta {
+  color: #64748b;
+  font-size: 0.82rem;
+}
+
+.district-candidate-odds {
+  margin-left: 0.35rem;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.debug-controls-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.debug-controls-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem 1rem;
+}
+
+.debug-layout {
+  display: grid;
+  grid-template-columns: minmax(260px, 320px) minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.debug-seat-list-panel {
+  border-right: 1px solid #e2e8f0;
+  padding-right: 1rem;
+}
+
+.debug-seat-list-panel h2 {
+  margin-top: 0;
+}
+
+.debug-seat-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.debug-seat-list__item + .debug-seat-list__item {
+  margin-top: 0.6rem;
+}
+
+.debug-seat-list__empty {
+  color: #475569;
+}
+
+.debug-seat-button {
+  width: 100%;
+  border: 1px solid #dbe4ee;
+  border-radius: 0.75rem;
+  padding: 0.75rem;
+  background: #f8fafc;
+  color: #0f172a;
+  text-align: left;
+}
+
+.debug-seat-button--active {
+  border-color: #60a5fa;
+  background: #eff6ff;
+}
+
+.debug-seat-button__title,
+.debug-seat-button__meta,
+.debug-seat-button__badges {
+  display: block;
+}
+
+.debug-seat-button__title {
+  font-weight: 700;
+}
+
+.debug-seat-button__meta {
+  margin-top: 0.15rem;
+  color: #475569;
+  font-size: 0.85rem;
+}
+
+.debug-seat-button__badges {
+  margin-top: 0.55rem;
+}
+
+.debug-badge {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #cbd5e1;
+  border-radius: 999px;
+  padding: 0.15rem 0.55rem;
+  margin-right: 0.35rem;
+  margin-bottom: 0.35rem;
+  font-size: 0.75rem;
+  color: #64748b;
+  background: #fff;
+}
+
+.debug-badge--active {
+  border-color: #60a5fa;
+  color: #1d4ed8;
+  background: #dbeafe;
+}
+
+.debug-seat-detail-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.debug-source-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.debug-source-card {
+  min-height: 18rem;
+}
+
+.debug-source-card h2 {
+  margin-bottom: 0.75rem;
+}
+
+.debug-source-card--wide {
+  grid-column: 1 / -1;
+}
+
+.debug-candidate-list--unified {
+  padding-left: 0;
+  list-style: none;
+}
+
+.debug-candidate-list__item--unified {
+  padding: 1rem;
+  border: 1px solid #dbe3ef;
+  border-radius: 0.75rem;
+  background: #f8fafc;
+}
+
+.debug-unified-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.debug-unified-badges {
+  margin-top: 0.5rem;
+}
+
+.debug-source-content {
+  color: #0f172a;
+}
+
+.debug-source-summary {
+  margin-top: 0;
+  color: #334155;
+}
+
+.debug-definition-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.debug-definition-list dt {
+  font-weight: 700;
+}
+
+.debug-definition-list dd {
+  margin: 0.1rem 0 0;
+  color: #334155;
+}
+
+.debug-subsection + .debug-subsection {
+  margin-top: 1rem;
+}
+
+.debug-subsection h3 {
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.debug-candidate-list,
+.debug-line-list,
+.debug-market-list {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.debug-candidate-list__item,
+.debug-market-list__item {
+  margin-bottom: 0.75rem;
+}
+
+.debug-inline-meta {
+  margin-top: 0.15rem;
+  color: #475569;
+  font-size: 0.84rem;
+}
+
+.debug-market-details {
+  margin-top: 0.35rem;
+}
+
+.debug-market-details__content {
+  margin-top: 0.35rem;
+  color: #334155;
+  font-size: 0.88rem;
+}
+
+@media (max-width: 900px) {
+  .debug-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .debug-seat-list-panel {
+    border-right: 0;
+    padding-right: 0;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 1rem;
+  }
+}

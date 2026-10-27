@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PowerVote Congressional Map</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <nav class="page-nav" aria-label="Application pages">
+        <a class="page-nav__link" href="./index.html">State lookup map</a>
+        <a class="page-nav__link page-nav__link--active" href="./congressional-map.html" aria-current="page">Congressional district map</a>
+              <a class="page-nav__link" href="./us-house-seat-debug.html">House seat debug view</a>
+      </nav>
+
+      <header>
+        <h1>PowerVote: Contiguous U.S. Congressional Districts</h1>
+        <p>
+          Faithful GIS-rendered congressional districts for the contiguous United States. Alaska and Hawaii are intentionally excluded for now.
+        </p>
+      </header>
+
+      <section class="lookup-panel congressional-layout">
+        <div class="congressional-sidebar">
+          <div class="congressional-card">
+            <h2>Color scheme</h2>
+            <label class="scheme-control" for="district-color-scheme">
+              <span class="scheme-control__label">District fill colors</span>
+              <select id="district-color-scheme" class="scheme-control__select">
+                <option value="contention">Contention</option>
+                <option value="incumbents">Incumbents</option>
+                <option value="market_odds">Market Odds</option>
+                <option value="primary">Primary</option>
+              </select>
+            </label>
+            <p id="district-color-scheme-description" class="lookup-result scheme-control__description">
+              Contention colors districts by how competitive the current race is.
+            </p>
+          </div>
+
+          <div class="congressional-card">
+            <h2>District details</h2>
+            <label class="scheme-control" for="district-election-view">
+              <span class="scheme-control__label">Election mode</span>
+              <select id="district-election-view" class="scheme-control__select">
+                <option value="primary">Primary</option>
+                <option value="general" selected>General</option>
+              </select>
+            </label>
+            <label class="scheme-control district-detail-view-control" for="district-detail-view">
+              <span class="scheme-control__label">Details panel</span>
+              <select id="district-detail-view" class="scheme-control__select">
+                <option value="candidate">Candidate View</option>
+                <option value="party">Party View</option>
+              </select>
+            </label>
+            <p class="selection-summary"><strong>Selected district:</strong> <span id="district-selected">None yet</span></p>
+            <p id="district-meta" class="lookup-result">Hover over or click the map to inspect a congressional district.</p>
+            <p id="district-selection-hint" class="lookup-result district-selection-hint">Hover previews a district. Click to pin it for full viewing; click the same district again to release it.</p>
+            <div id="district-election-summary" class="lookup-result district-election-summary">Official 2026 filing data will appear here for the selected district.</div>
+            <ul id="district-candidate-groups" class="district-candidate-groups" aria-label="Official candidates grouped by party"></ul>
+            <div id="district-market-summary" class="lookup-result district-market-summary">Kalshi data will appear here for the selected district.</div>
+            <ul id="district-market-list" class="district-market-list" aria-label="Kalshi district markets"></ul>
+          </div>
+
+          <div class="congressional-card">
+            <h2>Rendering notes</h2>
+            <ul class="congressional-notes">
+              <li>District polygons are drawn with a geographic projection rather than approximate state tiles.</li>
+              <li>The fitted projection preserves a north-up, west-left orientation inside the SVG viewport.</li>
+              <li>The loader first looks for local GIS files and then falls back to official ArcGIS-hosted services if local files are unavailable.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="map-panel map-panel--full">
+          <svg
+            id="district-map"
+            viewBox="0 0 1200 760"
+            role="img"
+            aria-label="Congressional district map of the contiguous United States"
+          ></svg>
+        </div>
+      </section>
+
+      <section class="lookup-panel congressional-status-panel" aria-label="Map status panel">
+        <div class="congressional-card">
+          <h2>Map status</h2>
+          <p id="district-map-status" class="status-message status-message--neutral">Loading GIS layers…</p>
+          <p class="lookup-result" id="district-map-source"></p>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./congressional-map.js"></script>
+  </body>
+</html>

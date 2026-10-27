@@ -1,0 +1,134 @@
+name: Daily Rollup ETL
+
+on:
+  schedule:
+    # 10:20 UTC daily (~6:20 AM ET) — runs after market open
+    - cron: "20 10 * * *"
+  workflow_dispatch:
+    inputs:
+      skip_frontend_tests:
+        description: "Skip frontend (npm) tests"
+        type: boolean
+        default: false
+      skip_db_load:
+        description: "Skip PostgreSQL load/promote"
+        type: boolean
+        default: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required for git push of data artifacts
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_DB: powervote
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    env:
+      DATABASE_URL: postgresql://postgres:postgres@localhost:5432/powervote
+      DEPLOY_HOOK_URL: ${{ secrets.POWERVOTE_DEPLOY_HOOK_URL }}
+      CLOUDFLARE_R2_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_R2_ACCOUNT_ID }}
+      CLOUDFLARE_R2_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
+      CLOUDFLARE_R2_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
+      POWERVOTE_CDN_BASE_URL: ${{ secrets.POWERVOTE_CDN_BASE_URL }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Python runtime deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run daily refresh pipeline
+        run: |
+          python scripts/pipeline/run_daily_refresh.py --database-url "$DATABASE_URL" --deploy-hook-url "$DEPLOY_HOOK_URL"
+
+      - name: Install web-next dependencies
+        if: success()
+        run: npm --prefix apps/web-next ci
+
+      - name: Generate static artifacts
+        if: success()
+        run: npm --prefix apps/web-next run generate:static
+
+      - name: Upload CDN assets to R2
+        if: success()
+        run: python scripts/pipeline/upload_cdn_assets.py
+
+      - name: Commit updated data artifacts to main
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apps/web/data/
+          if [ -d apps/web-next/public/data ]; then git add apps/web-next/public/data/; fi
+          if git diff --cached --quiet; then
+            echo "No data changes — skipping commit"
+          else
+            SNAPSHOT_DATE=$(cat apps/web/data/rollup-snapshot-date.txt 2>/dev/null || date -u +%Y-%m-%d)
+            git commit -m "data: daily snapshot ${SNAPSHOT_DATE} [skip ci]"
+            git push
+            echo "Committed and pushed updated data artifacts"
+          fi
+
+      - name: Upload release metadata artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-metadata
+          path: apps/web/data/release-metadata.json
+
+      - name: Upload snapshot manifest artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshot-manifest
+          path: apps/web/data/snapshot_manifest.json
+          if-no-files-found: ignore
+
+      - name: Fire deploy hook
+        if: success() && env.DEPLOY_HOOK_URL != ''
+        run: |
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$DEPLOY_HOOK_URL")
+          if [ "$HTTP_STATUS" -lt 200 ] || [ "$HTTP_STATUS" -ge 300 ]; then
+            echo "Deploy hook returned HTTP $HTTP_STATUS — treating as warning"
+          else
+            echo "Deploy hook fired (HTTP $HTTP_STATUS)"
+          fi
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.POWERVOTE_SLACK_WEBHOOK_URL }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then
+            echo "POWERVOTE_SLACK_WEBHOOK_URL not set — skipping Slack notification"
+            exit 0
+          fi
+          SNAPSHOT_DATE=$(cat apps/web/data/rollup-snapshot-date.txt 2>/dev/null || echo "unknown")
+          RUN_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          PAYLOAD=$(printf '{"text":"*PowerVote ETL failed* :rotating_light:\nSnapshot date: %s\nRun: %s"}' \
+            "$SNAPSHOT_DATE" "$RUN_URL")
+          curl -s -X POST -H "Content-Type: application/json" -d "$PAYLOAD" "$SLACK_WEBHOOK_URL"

@@ -1,0 +1,1163 @@
+{
+  "generatedAt": "2026-04-03T01:37:04.801825+00:00",
+  "scope": "kalshi_phase1_non_map_closeout",
+  "baseline": {
+    "before": {
+      "house_blocking_issue_count": 55,
+      "senate_blocking_issue_count": 24
+    },
+    "after": {
+      "house_blocking_issue_count": 0,
+      "senate_blocking_issue_count": 0,
+      "house_waived_issue_count": 45,
+      "senate_waived_issue_count": 23,
+      "house_top_unresolved_gt2_count": 0,
+      "senate_top_unresolved_gt2_count": 0
+    }
+  },
+  "integrity": {
+    "senate_contest_index_violation_count": 0,
+    "house_contest_index_violation_count": 357
+  },
+  "rollup_match_status": {
+    "generatedAt": "2026-04-03T01:34:33.430865Z",
+    "house": {
+      "general": {
+        "counts": {
+          "total_rows": 435,
+          "matched_rows": 230,
+          "unmatched_rows": 205,
+          "cause_no_market": 205,
+          "cause_no_candidate_in_market": 0,
+          "cause_sum_issue": 0,
+          "match_rate": 0.5287
+        },
+        "unmatched_examples": {
+          "no_market": [
+            {
+              "id": "AL-2",
+              "seat": "AL-2",
+              "state": "AL",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AL-7",
+              "seat": "AL-7",
+              "state": "AL",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AR-1",
+              "seat": "AR-1",
+              "state": "AR",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AR-2",
+              "seat": "AR-2",
+              "state": "AR",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AR-3",
+              "seat": "AR-3",
+              "state": "AR",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AR-4",
+              "seat": "AR-4",
+              "state": "AR",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AZ-3",
+              "seat": "AZ-3",
+              "state": "AZ",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AZ-4",
+              "seat": "AZ-4",
+              "state": "AZ",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AZ-7",
+              "seat": "AZ-7",
+              "state": "AZ",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AZ-8",
+              "seat": "AZ-8",
+              "state": "AZ",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "AZ-9",
+              "seat": "AZ-9",
+              "state": "AZ",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-1",
+              "seat": "CA-1",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-10",
+              "seat": "CA-10",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-11",
+              "seat": "CA-11",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-12",
+              "seat": "CA-12",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-14",
+              "seat": "CA-14",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-15",
+              "seat": "CA-15",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-16",
+              "seat": "CA-16",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-17",
+              "seat": "CA-17",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-18",
+              "seat": "CA-18",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-19",
+              "seat": "CA-19",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-2",
+              "seat": "CA-2",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-20",
+              "seat": "CA-20",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-23",
+              "seat": "CA-23",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            },
+            {
+              "id": "CA-24",
+              "seat": "CA-24",
+              "state": "CA",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "general=0;primary_d=none;primary_r=none"
+            }
+          ],
+          "no_candidate_in_market": [],
+          "sum_issue": []
+        }
+      },
+      "primary": {
+        "counts": {
+          "total_rows": 810,
+          "matched_rows": 112,
+          "unmatched_rows": 698,
+          "cause_no_market": 621,
+          "cause_no_candidate_in_market": 2,
+          "cause_sum_issue": 75,
+          "match_rate": 0.1383
+        },
+        "unmatched_examples": {
+          "no_market": [
+            {
+              "id": "AK-AL-NP-primary-2026",
+              "seat": "AK-AL",
+              "state": "AK",
+              "party": "NP",
+              "primary_id": "AK-AL-NP-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-1-D-primary-2026",
+              "seat": "AL-1",
+              "state": "AL",
+              "party": "D",
+              "primary_id": "AL-1-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-2-D-primary-2026",
+              "seat": "AL-2",
+              "state": "AL",
+              "party": "D",
+              "primary_id": "AL-2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-2-R-primary-2026",
+              "seat": "AL-2",
+              "state": "AL",
+              "party": "R",
+              "primary_id": "AL-2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-3-D-primary-2026",
+              "seat": "AL-3",
+              "state": "AL",
+              "party": "D",
+              "primary_id": "AL-3-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-5-R-primary-2026",
+              "seat": "AL-5",
+              "state": "AL",
+              "party": "R",
+              "primary_id": "AL-5-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-6-D-primary-2026",
+              "seat": "AL-6",
+              "state": "AL",
+              "party": "D",
+              "primary_id": "AL-6-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AL-7-D-primary-2026",
+              "seat": "AL-7",
+              "state": "AL",
+              "party": "D",
+              "primary_id": "AL-7-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-1-D-primary-2026",
+              "seat": "AR-1",
+              "state": "AR",
+              "party": "D",
+              "primary_id": "AR-1-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-1-R-primary-2026",
+              "seat": "AR-1",
+              "state": "AR",
+              "party": "R",
+              "primary_id": "AR-1-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-2-D-primary-2026",
+              "seat": "AR-2",
+              "state": "AR",
+              "party": "D",
+              "primary_id": "AR-2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-2-R-primary-2026",
+              "seat": "AR-2",
+              "state": "AR",
+              "party": "R",
+              "primary_id": "AR-2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-3-D-primary-2026",
+              "seat": "AR-3",
+              "state": "AR",
+              "party": "D",
+              "primary_id": "AR-3-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-3-R-primary-2026",
+              "seat": "AR-3",
+              "state": "AR",
+              "party": "R",
+              "primary_id": "AR-3-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-4-D-primary-2026",
+              "seat": "AR-4",
+              "state": "AR",
+              "party": "D",
+              "primary_id": "AR-4-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-4-R-primary-2026",
+              "seat": "AR-4",
+              "state": "AR",
+              "party": "R",
+              "primary_id": "AR-4-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-1-G-primary-2026",
+              "seat": "AZ-1",
+              "state": "AZ",
+              "party": "G",
+              "primary_id": "AZ-1-G-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-1-L-primary-2026",
+              "seat": "AZ-1",
+              "state": "AZ",
+              "party": "L",
+              "primary_id": "AZ-1-L-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-1-NP-primary-2026",
+              "seat": "AZ-1",
+              "state": "AZ",
+              "party": "NP",
+              "primary_id": "AZ-1-NP-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-2-D-primary-2026",
+              "seat": "AZ-2",
+              "state": "AZ",
+              "party": "D",
+              "primary_id": "AZ-2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-2-L-primary-2026",
+              "seat": "AZ-2",
+              "state": "AZ",
+              "party": "L",
+              "primary_id": "AZ-2-L-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-2-R-primary-2026",
+              "seat": "AZ-2",
+              "state": "AZ",
+              "party": "R",
+              "primary_id": "AZ-2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-3-D-primary-2026",
+              "seat": "AZ-3",
+              "state": "AZ",
+              "party": "D",
+              "primary_id": "AZ-3-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-3-NP-primary-2026",
+              "seat": "AZ-3",
+              "state": "AZ",
+              "party": "NP",
+              "primary_id": "AZ-3-NP-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AZ-3-R-primary-2026",
+              "seat": "AZ-3",
+              "state": "AZ",
+              "party": "R",
+              "primary_id": "AZ-3-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            }
+          ],
+          "no_candidate_in_market": [
+            {
+              "id": "IL-2-R-primary-2026",
+              "seat": "IL-2",
+              "state": "IL",
+              "party": "R",
+              "primary_id": "IL-2-R-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "NY-4-R-primary-2026",
+              "seat": "NY-4",
+              "state": "NY",
+              "party": "R",
+              "primary_id": "NY-4-R-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            }
+          ],
+          "sum_issue": [
+            {
+              "id": "AL-3-R-primary-2026",
+              "seat": "AL-3",
+              "state": "AL",
+              "party": "R",
+              "primary_id": "AL-3-R-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "AL-4-R-primary-2026",
+              "seat": "AL-4",
+              "state": "AL",
+              "party": "R",
+              "primary_id": "AL-4-R-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "AL-5-D-primary-2026",
+              "seat": "AL-5",
+              "state": "AL",
+              "party": "D",
+              "primary_id": "AL-5-D-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "AL-6-R-primary-2026",
+              "seat": "AL-6",
+              "state": "AL",
+              "party": "R",
+              "primary_id": "AL-6-R-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "AZ-1-D-primary-2026",
+              "seat": "AZ-1",
+              "state": "AZ",
+              "party": "D",
+              "primary_id": "AZ-1-D-primary-2026",
+              "kalshi_market_count": "6",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "CO-1-D-primary-2026",
+              "seat": "CO-1",
+              "state": "CO",
+              "party": "D",
+              "primary_id": "CO-1-D-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "DE-AL-R-primary-2026",
+              "seat": "DE-AL",
+              "state": "DE",
+              "party": "R",
+              "primary_id": "DE-AL-R-primary-2026",
+              "kalshi_market_count": "4",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "FL-19-R-primary-2026",
+              "seat": "FL-19",
+              "state": "FL",
+              "party": "R",
+              "primary_id": "FL-19-R-primary-2026",
+              "kalshi_market_count": "7",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-1-D-primary-2026",
+              "seat": "GA-1",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-1-D-primary-2026",
+              "kalshi_market_count": "8",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-1-R-primary-2026",
+              "seat": "GA-1",
+              "state": "GA",
+              "party": "R",
+              "primary_id": "GA-1-R-primary-2026",
+              "kalshi_market_count": "6",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-10-D-primary-2026",
+              "seat": "GA-10",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-10-D-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-10-R-primary-2026",
+              "seat": "GA-10",
+              "state": "GA",
+              "party": "R",
+              "primary_id": "GA-10-R-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-11-D-primary-2026",
+              "seat": "GA-11",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-11-D-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-4-D-primary-2026",
+              "seat": "GA-4",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-4-D-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-7-D-primary-2026",
+              "seat": "GA-7",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-7-D-primary-2026",
+              "kalshi_market_count": "4",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-8-D-primary-2026",
+              "seat": "GA-8",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-8-D-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "GA-9-D-primary-2026",
+              "seat": "GA-9",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-9-D-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IL-15-D-primary-2026",
+              "seat": "IL-15",
+              "state": "IL",
+              "party": "D",
+              "primary_id": "IL-15-D-primary-2026",
+              "kalshi_market_count": "4",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IL-7-D-primary-2026",
+              "seat": "IL-7",
+              "state": "IL",
+              "party": "D",
+              "primary_id": "IL-7-D-primary-2026",
+              "kalshi_market_count": "13",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IL-8-D-primary-2026",
+              "seat": "IL-8",
+              "state": "IL",
+              "party": "D",
+              "primary_id": "IL-8-D-primary-2026",
+              "kalshi_market_count": "8",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IL-8-R-primary-2026",
+              "seat": "IL-8",
+              "state": "IL",
+              "party": "R",
+              "primary_id": "IL-8-R-primary-2026",
+              "kalshi_market_count": "4",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IL-9-D-primary-2026",
+              "seat": "IL-9",
+              "state": "IL",
+              "party": "D",
+              "primary_id": "IL-9-D-primary-2026",
+              "kalshi_market_count": "11",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IN-2-D-primary-2026",
+              "seat": "IN-2",
+              "state": "IN",
+              "party": "D",
+              "primary_id": "IN-2-D-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IN-4-D-primary-2026",
+              "seat": "IN-4",
+              "state": "IN",
+              "party": "D",
+              "primary_id": "IN-4-D-primary-2026",
+              "kalshi_market_count": "9",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IN-5-D-primary-2026",
+              "seat": "IN-5",
+              "state": "IN",
+              "party": "D",
+              "primary_id": "IN-5-D-primary-2026",
+              "kalshi_market_count": "7",
+              "kalshi_join_strategy": "seat_round_party"
+            }
+          ]
+        }
+      }
+    },
+    "senate": {
+      "general": {
+        "counts": {
+          "total_rows": 35,
+          "matched_rows": 34,
+          "unmatched_rows": 1,
+          "cause_no_market": 0,
+          "cause_no_candidate_in_market": 0,
+          "cause_sum_issue": 1,
+          "match_rate": 0.9714
+        },
+        "unmatched_examples": {
+          "no_market": [],
+          "no_candidate_in_market": [],
+          "sum_issue": [
+            {
+              "id": "AK-SEN-C2",
+              "seat": "AK-SEN-C2",
+              "state": "AK",
+              "party": "",
+              "primary_id": "",
+              "kalshi_market_count": "7",
+              "kalshi_join_strategy": "general=5;primary_d=none;primary_r=none"
+            }
+          ]
+        }
+      },
+      "primary": {
+        "counts": {
+          "total_rows": 73,
+          "matched_rows": 38,
+          "unmatched_rows": 35,
+          "cause_no_market": 24,
+          "cause_no_candidate_in_market": 1,
+          "cause_sum_issue": 10,
+          "match_rate": 0.5205
+        },
+        "unmatched_examples": {
+          "no_market": [
+            {
+              "id": "AK-SEN-C2-NP-primary-2026",
+              "seat": "AK-SEN-C2",
+              "state": "AK",
+              "party": "NP",
+              "primary_id": "AK-SEN-C2-NP-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-SEN-C2-D-primary-2026",
+              "seat": "AR-SEN-C2",
+              "state": "AR",
+              "party": "D",
+              "primary_id": "AR-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "AR-SEN-C2-R-primary-2026",
+              "seat": "AR-SEN-C2",
+              "state": "AR",
+              "party": "R",
+              "primary_id": "AR-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "DE-SEN-C2-D-primary-2026",
+              "seat": "DE-SEN-C2",
+              "state": "DE",
+              "party": "D",
+              "primary_id": "DE-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "GA-SEN-C2-D-primary-2026",
+              "seat": "GA-SEN-C2",
+              "state": "GA",
+              "party": "D",
+              "primary_id": "GA-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "ID-SEN-C2-D-primary-2026",
+              "seat": "ID-SEN-C2",
+              "state": "ID",
+              "party": "D",
+              "primary_id": "ID-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "ID-SEN-C2-L-primary-2026",
+              "seat": "ID-SEN-C2",
+              "state": "ID",
+              "party": "L",
+              "primary_id": "ID-SEN-C2-L-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "KS-SEN-C2-R-primary-2026",
+              "seat": "KS-SEN-C2",
+              "state": "KS",
+              "party": "R",
+              "primary_id": "KS-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "MS-SEN-C2-D-primary-2026",
+              "seat": "MS-SEN-C2",
+              "state": "MS",
+              "party": "D",
+              "primary_id": "MS-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "MS-SEN-C2-R-primary-2026",
+              "seat": "MS-SEN-C2",
+              "state": "MS",
+              "party": "R",
+              "primary_id": "MS-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "MT-SEN-C2-L-primary-2026",
+              "seat": "MT-SEN-C2",
+              "state": "MT",
+              "party": "L",
+              "primary_id": "MT-SEN-C2-L-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "NC-SEN-C2-D-primary-2026",
+              "seat": "NC-SEN-C2",
+              "state": "NC",
+              "party": "D",
+              "primary_id": "NC-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "NC-SEN-C2-R-primary-2026",
+              "seat": "NC-SEN-C2",
+              "state": "NC",
+              "party": "R",
+              "primary_id": "NC-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "NE-SEN-C2-NP-primary-2026",
+              "seat": "NE-SEN-C2",
+              "state": "NE",
+              "party": "NP",
+              "primary_id": "NE-SEN-C2-NP-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "NJ-SEN-C2-D-primary-2026",
+              "seat": "NJ-SEN-C2",
+              "state": "NJ",
+              "party": "D",
+              "primary_id": "NJ-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "NM-SEN-C2-D-primary-2026",
+              "seat": "NM-SEN-C2",
+              "state": "NM",
+              "party": "D",
+              "primary_id": "NM-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "NM-SEN-C2-R-primary-2026",
+              "seat": "NM-SEN-C2",
+              "state": "NM",
+              "party": "R",
+              "primary_id": "NM-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "OH-SEN-C3-SPL-L-primary-2026",
+              "seat": "OH-SEN-C3-SPL",
+              "state": "OH",
+              "party": "L",
+              "primary_id": "OH-SEN-C3-SPL-L-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "OR-SEN-C2-R-primary-2026",
+              "seat": "OR-SEN-C2",
+              "state": "OR",
+              "party": "R",
+              "primary_id": "OR-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "SD-SEN-C2-D-primary-2026",
+              "seat": "SD-SEN-C2",
+              "state": "SD",
+              "party": "D",
+              "primary_id": "SD-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "TN-SEN-C2-D-primary-2026",
+              "seat": "TN-SEN-C2",
+              "state": "TN",
+              "party": "D",
+              "primary_id": "TN-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "TN-SEN-C2-R-primary-2026",
+              "seat": "TN-SEN-C2",
+              "state": "TN",
+              "party": "R",
+              "primary_id": "TN-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "TX-SEN-C2-D-primary-2026",
+              "seat": "TX-SEN-C2",
+              "state": "TX",
+              "party": "D",
+              "primary_id": "TX-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            },
+            {
+              "id": "WY-SEN-C2-D-primary-2026",
+              "seat": "WY-SEN-C2",
+              "state": "WY",
+              "party": "D",
+              "primary_id": "WY-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "0",
+              "kalshi_join_strategy": "none"
+            }
+          ],
+          "no_candidate_in_market": [
+            {
+              "id": "FL-SEN-C3-SPL-R-primary-2026",
+              "seat": "FL-SEN-C3-SPL",
+              "state": "FL",
+              "party": "R",
+              "primary_id": "FL-SEN-C3-SPL-R-primary-2026",
+              "kalshi_market_count": "10",
+              "kalshi_join_strategy": "seat_round_party"
+            }
+          ],
+          "sum_issue": [
+            {
+              "id": "AL-SEN-C2-R-primary-2026",
+              "seat": "AL-SEN-C2",
+              "state": "AL",
+              "party": "R",
+              "primary_id": "AL-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "8",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "IL-SEN-C2-D-primary-2026",
+              "seat": "IL-SEN-C2",
+              "state": "IL",
+              "party": "D",
+              "primary_id": "IL-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "14",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "KY-SEN-C2-R-primary-2026",
+              "seat": "KY-SEN-C2",
+              "state": "KY",
+              "party": "R",
+              "primary_id": "KY-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "7",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "MI-SEN-C2-D-primary-2026",
+              "seat": "MI-SEN-C2",
+              "state": "MI",
+              "party": "D",
+              "primary_id": "MI-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "9",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "MT-SEN-C2-D-primary-2026",
+              "seat": "MT-SEN-C2",
+              "state": "MT",
+              "party": "D",
+              "primary_id": "MT-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "4",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "MT-SEN-C2-R-primary-2026",
+              "seat": "MT-SEN-C2",
+              "state": "MT",
+              "party": "R",
+              "primary_id": "MT-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "3",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "NE-SEN-C2-D-primary-2026",
+              "seat": "NE-SEN-C2",
+              "state": "NE",
+              "party": "D",
+              "primary_id": "NE-SEN-C2-D-primary-2026",
+              "kalshi_market_count": "2",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "NJ-SEN-C2-R-primary-2026",
+              "seat": "NJ-SEN-C2",
+              "state": "NJ",
+              "party": "R",
+              "primary_id": "NJ-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "7",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "OH-SEN-C3-SPL-R-primary-2026",
+              "seat": "OH-SEN-C3-SPL",
+              "state": "OH",
+              "party": "R",
+              "primary_id": "OH-SEN-C3-SPL-R-primary-2026",
+              "kalshi_market_count": "15",
+              "kalshi_join_strategy": "seat_round_party"
+            },
+            {
+              "id": "VA-SEN-C2-R-primary-2026",
+              "seat": "VA-SEN-C2",
+              "state": "VA",
+              "party": "R",
+              "primary_id": "VA-SEN-C2-R-primary-2026",
+              "kalshi_market_count": "7",
+              "kalshi_join_strategy": "seat_round_party"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "greenBaselineCriteria": {
+    "no_unresolved_high_impact_candidate_mappings_gt2": true,
+    "no_unresolved_included_senate_markets": true,
+    "no_schema_contract_regressions": false
+  },
+  "openGaps": [
+    {
+      "id": "house_strict_contest_integrity",
+      "severity": "high",
+      "status": "open",
+      "details": "House strict contest build still fails with non-candidate integrity violations (missing_seat_id and odds_map_out_of_band).",
+      "evidence": {
+        "violation_count": 357,
+        "types": [
+          "missing_seat_id",
+          "missing_seat_id",
+          "missing_seat_id",
+          "missing_seat_id",
+          "missing_seat_id"
+        ]
+      }
+    },
+    {
+      "id": "candidate_rollup_kalshi_sum_range",
+      "severity": "medium",
+      "status": "open",
+      "details": "Legacy candidate rollup Kalshi integrity test still has one failing case (AL-03 primary odds sum=0.0).",
+      "evidence": {
+        "test": "tests/test_candidate_rollup_kalshi_integrity.py::test_candidate_odds_maps_sum_range",
+        "seat": "AL-03",
+        "candidate": "Mike Rogers"
+      }
+    }
+  ],
+  "commandsRun": [
+    "py -3.14 scripts/build_kalshi_us_rep_contest_index.py --no-strict",
+    "py -3.14 scripts/build_kalshi_us_senate_contest_index.py",
+    "py -3.14 scripts/parse_ballotpedia_house_raw.py",
+    "py -3.14 scripts/parse_ballotpedia_senate_raw.py",
+    "py -3.14 scripts/build_candidate_rollup.py",
+    "py -3.14 scripts/build_candidate_rollup_senate.py",
+    "py -3.14 scripts/report_kalshi_rollup_match_status.py",
+    "py -3.14 -m unittest -v tests/test_kalshi_candidate_matching_policy_unit.py tests/test_kalshi_candidate_name_mapping_reports.py tests/test_kalshi_senate_contest_index.py tests/test_kalshi_us_rep_contest_index.py",
+    "py -3.14 -m unittest -v tests/test_ballotpedia_rollup_parser.py tests/test_ballotpedia_general_primary_status_buckets.py tests/test_ballotpedia_kalshi_rollup_integrity.py tests/test_candidate_rollup_data_quality.py tests/test_candidate_rollup_kalshi_integrity.py"
+  ]
+}

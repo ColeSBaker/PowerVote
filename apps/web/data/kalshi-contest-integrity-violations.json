@@ -1,0 +1,2851 @@
+{
+  "generatedAt": "2026-04-13T03:33:37.270727+00:00",
+  "count": 350,
+  "violations": [
+    {
+      "type": "advance_sum_out_of_band",
+      "event_ticker": "KXCA40PRIMARYADVANCE-26",
+      "advance_count": 2,
+      "observed_sum": 243.0,
+      "expected_range": [
+        160,
+        240
+      ]
+    },
+    {
+      "type": "advance_sum_out_of_band",
+      "event_ticker": "KXCAPRIMARY-3226",
+      "advance_count": 2,
+      "observed_sum": 247.9,
+      "expected_range": [
+        160,
+        240
+      ]
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "CONTROLH-2026-D",
+      "event_ticker": "CONTROLH-2026",
+      "series_ticker": "CONTROLH",
+      "title": "Will Democrats win the House in 2026?",
+      "source_file": "../kalshi/data/markets/market_CONTROLH_CONTROLH-2026-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "CONTROLH-2026-R",
+      "event_ticker": "CONTROLH-2026",
+      "series_ticker": "CONTROLH",
+      "title": "Will Republicans win the House in 2026?",
+      "source_file": "../kalshi/data/markets/market_CONTROLH_CONTROLH-2026-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "CONTROLS-2026-D",
+      "event_ticker": "CONTROLS-2026",
+      "series_ticker": "CONTROLS",
+      "title": "Will Democrats win the U.S. Senate in 2026?",
+      "source_file": "../kalshi/data/markets/market_CONTROLS_CONTROLS-2026-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "CONTROLS-2026-R",
+      "event_ticker": "CONTROLS-2026",
+      "series_ticker": "CONTROLS",
+      "title": "Will Republicans win the U.S. Senate in 2026?",
+      "source_file": "../kalshi/data/markets/market_CONTROLS_CONTROLS-2026-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXAMEND22-29-JAN01",
+      "event_ticker": "KXAMEND22-29",
+      "series_ticker": "KXAMEND22",
+      "title": "Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029",
+      "source_file": "../kalshi/data/markets/market_KXAMEND22_KXAMEND22-29-JAN01.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXBRUVSEAT-35",
+      "event_ticker": "KXBRUVSEAT",
+      "series_ticker": "KXBRUVSEAT",
+      "title": "Will Britain Restoring Underlying Values (\"BRUV\") win a seat in the next U.K. general election?",
+      "source_file": "../kalshi/data/markets/market_KXBRUVSEAT_KXBRUVSEAT-35.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-A49",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win above 49 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-A49.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-B44",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win below 44 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-B44.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-E44",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win exactly 44 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E44.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-E45",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win exactly 45 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E45.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-E46",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win exactly 46 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E46.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-E47",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win exactly 47 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E47.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-E48",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win exactly 48 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E48.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAHOUSEDEM-26NOV03-E49",
+      "event_ticker": "KXCAHOUSEDEM-26NOV03",
+      "series_ticker": "KXCAHOUSEDEM",
+      "title": "Will Democrats win exactly 49 seats in the 2026 U.S. House of Representatives elections in California?",
+      "source_file": "../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E49.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCANADALIBERAL-26DEC31",
+      "event_ticker": "KXCANADALIBERAL",
+      "series_ticker": "KXCANADALIBERAL",
+      "title": "Will the Canadian Liberal party gain majority control of the House of Commons in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXCANADALIBERAL_KXCANADALIBERAL-26DEC31.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXCAPCONTROL-29",
+      "event_ticker": "KXCAPCONTROL",
+      "series_ticker": "KXCAPCONTROL",
+      "title": "Will Trump impose capital controls before 2029?",
+      "source_file": "test_data\\kalshi\\market\\market_KXCAPCONTROL_KXCAPCONTROL-29.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-210",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win below 210 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-210.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-212",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 210-213 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-212.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-216",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 214-217 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-216.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-220",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 218-221 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-220.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-224",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 222-225 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-224.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-228",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 226-229 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-228.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-232",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 230-233 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-232.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-236",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 234-237 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-236.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-240",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 238-241 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-240.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-244",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 242-245 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-244.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-248",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win 246-249 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-248.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDHOUSESEATS-27-249",
+      "event_ticker": "KXDHOUSESEATS-27",
+      "series_ticker": "KXDHOUSESEATS",
+      "title": "Will the Democratic party win above 249 House seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-249.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-45",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 45 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-45.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-46",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 46 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-46.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-47",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 47 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-47.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-48",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 48 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-48.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-49",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 49 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-49.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-50",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 50 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-50.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-51",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 51 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-51.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-52",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold 52 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-52.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-ABOVE52",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold more than 52 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-ABOVE52.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATS-27-BELOW45",
+      "event_ticker": "KXDSENATESEATS-27",
+      "series_ticker": "KXDSENATESEATS",
+      "title": "Will the Democratic Party hold less than 45 seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-BELOW45.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-A57",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold more than 57 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-A57.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-B53",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold fewer than 53 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-B53.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-E53",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold exactly 53 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E53.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-E54",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold exactly 54 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E54.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-E55",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold exactly 55 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E55.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-E56",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold exactly 56 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E56.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXDSENATESEATSH-27-E57",
+      "event_ticker": "KXDSENATESEATSH-27",
+      "series_ticker": "KXDSENATESEATSH",
+      "title": "Will the Democratic party hold exactly 57 Senate seats in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E57.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEEXPEL-26JUN01-T0",
+      "event_ticker": "KXHOUSEEXPEL-26JUN01",
+      "series_ticker": "KXHOUSEEXPEL",
+      "title": "0",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T0.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEEXPEL-26JUN01-T1",
+      "event_ticker": "KXHOUSEEXPEL-26JUN01",
+      "series_ticker": "KXHOUSEEXPEL",
+      "title": "1",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T1.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEEXPEL-26JUN01-T2",
+      "event_ticker": "KXHOUSEEXPEL-26JUN01",
+      "series_ticker": "KXHOUSEEXPEL",
+      "title": "2",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T2.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEEXPEL-26JUN01-T3",
+      "event_ticker": "KXHOUSEEXPEL-26JUN01",
+      "series_ticker": "KXHOUSEEXPEL",
+      "title": "3",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T3.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEEXPEL-26JUN01-T4",
+      "event_ticker": "KXHOUSEEXPEL-26JUN01",
+      "series_ticker": "KXHOUSEEXPEL",
+      "title": "4",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T4.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEEXPEL-26JUN01-T5",
+      "event_ticker": "KXHOUSEEXPEL-26JUN01",
+      "series_ticker": "KXHOUSEEXPEL",
+      "title": "5",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B1",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 0 and 2%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B1.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B11",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 10 and 12%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B11.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B13",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 12 and 14%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B13.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B15",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 14 and 16%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B15.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B3",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 2 and 4%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B3.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B5",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 4 and 6%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B50",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will Republicans win the 2026 U.S. House of Representatives national popular vote?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B50.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B58",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 16 and 100%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B58.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B7",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 6 and 8%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B7.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03-B9",
+      "event_ticker": "KXHOUSEPOPVOTEMARGIN-27NOV03",
+      "series_ticker": "KXHOUSEPOPVOTEMARGIN",
+      "title": "Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 8 and 10%?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B9.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-100",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 100 and 104.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-100.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-105",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 105 and 109.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-105.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-110",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 110 and 114.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-110.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-115",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 115 and 119.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-115.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-120",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 120 and 124.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-120.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-90",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 90 and 94.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-90.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-95",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be between 95 and 99.99 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-95.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-ABOVE125",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be at least 125 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-ABOVE125.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXHOUSETURNOUT-26NOV03-BELOW90",
+      "event_ticker": "KXHOUSETURNOUT-26NOV03",
+      "series_ticker": "KXHOUSETURNOUT",
+      "title": "Will the total 2026 U.S. House turnout be less than 90 million?",
+      "source_file": "../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-BELOW90.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEMAJORITY-27JAN01",
+      "event_ticker": "KXLOSEMAJORITY",
+      "series_ticker": "KXLOSEMAJORITY",
+      "title": "Will the Republican Party loses majority control of the U.S. House of Representatives before the 2026 midterms?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEMAJORITY_KXLOSEMAJORITY-27JAN01.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-0",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 0 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-0.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-1",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 1 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-1.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-2",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 2 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-2.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-3",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 3 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-3.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-4",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 4 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-4.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-5",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 5 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-6",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will exactly 6 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-6.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSED-26NOV03-6T",
+      "event_ticker": "KXLOSEPRIMARYHOUSED-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSED",
+      "title": "Will more than 6 House Democratic members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-6T.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-0",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 0 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-0.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-1",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 1 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-1.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-2",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 2 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-2.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-3",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 3 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-3.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-4",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 4 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-4.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-5",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 5 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-6",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will exactly 6 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-6.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEPRIMARYHOUSER-26NOV03-6T",
+      "event_ticker": "KXLOSEPRIMARYHOUSER-26NOV03",
+      "series_ticker": "KXLOSEPRIMARYHOUSER",
+      "title": "Will more than 6 House Republican members lose their primary in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-6T.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONDSEN-2026-0",
+      "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONDSEN",
+      "title": "Will exactly 0 Senate Democrats lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-0.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONDSEN-2026-1",
+      "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONDSEN",
+      "title": "Will exactly 1 Senate Democrats lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-1.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONDSEN-2026-2",
+      "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONDSEN",
+      "title": "Will exactly 2 Senate Democrats lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-2.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONDSEN-2026-3",
+      "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONDSEN",
+      "title": "Will exactly 3 Senate Democrats lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-3.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONDSEN-2026-4",
+      "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONDSEN",
+      "title": "Will exactly 4 Senate Democrats lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-4.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONDSEN-2026-5",
+      "event_ticker": "KXLOSEREELECTIONDSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONDSEN",
+      "title": "Will at least 5 Senate Democrats lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONRSEN-2026-0",
+      "event_ticker": "KXLOSEREELECTIONRSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONRSEN",
+      "title": "Will exactly 0 the Senate Republicans lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-0.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONRSEN-2026-1",
+      "event_ticker": "KXLOSEREELECTIONRSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONRSEN",
+      "title": "Will exactly 1 the Senate Republicans lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-1.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONRSEN-2026-2",
+      "event_ticker": "KXLOSEREELECTIONRSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONRSEN",
+      "title": "Will exactly 2 the Senate Republicans lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-2.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONRSEN-2026-3",
+      "event_ticker": "KXLOSEREELECTIONRSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONRSEN",
+      "title": "Will exactly 3 the Senate Republicans lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-3.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONRSEN-2026-4",
+      "event_ticker": "KXLOSEREELECTIONRSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONRSEN",
+      "title": "Will exactly 4 the Senate Republicans lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-4.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXLOSEREELECTIONRSEN-2026-5",
+      "event_ticker": "KXLOSEREELECTIONRSEN-2026",
+      "series_ticker": "KXLOSEREELECTIONRSEN",
+      "title": "Will at least 5 the Senate Republicans lose re-election in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-10",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-10.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-100",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-100.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-15",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-15.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-20",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-20.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-25",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-25.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-5",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-5.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-50",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-50.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXMUSKCHALLENGERS-26-75",
+      "event_ticker": "KXMUSKCHALLENGERS-26",
+      "series_ticker": "KXMUSKCHALLENGERS",
+      "title": "How many Elon-backed challengers will win seats in Congress in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-75.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-AHAB",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Alina Habba be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-AHAB.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-JMIL",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Jason Miller be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-JMIL.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-KLAK",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Kari Lake be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-KLAK.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-NNP",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will No new person be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-NNP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-SCHE",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Steven Cheung be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-SCHE.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-SJEN",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Scott Jennings be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-SJEN.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-SSTE",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Sage Steele be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-SSTE.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTPRESSEC-29JAN21-TCAR",
+      "event_ticker": "KXNEXTPRESSEC-29JAN21",
+      "series_ticker": "KXNEXTPRESSEC",
+      "title": "Will Tucker Carlson be the next White House Press Secretary of United States?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-TCAR.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTSPEAKER-31-HJEF",
+      "event_ticker": "KXNEXTSPEAKER-31",
+      "series_ticker": "KXNEXTSPEAKER",
+      "title": "Will Hakeem Jeffries be the next Speaker of the House?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTSPEAKER_KXNEXTSPEAKER-31-HJEF.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTSPEAKER-31-JJOR",
+      "event_ticker": "KXNEXTSPEAKER-31",
+      "series_ticker": "KXNEXTSPEAKER",
+      "title": "Will Jim Jordan be the next Speaker of the House?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTSPEAKER_KXNEXTSPEAKER-31-JJOR.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXNEXTSPEAKER-31-SSCA",
+      "event_ticker": "KXNEXTSPEAKER-31",
+      "series_ticker": "KXNEXTSPEAKER",
+      "title": "Will Steve Scalise be the next Speaker of the House?",
+      "source_file": "../kalshi/data/markets/market_KXNEXTSPEAKER_KXNEXTSPEAKER-31-SSCA.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXPARTYLEAVE-27-JAN01",
+      "event_ticker": "KXPARTYLEAVE-27",
+      "series_ticker": "KXPARTYLEAVE",
+      "title": "Will anyone in Congress change parties?",
+      "source_file": "../kalshi/data/markets/market_KXPARTYLEAVE_KXPARTYLEAVE-27-JAN01.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXPRESPARTY-2028-D",
+      "event_ticker": "KXPRESPARTY-2028",
+      "series_ticker": "KXPRESPARTY",
+      "title": "Will Democratic win the Presidency in 2028?",
+      "source_file": "../kalshi/data/markets/market_KXPRESPARTY_KXPRESPARTY-2028-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXPRESPARTY-2028-R",
+      "event_ticker": "KXPRESPARTY-2028",
+      "series_ticker": "KXPRESPARTY",
+      "title": "Will Republican win the Presidency in 2028?",
+      "source_file": "../kalshi/data/markets/market_KXPRESPARTY_KXPRESPARTY-2028-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRETIREBACON-26",
+      "event_ticker": "KXRETIREBACON",
+      "series_ticker": "KXRETIREBACON",
+      "title": "Will Don Bacon resign his office early?",
+      "source_file": "../kalshi/data/markets/market_KXRETIREBACON_KXRETIREBACON-26.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRETIREMACE-26",
+      "event_ticker": "KXRETIREMACE",
+      "series_ticker": "KXRETIREMACE",
+      "title": "Will Nancy Mace resign before the midterms?",
+      "source_file": "../kalshi/data/markets/market_KXRETIREMACE_KXRETIREMACE-26.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRETIREMM-26",
+      "event_ticker": "KXRETIREMM",
+      "series_ticker": "KXRETIREMM",
+      "title": "Will Mitch McConnell resign his office early?",
+      "source_file": "../kalshi/data/markets/market_KXRETIREMM_KXRETIREMM-26.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRETIREPELOSI-26",
+      "event_ticker": "KXRETIREPELOSI",
+      "series_ticker": "KXRETIREPELOSI",
+      "title": "Will Nancy Pelosi resign her office early?",
+      "source_file": "../kalshi/data/markets/market_KXRETIREPELOSI_KXRETIREPELOSI-26.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-193",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 193 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-193.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-195",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 193-197 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-195.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-200",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 198-202 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-200.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-205",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 203-207 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-205.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-210",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 208-212 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-210.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-215",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 213-217 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-215.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-220",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 218-222 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-220.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-225",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 223-227 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-225.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-230",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 228-232 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-230.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-235",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 233-237 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-235.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXRHOUSESEATS-27-237",
+      "event_ticker": "KXRHOUSESEATS-27",
+      "series_ticker": "KXRHOUSESEATS",
+      "title": "Will the Republican Party win 237 seats  in the 120th Congress?",
+      "source_file": "../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-237.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXSCHUMEROUT-25-JULY26",
+      "event_ticker": "KXSCHUMEROUT-25",
+      "series_ticker": "KXSCHUMEROUT",
+      "title": "Will Chuck Schumer no longer be Senate Minority Leader in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXSCHUMEROUT_KXSCHUMEROUT-25-JULY26.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXSCHUMEROUT-25-NOV26",
+      "event_ticker": "KXSCHUMEROUT-25",
+      "series_ticker": "KXSCHUMEROUT",
+      "title": "Will Chuck Schumer no longer be Senate Minority Leader in 2026?",
+      "source_file": "../kalshi/data/markets/market_KXSCHUMEROUT_KXSCHUMEROUT-25-NOV26.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXSENATELA-26NOV-D",
+      "event_ticker": "KXSENATELA-26NOV",
+      "series_ticker": "KXSENATELA",
+      "title": "Will Democratics win the Senate race in Louisiana?",
+      "source_file": "../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXSENATELA-26NOV-R",
+      "event_ticker": "KXSENATELA-26NOV",
+      "series_ticker": "KXSENATELA",
+      "title": "Will Republicans win the Senate race in Louisiana?",
+      "source_file": "../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXSOTHLEAVE-26-JULY",
+      "event_ticker": "KXSOTHLEAVE-26",
+      "series_ticker": "KXSOTHLEAVE",
+      "title": "Will Mike Johnson no longer be Speaker of the House before 2026?",
+      "source_file": "../kalshi/data/markets/market_KXSOTHLEAVE_KXSOTHLEAVE-26-JULY.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXSOTHLEAVE-26-NOV",
+      "event_ticker": "KXSOTHLEAVE-26",
+      "series_ticker": "KXSOTHLEAVE",
+      "title": "Will Mike Johnson no longer be Speaker of the House before 2026?",
+      "source_file": "../kalshi/data/markets/market_KXSOTHLEAVE_KXSOTHLEAVE-26-NOV.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTERMLIMITS-29",
+      "event_ticker": "KXTERMLIMITS",
+      "series_ticker": "KXTERMLIMITS",
+      "title": "Will a constitutional amendment requiring term limits for Congress happen during Trump's term?",
+      "source_file": "../kalshi/data/markets/market_KXTERMLIMITS_KXTERMLIMITS-29.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSE-26-D",
+      "event_ticker": "KXTXHOUSE-26",
+      "series_ticker": "KXTXHOUSE",
+      "title": "Who will win the Texas House of Representatives?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSE_KXTXHOUSE-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSE-26-R",
+      "event_ticker": "KXTXHOUSE-26",
+      "series_ticker": "KXTXHOUSE",
+      "title": "Who will win the Texas House of Representatives?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSE_KXTXHOUSE-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-A13",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win at least 14 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-A13.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-B8",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win below 8 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-B8.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-E10",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win exactly 10 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E10.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-E11",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win exactly 11 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E11.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-E12",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win exactly 12 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E12.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-E13",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win exactly 13 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E13.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-E8",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win exactly 8 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E8.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXTXHOUSEDEMSEATS-26NOV03-E9",
+      "event_ticker": "KXTXHOUSEDEMSEATS-26NOV03",
+      "series_ticker": "KXTXHOUSEDEMSEATS",
+      "title": "Will Democrats win exactly 9 seats in 2026 U.S. House of Representatives elections in Texas?",
+      "source_file": "../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E9.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-10",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win exactly 10 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-10.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-11",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win exactly 11 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-11.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-6",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win exactly 6 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-6.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-7",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win exactly 7 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-7.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-8",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win exactly 8 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-8.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-9",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win exactly 9 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-9.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "KXVAHOUSEDEM-26NOV03-BELOW6",
+      "event_ticker": "KXVAHOUSEDEM-26NOV03",
+      "series_ticker": "KXVAHOUSEDEM",
+      "title": "Will Democrats win below 6 seats in 2026 Virginia House of Representatives elections?",
+      "source_file": "../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-BELOW6.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-DH-DS-DP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Democratic party win the House, the Democratic party win the Senate, and the Democratic party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-DH-DS-DP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-DH-DS-RP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Democratic party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-DH-DS-RP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-DH-RS-DP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Democratic party win the House, the Republican party win the Senate, and the Democratic party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-DH-RS-DP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-DH-RS-RP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Democratic party win the House, the Republican party win the Senate, and the Republican party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-DH-RS-RP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-RH-DS-DP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Republican party win the House, the Democratic party win the Senate, and the Democratic party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-RH-DS-DP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-RH-DS-RP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Republican party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-RH-DS-RP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-RH-RS-DP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Republican party win the House, the Republican party win the Senate, and the Democratic party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-RH-RS-DP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "POWER-28-RH-RS-RP",
+      "event_ticker": "POWER-28",
+      "series_ticker": "POWER",
+      "title": "Will the Republican party win the House, the Republican party win the Senate, and the Republican party win the Presidency?",
+      "source_file": "../kalshi/data/markets/market_POWER_POWER-28-RH-RS-RP.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAK-26-D",
+      "event_ticker": "SENATEAK-26",
+      "series_ticker": "SENATEAK",
+      "title": "Will Democratics win the Senate race in Alaska?",
+      "source_file": "../kalshi/data/markets/market_SENATEAK_SENATEAK-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAK-26-R",
+      "event_ticker": "SENATEAK-26",
+      "series_ticker": "SENATEAK",
+      "title": "Will Republicans win the Senate race in Alaska?",
+      "source_file": "../kalshi/data/markets/market_SENATEAK_SENATEAK-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAK-28-D",
+      "event_ticker": "SENATEAK-28",
+      "series_ticker": "SENATEAK",
+      "title": "Will Democratics win the Senate race in Alaska?",
+      "source_file": "../kalshi/data/markets/market_SENATEAK_SENATEAK-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAK-28-R",
+      "event_ticker": "SENATEAK-28",
+      "series_ticker": "SENATEAK",
+      "title": "Will Republicans win the Senate race in Alaska?",
+      "source_file": "../kalshi/data/markets/market_SENATEAK_SENATEAK-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAL-26-D",
+      "event_ticker": "SENATEAL-26",
+      "series_ticker": "SENATEAL",
+      "title": "Will Democratics win the Senate race in Alabama?",
+      "source_file": "../kalshi/data/markets/market_SENATEAL_SENATEAL-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAL-26-R",
+      "event_ticker": "SENATEAL-26",
+      "series_ticker": "SENATEAL",
+      "title": "Will Republicans win the Senate race in Alabama?",
+      "source_file": "../kalshi/data/markets/market_SENATEAL_SENATEAL-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAL-28-2-D",
+      "event_ticker": "SENATEAL-28-2",
+      "series_ticker": "SENATEAL",
+      "title": "Will Democratics win the Senate race in Alabama?",
+      "source_file": "../kalshi/data/markets/market_SENATEAL_SENATEAL-28-2-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAL-28-2-R",
+      "event_ticker": "SENATEAL-28-2",
+      "series_ticker": "SENATEAL",
+      "title": "Will Republicans win the Senate race in Alabama?",
+      "source_file": "../kalshi/data/markets/market_SENATEAL_SENATEAL-28-2-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAR-26-D",
+      "event_ticker": "SENATEAR-26",
+      "series_ticker": "SENATEAR",
+      "title": "Will Democratics win the Senate race in Arkansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEAR_SENATEAR-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAR-26-R",
+      "event_ticker": "SENATEAR-26",
+      "series_ticker": "SENATEAR",
+      "title": "Will Republicans win the Senate race in Arkansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEAR_SENATEAR-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAR-28-D",
+      "event_ticker": "SENATEAR-28",
+      "series_ticker": "SENATEAR",
+      "title": "Will Democratics win the Senate race in Arkansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEAR_SENATEAR-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAR-28-R",
+      "event_ticker": "SENATEAR-28",
+      "series_ticker": "SENATEAR",
+      "title": "Will Republicans win the Senate race in Arkansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEAR_SENATEAR-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAZ-28-D",
+      "event_ticker": "SENATEAZ-28",
+      "series_ticker": "SENATEAZ",
+      "title": "Will Democratics win the Senate race in Arizona?",
+      "source_file": "../kalshi/data/markets/market_SENATEAZ_SENATEAZ-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEAZ-28-R",
+      "event_ticker": "SENATEAZ-28",
+      "series_ticker": "SENATEAZ",
+      "title": "Will Republicans win the Senate race in Arizona?",
+      "source_file": "../kalshi/data/markets/market_SENATEAZ_SENATEAZ-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECA-28-D",
+      "event_ticker": "SENATECA-28",
+      "series_ticker": "SENATECA",
+      "title": "Will Democratics win the Senate race in California?",
+      "source_file": "../kalshi/data/markets/market_SENATECA_SENATECA-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECA-28-R",
+      "event_ticker": "SENATECA-28",
+      "series_ticker": "SENATECA",
+      "title": "Will Republicans win the Senate race in California?",
+      "source_file": "../kalshi/data/markets/market_SENATECA_SENATECA-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECO-26-D",
+      "event_ticker": "SENATECO-26",
+      "series_ticker": "SENATECO",
+      "title": "Will Democratics win the Senate race in Colorado?",
+      "source_file": "../kalshi/data/markets/market_SENATECO_SENATECO-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECO-26-R",
+      "event_ticker": "SENATECO-26",
+      "series_ticker": "SENATECO",
+      "title": "Will Republicans win the Senate race in Colorado?",
+      "source_file": "../kalshi/data/markets/market_SENATECO_SENATECO-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECO-28-D",
+      "event_ticker": "SENATECO-28",
+      "series_ticker": "SENATECO",
+      "title": "Will Democratics win the Senate race in Colorado?",
+      "source_file": "../kalshi/data/markets/market_SENATECO_SENATECO-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECO-28-R",
+      "event_ticker": "SENATECO-28",
+      "series_ticker": "SENATECO",
+      "title": "Will Republicans win the Senate race in Colorado?",
+      "source_file": "../kalshi/data/markets/market_SENATECO_SENATECO-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECT-28-D",
+      "event_ticker": "SENATECT-28",
+      "series_ticker": "SENATECT",
+      "title": "Will Democratics win the Senate race in Connecticut?",
+      "source_file": "../kalshi/data/markets/market_SENATECT_SENATECT-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATECT-28-R",
+      "event_ticker": "SENATECT-28",
+      "series_ticker": "SENATECT",
+      "title": "Will Republicans win the Senate race in Connecticut?",
+      "source_file": "../kalshi/data/markets/market_SENATECT_SENATECT-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEDE-26-D",
+      "event_ticker": "SENATEDE-26",
+      "series_ticker": "SENATEDE",
+      "title": "Will Democratics win the Senate race in Delaware?",
+      "source_file": "../kalshi/data/markets/market_SENATEDE_SENATEDE-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEDE-26-R",
+      "event_ticker": "SENATEDE-26",
+      "series_ticker": "SENATEDE",
+      "title": "Will Republicans win the Senate race in Delaware?",
+      "source_file": "../kalshi/data/markets/market_SENATEDE_SENATEDE-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEFL-28-D",
+      "event_ticker": "SENATEFL-28",
+      "series_ticker": "SENATEFL",
+      "title": "Will Democratics win the Senate race in Florida?",
+      "source_file": "../kalshi/data/markets/market_SENATEFL_SENATEFL-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEFL-28-R",
+      "event_ticker": "SENATEFL-28",
+      "series_ticker": "SENATEFL",
+      "title": "Will Republicans win the Senate race in Florida?",
+      "source_file": "../kalshi/data/markets/market_SENATEFL_SENATEFL-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEFLS-26-D",
+      "event_ticker": "SENATEFLS-26",
+      "series_ticker": "SENATEFLS",
+      "title": "Will Democratics win the Senate race in Florida?",
+      "source_file": "../kalshi/data/markets/market_SENATEFLS_SENATEFLS-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEFLS-26-R",
+      "event_ticker": "SENATEFLS-26",
+      "series_ticker": "SENATEFLS",
+      "title": "Will Republicans win the Senate race in Florida?",
+      "source_file": "../kalshi/data/markets/market_SENATEFLS_SENATEFLS-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEGA-26-D",
+      "event_ticker": "SENATEGA-26",
+      "series_ticker": "SENATEGA",
+      "title": "Will Democratics win the Senate race in Georgia?",
+      "source_file": "../kalshi/data/markets/market_SENATEGA_SENATEGA-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEGA-26-R",
+      "event_ticker": "SENATEGA-26",
+      "series_ticker": "SENATEGA",
+      "title": "Will Republicans win the Senate race in Georgia?",
+      "source_file": "../kalshi/data/markets/market_SENATEGA_SENATEGA-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEGA-28-D",
+      "event_ticker": "SENATEGA-28",
+      "series_ticker": "SENATEGA",
+      "title": "Will Democratics win the Senate race in Georgia?",
+      "source_file": "../kalshi/data/markets/market_SENATEGA_SENATEGA-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEGA-28-R",
+      "event_ticker": "SENATEGA-28",
+      "series_ticker": "SENATEGA",
+      "title": "Will Republicans win the Senate race in Georgia?",
+      "source_file": "../kalshi/data/markets/market_SENATEGA_SENATEGA-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEHI-28-D",
+      "event_ticker": "SENATEHI-28",
+      "series_ticker": "SENATEHI",
+      "title": "Will Democratics win the Senate race in Hawaii?",
+      "source_file": "../kalshi/data/markets/market_SENATEHI_SENATEHI-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEHI-28-R",
+      "event_ticker": "SENATEHI-28",
+      "series_ticker": "SENATEHI",
+      "title": "Will Republicans win the Senate race in Hawaii?",
+      "source_file": "../kalshi/data/markets/market_SENATEHI_SENATEHI-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIA-26-D",
+      "event_ticker": "SENATEIA-26",
+      "series_ticker": "SENATEIA",
+      "title": "Will Democratics win the Senate race in Iowa?",
+      "source_file": "../kalshi/data/markets/market_SENATEIA_SENATEIA-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIA-26-R",
+      "event_ticker": "SENATEIA-26",
+      "series_ticker": "SENATEIA",
+      "title": "Will Republicans win the Senate race in Iowa?",
+      "source_file": "../kalshi/data/markets/market_SENATEIA_SENATEIA-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIA-28-D",
+      "event_ticker": "SENATEIA-28",
+      "series_ticker": "SENATEIA",
+      "title": "Will Democratics win the Senate race in Iowa?",
+      "source_file": "../kalshi/data/markets/market_SENATEIA_SENATEIA-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIA-28-R",
+      "event_ticker": "SENATEIA-28",
+      "series_ticker": "SENATEIA",
+      "title": "Will Republicans win the Senate race in Iowa?",
+      "source_file": "../kalshi/data/markets/market_SENATEIA_SENATEIA-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEID-26-D",
+      "event_ticker": "SENATEID-26",
+      "series_ticker": "SENATEID",
+      "title": "Will Democratics win the Senate race in Idaho?",
+      "source_file": "../kalshi/data/markets/market_SENATEID_SENATEID-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEID-26-R",
+      "event_ticker": "SENATEID-26",
+      "series_ticker": "SENATEID",
+      "title": "Will Republicans win the Senate race in Idaho?",
+      "source_file": "../kalshi/data/markets/market_SENATEID_SENATEID-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEID-28-D",
+      "event_ticker": "SENATEID-28",
+      "series_ticker": "SENATEID",
+      "title": "Will Democratics win the Senate race in Idaho?",
+      "source_file": "../kalshi/data/markets/market_SENATEID_SENATEID-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEID-28-R",
+      "event_ticker": "SENATEID-28",
+      "series_ticker": "SENATEID",
+      "title": "Will Republicans win the Senate race in Idaho?",
+      "source_file": "../kalshi/data/markets/market_SENATEID_SENATEID-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIL-26-D",
+      "event_ticker": "SENATEIL-26",
+      "series_ticker": "SENATEIL",
+      "title": "Will Democratics win the Senate race in Illinois?",
+      "source_file": "../kalshi/data/markets/market_SENATEIL_SENATEIL-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIL-26-R",
+      "event_ticker": "SENATEIL-26",
+      "series_ticker": "SENATEIL",
+      "title": "Will Republicans win the Senate race in Illinois?",
+      "source_file": "../kalshi/data/markets/market_SENATEIL_SENATEIL-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIL-28-D",
+      "event_ticker": "SENATEIL-28",
+      "series_ticker": "SENATEIL",
+      "title": "Will Democratics win the Senate race in Illinois?",
+      "source_file": "../kalshi/data/markets/market_SENATEIL_SENATEIL-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIL-28-R",
+      "event_ticker": "SENATEIL-28",
+      "series_ticker": "SENATEIL",
+      "title": "Will Republicans win the Senate race in Illinois?",
+      "source_file": "../kalshi/data/markets/market_SENATEIL_SENATEIL-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIN-28-D",
+      "event_ticker": "SENATEIN-28",
+      "series_ticker": "SENATEIN",
+      "title": "Will Democratics win the Senate race in Indiana?",
+      "source_file": "../kalshi/data/markets/market_SENATEIN_SENATEIN-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEIN-28-R",
+      "event_ticker": "SENATEIN-28",
+      "series_ticker": "SENATEIN",
+      "title": "Will Republicans win the Senate race in Indiana?",
+      "source_file": "../kalshi/data/markets/market_SENATEIN_SENATEIN-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEKS-26-D",
+      "event_ticker": "SENATEKS-26",
+      "series_ticker": "SENATEKS",
+      "title": "Will Democratics win the Senate race in Kansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEKS_SENATEKS-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEKS-26-R",
+      "event_ticker": "SENATEKS-26",
+      "series_ticker": "SENATEKS",
+      "title": "Will Republicans win the Senate race in Kansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEKS_SENATEKS-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEKS-28-D",
+      "event_ticker": "SENATEKS-28",
+      "series_ticker": "SENATEKS",
+      "title": "Will Democratics win the Senate race in Kansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEKS_SENATEKS-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEKS-28-R",
+      "event_ticker": "SENATEKS-28",
+      "series_ticker": "SENATEKS",
+      "title": "Will Republicans win the Senate race in Kansas?",
+      "source_file": "../kalshi/data/markets/market_SENATEKS_SENATEKS-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATELA-26-D",
+      "event_ticker": "SENATELA-26",
+      "series_ticker": "SENATELA",
+      "title": "Will Democratics win the Senate race in Kentucky?",
+      "source_file": "../kalshi/data/markets/market_SENATELA_SENATELA-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATELA-26-R",
+      "event_ticker": "SENATELA-26",
+      "series_ticker": "SENATELA",
+      "title": "Will Republicans win the Senate race in Kentucky?",
+      "source_file": "../kalshi/data/markets/market_SENATELA_SENATELA-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATELA-28-D",
+      "event_ticker": "SENATELA-28",
+      "series_ticker": "SENATELA",
+      "title": "Will Democratics win the Senate race in Louisiana?",
+      "source_file": "../kalshi/data/markets/market_SENATELA_SENATELA-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATELA-28-R",
+      "event_ticker": "SENATELA-28",
+      "series_ticker": "SENATELA",
+      "title": "Will Republicans win the Senate race in Louisiana?",
+      "source_file": "../kalshi/data/markets/market_SENATELA_SENATELA-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMA-26-D",
+      "event_ticker": "SENATEMA-26",
+      "series_ticker": "SENATEMA",
+      "title": "Will Democratics win the Senate race in Massachusetts?",
+      "source_file": "../kalshi/data/markets/market_SENATEMA_SENATEMA-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMA-26-R",
+      "event_ticker": "SENATEMA-26",
+      "series_ticker": "SENATEMA",
+      "title": "Will Republicans win the Senate race in Massachusetts?",
+      "source_file": "../kalshi/data/markets/market_SENATEMA_SENATEMA-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMD-28-D",
+      "event_ticker": "SENATEMD-28",
+      "series_ticker": "SENATEMD",
+      "title": "Will Democratics win the Senate race in Maryland?",
+      "source_file": "../kalshi/data/markets/market_SENATEMD_SENATEMD-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMD-28-R",
+      "event_ticker": "SENATEMD-28",
+      "series_ticker": "SENATEMD",
+      "title": "Will Republicans win the Senate race in Maryland?",
+      "source_file": "../kalshi/data/markets/market_SENATEMD_SENATEMD-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEME-26-D",
+      "event_ticker": "SENATEME-26",
+      "series_ticker": "SENATEME",
+      "title": "Will Democratics win the Senate race in Maine?",
+      "source_file": "../kalshi/data/markets/market_SENATEME_SENATEME-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEME-26-R",
+      "event_ticker": "SENATEME-26",
+      "series_ticker": "SENATEME",
+      "title": "Will Republicans win the Senate race in Maine?",
+      "source_file": "../kalshi/data/markets/market_SENATEME_SENATEME-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMI-26-D",
+      "event_ticker": "SENATEMI-26",
+      "series_ticker": "SENATEMI",
+      "title": "Will Democratics win the Senate race in Michigan?",
+      "source_file": "../kalshi/data/markets/market_SENATEMI_SENATEMI-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMI-26-R",
+      "event_ticker": "SENATEMI-26",
+      "series_ticker": "SENATEMI",
+      "title": "Will Republicans win the Senate race in Michigan?",
+      "source_file": "../kalshi/data/markets/market_SENATEMI_SENATEMI-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMN-26-D",
+      "event_ticker": "SENATEMN-26",
+      "series_ticker": "SENATEMN",
+      "title": "Will Democratic (DFL)s win the Senate race in Minnesota?",
+      "source_file": "../kalshi/data/markets/market_SENATEMN_SENATEMN-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMN-26-R",
+      "event_ticker": "SENATEMN-26",
+      "series_ticker": "SENATEMN",
+      "title": "Will Republicans win the Senate race in Minnesota?",
+      "source_file": "../kalshi/data/markets/market_SENATEMN_SENATEMN-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMO-28-D",
+      "event_ticker": "SENATEMO-28",
+      "series_ticker": "SENATEMO",
+      "title": "Will Democratics win the Senate race in Missouri?",
+      "source_file": "../kalshi/data/markets/market_SENATEMO_SENATEMO-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMO-28-R",
+      "event_ticker": "SENATEMO-28",
+      "series_ticker": "SENATEMO",
+      "title": "Will Republicans win the Senate race in Missouri?",
+      "source_file": "../kalshi/data/markets/market_SENATEMO_SENATEMO-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMS-26-D",
+      "event_ticker": "SENATEMS-26",
+      "series_ticker": "SENATEMS",
+      "title": "Will Democratics win the Senate race in Mississippi?",
+      "source_file": "../kalshi/data/markets/market_SENATEMS_SENATEMS-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMS-26-R",
+      "event_ticker": "SENATEMS-26",
+      "series_ticker": "SENATEMS",
+      "title": "Will Republicans win the Senate race in Mississippi?",
+      "source_file": "../kalshi/data/markets/market_SENATEMS_SENATEMS-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMT-26-D",
+      "event_ticker": "SENATEMT-26",
+      "series_ticker": "SENATEMT",
+      "title": "Will Democratics win the Senate race in Montana?",
+      "source_file": "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMT-26-IND",
+      "event_ticker": "SENATEMT-26",
+      "series_ticker": "SENATEMT",
+      "title": "Will Independents win the Senate race in Montana?",
+      "source_file": "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-IND.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEMT-26-R",
+      "event_ticker": "SENATEMT-26",
+      "series_ticker": "SENATEMT",
+      "title": "Will Republicans win the Senate race in Montana?",
+      "source_file": "../kalshi/data/markets/market_SENATEMT_SENATEMT-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENC-26-D",
+      "event_ticker": "SENATENC-26",
+      "series_ticker": "SENATENC",
+      "title": "Will Democratics win the Senate race in North Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATENC_SENATENC-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENC-26-R",
+      "event_ticker": "SENATENC-26",
+      "series_ticker": "SENATENC",
+      "title": "Will Republicans win the Senate race in North Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATENC_SENATENC-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENC-28-D",
+      "event_ticker": "SENATENC-28",
+      "series_ticker": "SENATENC",
+      "title": "Will Democratics win the Senate race in North Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATENC_SENATENC-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENC-28-R",
+      "event_ticker": "SENATENC-28",
+      "series_ticker": "SENATENC",
+      "title": "Will Republicans win the Senate race in North Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATENC_SENATENC-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEND-28-D",
+      "event_ticker": "SENATEND-28",
+      "series_ticker": "SENATEND",
+      "title": "Will Democratics win the Senate race in North Dakota?",
+      "source_file": "../kalshi/data/markets/market_SENATEND_SENATEND-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEND-28-R",
+      "event_ticker": "SENATEND-28",
+      "series_ticker": "SENATEND",
+      "title": "Will Republicans win the Senate race in North Dakota?",
+      "source_file": "../kalshi/data/markets/market_SENATEND_SENATEND-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENE-26-D",
+      "event_ticker": "SENATENE-26",
+      "series_ticker": "SENATENE",
+      "title": "Will Democratics win the Senate race in Nebraska?",
+      "source_file": "../kalshi/data/markets/market_SENATENE_SENATENE-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENE-26-DOSB",
+      "event_ticker": "SENATENE-26",
+      "series_ticker": "SENATENE",
+      "title": "Will Dan Osborn (as an independent)s win the Senate race in Nebraska?",
+      "source_file": "../kalshi/data/markets/market_SENATENE_SENATENE-26-DOSB.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENE-26-R",
+      "event_ticker": "SENATENE-26",
+      "series_ticker": "SENATENE",
+      "title": "Will Republicans win the Senate race in Nebraska?",
+      "source_file": "../kalshi/data/markets/market_SENATENE_SENATENE-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENH-26-D",
+      "event_ticker": "SENATENH-26",
+      "series_ticker": "SENATENH",
+      "title": "Will Democratics win the Senate race in New Hampshire?",
+      "source_file": "../kalshi/data/markets/market_SENATENH_SENATENH-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENH-26-R",
+      "event_ticker": "SENATENH-26",
+      "series_ticker": "SENATENH",
+      "title": "Will Republicans win the Senate race in New Hampshire?",
+      "source_file": "../kalshi/data/markets/market_SENATENH_SENATENH-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENH-28-D",
+      "event_ticker": "SENATENH-28",
+      "series_ticker": "SENATENH",
+      "title": "Will Democratics win the Senate race in New Hampshire?",
+      "source_file": "../kalshi/data/markets/market_SENATENH_SENATENH-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENH-28-R",
+      "event_ticker": "SENATENH-28",
+      "series_ticker": "SENATENH",
+      "title": "Will Republicans win the Senate race in New Hampshire?",
+      "source_file": "../kalshi/data/markets/market_SENATENH_SENATENH-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENJ-26-D",
+      "event_ticker": "SENATENJ-26",
+      "series_ticker": "SENATENJ",
+      "title": "Will Democratics win the Senate race in New Jersey?",
+      "source_file": "../kalshi/data/markets/market_SENATENJ_SENATENJ-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENJ-26-R",
+      "event_ticker": "SENATENJ-26",
+      "series_ticker": "SENATENJ",
+      "title": "Will Republicans win the Senate race in New Jersey?",
+      "source_file": "../kalshi/data/markets/market_SENATENJ_SENATENJ-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENM-26-D",
+      "event_ticker": "SENATENM-26",
+      "series_ticker": "SENATENM",
+      "title": "Will Democratics win the Senate race in New Mexico?",
+      "source_file": "../kalshi/data/markets/market_SENATENM_SENATENM-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENM-26-R",
+      "event_ticker": "SENATENM-26",
+      "series_ticker": "SENATENM",
+      "title": "Will Republicans win the Senate race in New Mexico?",
+      "source_file": "../kalshi/data/markets/market_SENATENM_SENATENM-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENV-28-D",
+      "event_ticker": "SENATENV-28",
+      "series_ticker": "SENATENV",
+      "title": "Will Democratics win the Senate race in Nevada?",
+      "source_file": "../kalshi/data/markets/market_SENATENV_SENATENV-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENV-28-R",
+      "event_ticker": "SENATENV-28",
+      "series_ticker": "SENATENV",
+      "title": "Will Republicans win the Senate race in Nevada?",
+      "source_file": "../kalshi/data/markets/market_SENATENV_SENATENV-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENY-28-D",
+      "event_ticker": "SENATENY-28",
+      "series_ticker": "SENATENY",
+      "title": "Will Democratics win the Senate race in New York?",
+      "source_file": "../kalshi/data/markets/market_SENATENY_SENATENY-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATENY-28-R",
+      "event_ticker": "SENATENY-28",
+      "series_ticker": "SENATENY",
+      "title": "Will Republicans win the Senate race in New York?",
+      "source_file": "../kalshi/data/markets/market_SENATENY_SENATENY-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOH-28-D",
+      "event_ticker": "SENATEOH-28",
+      "series_ticker": "SENATEOH",
+      "title": "Will Democratics win the Senate race in Ohio?",
+      "source_file": "../kalshi/data/markets/market_SENATEOH_SENATEOH-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOH-28-R",
+      "event_ticker": "SENATEOH-28",
+      "series_ticker": "SENATEOH",
+      "title": "Will Republicans win the Senate race in Ohio?",
+      "source_file": "../kalshi/data/markets/market_SENATEOH_SENATEOH-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOHS-26-D",
+      "event_ticker": "SENATEOHS-26",
+      "series_ticker": "SENATEOHS",
+      "title": "Will Democratics win the Senate race in Ohio?",
+      "source_file": "../kalshi/data/markets/market_SENATEOHS_SENATEOHS-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOHS-26-R",
+      "event_ticker": "SENATEOHS-26",
+      "series_ticker": "SENATEOHS",
+      "title": "Will Republicans win the Senate race in Ohio?",
+      "source_file": "../kalshi/data/markets/market_SENATEOHS_SENATEOHS-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOK-26-D",
+      "event_ticker": "SENATEOK-26",
+      "series_ticker": "SENATEOK",
+      "title": "Will Democratics win the Senate race in Oklahoma?",
+      "source_file": "../kalshi/data/markets/market_SENATEOK_SENATEOK-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOK-26-R",
+      "event_ticker": "SENATEOK-26",
+      "series_ticker": "SENATEOK",
+      "title": "Will Republicans win the Senate race in Oklahoma?",
+      "source_file": "../kalshi/data/markets/market_SENATEOK_SENATEOK-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOK-28-D",
+      "event_ticker": "SENATEOK-28",
+      "series_ticker": "SENATEOK",
+      "title": "Will Democratics win the Senate race in Oklahoma?",
+      "source_file": "../kalshi/data/markets/market_SENATEOK_SENATEOK-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOK-28-R",
+      "event_ticker": "SENATEOK-28",
+      "series_ticker": "SENATEOK",
+      "title": "Will Republicans win the Senate race in Oklahoma?",
+      "source_file": "../kalshi/data/markets/market_SENATEOK_SENATEOK-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOR-26-D",
+      "event_ticker": "SENATEOR-26",
+      "series_ticker": "SENATEOR",
+      "title": "Will Democratics win the Senate race in Oregon?",
+      "source_file": "../kalshi/data/markets/market_SENATEOR_SENATEOR-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOR-26-R",
+      "event_ticker": "SENATEOR-26",
+      "series_ticker": "SENATEOR",
+      "title": "Will Republicans win the Senate race in Oregon?",
+      "source_file": "../kalshi/data/markets/market_SENATEOR_SENATEOR-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOR-28-D",
+      "event_ticker": "SENATEOR-28",
+      "series_ticker": "SENATEOR",
+      "title": "Will Democratics win the Senate race in Oregon?",
+      "source_file": "../kalshi/data/markets/market_SENATEOR_SENATEOR-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEOR-28-R",
+      "event_ticker": "SENATEOR-28",
+      "series_ticker": "SENATEOR",
+      "title": "Will Republicans win the Senate race in Oregon?",
+      "source_file": "../kalshi/data/markets/market_SENATEOR_SENATEOR-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEPA-28-D",
+      "event_ticker": "SENATEPA-28",
+      "series_ticker": "SENATEPA",
+      "title": "Will Democratics win the Senate race in Pennsylvania?",
+      "source_file": "../kalshi/data/markets/market_SENATEPA_SENATEPA-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEPA-28-R",
+      "event_ticker": "SENATEPA-28",
+      "series_ticker": "SENATEPA",
+      "title": "Will Republicans win the Senate race in Pennsylvania?",
+      "source_file": "../kalshi/data/markets/market_SENATEPA_SENATEPA-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATERI-26-D",
+      "event_ticker": "SENATERI-26",
+      "series_ticker": "SENATERI",
+      "title": "Will Democratics win the Senate race in Rhode Island?",
+      "source_file": "../kalshi/data/markets/market_SENATERI_SENATERI-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATERI-26-R",
+      "event_ticker": "SENATERI-26",
+      "series_ticker": "SENATERI",
+      "title": "Will Republicans win the Senate race in Rhode Island?",
+      "source_file": "../kalshi/data/markets/market_SENATERI_SENATERI-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESC-26-D",
+      "event_ticker": "SENATESC-26",
+      "series_ticker": "SENATESC",
+      "title": "Will Democratics win the Senate race in South Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATESC_SENATESC-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESC-26-R",
+      "event_ticker": "SENATESC-26",
+      "series_ticker": "SENATESC",
+      "title": "Will Republicans win the Senate race in South Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATESC_SENATESC-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESC-28-D",
+      "event_ticker": "SENATESC-28",
+      "series_ticker": "SENATESC",
+      "title": "Will Democratics win the Senate race in South Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATESC_SENATESC-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESC-28-R",
+      "event_ticker": "SENATESC-28",
+      "series_ticker": "SENATESC",
+      "title": "Will Republicans win the Senate race in South Carolina?",
+      "source_file": "../kalshi/data/markets/market_SENATESC_SENATESC-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESD-26-D",
+      "event_ticker": "SENATESD-26",
+      "series_ticker": "SENATESD",
+      "title": "Will Democratics win the Senate race in South Dakota?",
+      "source_file": "../kalshi/data/markets/market_SENATESD_SENATESD-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESD-26-R",
+      "event_ticker": "SENATESD-26",
+      "series_ticker": "SENATESD",
+      "title": "Will Republicans win the Senate race in South Dakota?",
+      "source_file": "../kalshi/data/markets/market_SENATESD_SENATESD-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESD-28-D",
+      "event_ticker": "SENATESD-28",
+      "series_ticker": "SENATESD",
+      "title": "Will Democratics win the Senate race in South Dakota?",
+      "source_file": "../kalshi/data/markets/market_SENATESD_SENATESD-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATESD-28-R",
+      "event_ticker": "SENATESD-28",
+      "series_ticker": "SENATESD",
+      "title": "Will Republicans win the Senate race in South Dakota?",
+      "source_file": "../kalshi/data/markets/market_SENATESD_SENATESD-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATETN-26-D",
+      "event_ticker": "SENATETN-26",
+      "series_ticker": "SENATETN",
+      "title": "Will Democratics win the Senate race in Tennessee?",
+      "source_file": "../kalshi/data/markets/market_SENATETN_SENATETN-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATETN-26-R",
+      "event_ticker": "SENATETN-26",
+      "series_ticker": "SENATETN",
+      "title": "Will Republicans win the Senate race in Tennessee?",
+      "source_file": "../kalshi/data/markets/market_SENATETN_SENATETN-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATETX-26-D",
+      "event_ticker": "SENATETX-26",
+      "series_ticker": "SENATETX",
+      "title": "Will Democratics win the Senate race in Texas?",
+      "source_file": "../kalshi/data/markets/market_SENATETX_SENATETX-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATETX-26-R",
+      "event_ticker": "SENATETX-26",
+      "series_ticker": "SENATETX",
+      "title": "Will Republicans win the Senate race in Texas?",
+      "source_file": "../kalshi/data/markets/market_SENATETX_SENATETX-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEUT-28-D",
+      "event_ticker": "SENATEUT-28",
+      "series_ticker": "SENATEUT",
+      "title": "Will Democratics win the Senate race in Utah?",
+      "source_file": "../kalshi/data/markets/market_SENATEUT_SENATEUT-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEUT-28-R",
+      "event_ticker": "SENATEUT-28",
+      "series_ticker": "SENATEUT",
+      "title": "Will Republicans win the Senate race in Utah?",
+      "source_file": "../kalshi/data/markets/market_SENATEUT_SENATEUT-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEVA-26-D",
+      "event_ticker": "SENATEVA-26",
+      "series_ticker": "SENATEVA",
+      "title": "Will Democratics win the Senate race in Virginia?",
+      "source_file": "../kalshi/data/markets/market_SENATEVA_SENATEVA-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEVA-26-R",
+      "event_ticker": "SENATEVA-26",
+      "series_ticker": "SENATEVA",
+      "title": "Will Republicans win the Senate race in Virginia?",
+      "source_file": "../kalshi/data/markets/market_SENATEVA_SENATEVA-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEVT-28-D",
+      "event_ticker": "SENATEVT-28",
+      "series_ticker": "SENATEVT",
+      "title": "Will Democratics win the Senate race in Vermont?",
+      "source_file": "../kalshi/data/markets/market_SENATEVT_SENATEVT-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEVT-28-R",
+      "event_ticker": "SENATEVT-28",
+      "series_ticker": "SENATEVT",
+      "title": "Will Republicans win the Senate race in Vermont?",
+      "source_file": "../kalshi/data/markets/market_SENATEVT_SENATEVT-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWA-28-D",
+      "event_ticker": "SENATEWA-28",
+      "series_ticker": "SENATEWA",
+      "title": "Will Democratics win the Senate race in Washington?",
+      "source_file": "../kalshi/data/markets/market_SENATEWA_SENATEWA-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWA-28-R",
+      "event_ticker": "SENATEWA-28",
+      "series_ticker": "SENATEWA",
+      "title": "Will Republicans win the Senate race in Washington?",
+      "source_file": "../kalshi/data/markets/market_SENATEWA_SENATEWA-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWI-28-D",
+      "event_ticker": "SENATEWI-28",
+      "series_ticker": "SENATEWI",
+      "title": "Will Democratics win the Senate race in Wisconsin?",
+      "source_file": "../kalshi/data/markets/market_SENATEWI_SENATEWI-28-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWI-28-R",
+      "event_ticker": "SENATEWI-28",
+      "series_ticker": "SENATEWI",
+      "title": "Will Republicans win the Senate race in Wisconsin?",
+      "source_file": "../kalshi/data/markets/market_SENATEWI_SENATEWI-28-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWV-26-D",
+      "event_ticker": "SENATEWV-26",
+      "series_ticker": "SENATEWV",
+      "title": "Will Democratics win the Senate race in West Virginia?",
+      "source_file": "../kalshi/data/markets/market_SENATEWV_SENATEWV-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWV-26-R",
+      "event_ticker": "SENATEWV-26",
+      "series_ticker": "SENATEWV",
+      "title": "Will Republicans win the Senate race in West Virginia?",
+      "source_file": "../kalshi/data/markets/market_SENATEWV_SENATEWV-26-R.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWY-26-D",
+      "event_ticker": "SENATEWY-26",
+      "series_ticker": "SENATEWY",
+      "title": "Will Democratics win the Senate race in Wyoming?",
+      "source_file": "../kalshi/data/markets/market_SENATEWY_SENATEWY-26-D.json"
+    },
+    {
+      "type": "missing_seat_id",
+      "market_ticker": "SENATEWY-26-R",
+      "event_ticker": "SENATEWY-26",
+      "series_ticker": "SENATEWY",
+      "title": "Will Republicans win the Senate race in Wyoming?",
+      "source_file": "../kalshi/data/markets/market_SENATEWY_SENATEWY-26-R.json"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:AZ-01:2025:D",
+      "seat": "AZ-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 118.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:CA-01:2026:OTH",
+      "seat": "CA-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 119.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:CO-03:2026:R",
+      "seat": "CO-03",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 80.9,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:DC-AL:2026:D",
+      "seat": "DC-AL",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 141.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:FL-19:2026:R",
+      "seat": "FL-19",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 157.4,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:GA-01:2026:R",
+      "seat": "GA-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 116.5,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:GA-07:2026:D",
+      "seat": "GA-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 113.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:GA-10:2026:D",
+      "seat": "GA-10",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 111.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:GA-11:2026:R",
+      "seat": "GA-11",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 175.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:HI-01:2026:D",
+      "seat": "HI-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 111.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IL-07:2026:D",
+      "seat": "IL-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 120.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IL-08:2026:D",
+      "seat": "IL-08",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 123.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IL-08:2026:R",
+      "seat": "IL-08",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 112.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IL-09:2026:D",
+      "seat": "IL-09",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 113.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IL-15:2026:D",
+      "seat": "IL-15",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 111.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IN-04:2026:R",
+      "seat": "IN-04",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 117.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IN-05:2026:D",
+      "seat": "IN-05",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 120.55,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IN-06:2026:D",
+      "seat": "IN-06",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 135.9,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:IN-07:2026:R",
+      "seat": "IN-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 82.7,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:LA-05:2026:D",
+      "seat": "LA-05",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 89.3,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:MA-06:2026:D",
+      "seat": "MA-06",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 116.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:MD-05:2026:D",
+      "seat": "MD-05",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 139.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:MI-13:2026:D",
+      "seat": "MI-13",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 153.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NE-02:2026:D",
+      "seat": "NE-02",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 113.9,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NJ-07:2026:D",
+      "seat": "NJ-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 152.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NV-02:2026:D",
+      "seat": "NV-02",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 110.5,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NY-04:2026:R",
+      "seat": "NY-04",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 77.75,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NY-07:2026:D",
+      "seat": "NY-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 112.1,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NY-08:2026:D",
+      "seat": "NY-08",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 115.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NY-12:2026:D",
+      "seat": "NY-12",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 133.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NY-13:2026:D",
+      "seat": "NY-13",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 157.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:NY-17:2026:D",
+      "seat": "NY-17",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 123.5,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:OH-01:2026:R",
+      "seat": "OH-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 112.3,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:OH-07:2026:D",
+      "seat": "OH-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 170.7,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:OH-09:2026:R",
+      "seat": "OH-09",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 115.5,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:PA-03:2026:D",
+      "seat": "PA-03",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 112.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:PA-07:2026:D",
+      "seat": "PA-07",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 114.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:SC-01:2026:R",
+      "seat": "SC-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 162.1,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:TX-01:2026:D",
+      "seat": "TX-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 111.4,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:TX-09:2026:R",
+      "seat": "TX-09",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 116.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:TX-16:2026:R",
+      "seat": "TX-16",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 112.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:TX-35:2026:D",
+      "seat": "TX-35",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 87.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "odds_map_out_of_band",
+      "contest_id": "US-REP:UT-01:2026:D",
+      "seat": "UT-01",
+      "round": "primary",
+      "market_role": "candidate_nominee",
+      "odds_map_sum": 116.0,
+      "odds_map_sum_status": "out_of_band"
+    },
+    {
+      "type": "candidate_match_blocking_unresolved",
+      "office": "us_house",
+      "threshold": 2.0,
+      "count": 18
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+advance_count,contest_id,count,event_ticker,expected_range,market_role,market_ticker,observed_sum,odds_map_sum,odds_map_sum_status,office,round,seat,series_ticker,source_file,threshold,title,type
+2,,,KXCA40PRIMARYADVANCE-26,"[160, 240]",,,243.0,,,,,,,,,,advance_sum_out_of_band
+2,,,KXCAPRIMARY-3226,"[160, 240]",,,247.9,,,,,,,,,,advance_sum_out_of_band
+,,,CONTROLH-2026,,,CONTROLH-2026-D,,,,,,,CONTROLH,../kalshi/data/markets/market_CONTROLH_CONTROLH-2026-D.json,,Will Democrats win the House in 2026?,missing_seat_id
+,,,CONTROLH-2026,,,CONTROLH-2026-R,,,,,,,CONTROLH,../kalshi/data/markets/market_CONTROLH_CONTROLH-2026-R.json,,Will Republicans win the House in 2026?,missing_seat_id
+,,,CONTROLS-2026,,,CONTROLS-2026-D,,,,,,,CONTROLS,../kalshi/data/markets/market_CONTROLS_CONTROLS-2026-D.json,,Will Democrats win the U.S. Senate in 2026?,missing_seat_id
+,,,CONTROLS-2026,,,CONTROLS-2026-R,,,,,,,CONTROLS,../kalshi/data/markets/market_CONTROLS_CONTROLS-2026-R.json,,Will Republicans win the U.S. Senate in 2026?,missing_seat_id
+,,,KXAMEND22-29,,,KXAMEND22-29-JAN01,,,,,,,KXAMEND22,../kalshi/data/markets/market_KXAMEND22_KXAMEND22-29-JAN01.json,,"Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029",missing_seat_id
+,,,KXBRUVSEAT,,,KXBRUVSEAT-35,,,,,,,KXBRUVSEAT,../kalshi/data/markets/market_KXBRUVSEAT_KXBRUVSEAT-35.json,,"Will Britain Restoring Underlying Values (""BRUV"") win a seat in the next U.K. general election?",missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-A49,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-A49.json,,Will Democrats win above 49 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-B44,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-B44.json,,Will Democrats win below 44 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-E44,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E44.json,,Will Democrats win exactly 44 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-E45,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E45.json,,Will Democrats win exactly 45 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-E46,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E46.json,,Will Democrats win exactly 46 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-E47,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E47.json,,Will Democrats win exactly 47 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-E48,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E48.json,,Will Democrats win exactly 48 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCAHOUSEDEM-26NOV03,,,KXCAHOUSEDEM-26NOV03-E49,,,,,,,KXCAHOUSEDEM,../kalshi/data/markets/market_KXCAHOUSEDEM_KXCAHOUSEDEM-26NOV03-E49.json,,Will Democrats win exactly 49 seats in the 2026 U.S. House of Representatives elections in California?,missing_seat_id
+,,,KXCANADALIBERAL,,,KXCANADALIBERAL-26DEC31,,,,,,,KXCANADALIBERAL,../kalshi/data/markets/market_KXCANADALIBERAL_KXCANADALIBERAL-26DEC31.json,,Will the Canadian Liberal party gain majority control of the House of Commons in 2026?,missing_seat_id
+,,,KXCAPCONTROL,,,KXCAPCONTROL-29,,,,,,,KXCAPCONTROL,test_data\kalshi\market\market_KXCAPCONTROL_KXCAPCONTROL-29.json,,Will Trump impose capital controls before 2029?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-210,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-210.json,,Will the Democratic party win below 210 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-212,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-212.json,,Will the Democratic party win 210-213 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-216,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-216.json,,Will the Democratic party win 214-217 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-220,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-220.json,,Will the Democratic party win 218-221 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-224,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-224.json,,Will the Democratic party win 222-225 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-228,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-228.json,,Will the Democratic party win 226-229 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-232,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-232.json,,Will the Democratic party win 230-233 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-236,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-236.json,,Will the Democratic party win 234-237 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-240,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-240.json,,Will the Democratic party win 238-241 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-244,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-244.json,,Will the Democratic party win 242-245 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-248,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-248.json,,Will the Democratic party win 246-249 House seats in the 120th Congress?,missing_seat_id
+,,,KXDHOUSESEATS-27,,,KXDHOUSESEATS-27-249,,,,,,,KXDHOUSESEATS,../kalshi/data/markets/market_KXDHOUSESEATS_KXDHOUSESEATS-27-249.json,,Will the Democratic party win above 249 House seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-45,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-45.json,,Will the Democratic Party hold 45 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-46,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-46.json,,Will the Democratic Party hold 46 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-47,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-47.json,,Will the Democratic Party hold 47 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-48,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-48.json,,Will the Democratic Party hold 48 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-49,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-49.json,,Will the Democratic Party hold 49 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-50,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-50.json,,Will the Democratic Party hold 50 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-51,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-51.json,,Will the Democratic Party hold 51 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-52,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-52.json,,Will the Democratic Party hold 52 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-ABOVE52,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-ABOVE52.json,,Will the Democratic Party hold more than 52 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATS-27,,,KXDSENATESEATS-27-BELOW45,,,,,,,KXDSENATESEATS,../kalshi/data/markets/market_KXDSENATESEATS_KXDSENATESEATS-27-BELOW45.json,,Will the Democratic Party hold less than 45 seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-A57,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-A57.json,,Will the Democratic party hold more than 57 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-B53,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-B53.json,,Will the Democratic party hold fewer than 53 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-E53,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E53.json,,Will the Democratic party hold exactly 53 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-E54,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E54.json,,Will the Democratic party hold exactly 54 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-E55,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E55.json,,Will the Democratic party hold exactly 55 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-E56,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E56.json,,Will the Democratic party hold exactly 56 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXDSENATESEATSH-27,,,KXDSENATESEATSH-27-E57,,,,,,,KXDSENATESEATSH,../kalshi/data/markets/market_KXDSENATESEATSH_KXDSENATESEATSH-27-E57.json,,Will the Democratic party hold exactly 57 Senate seats in the 120th Congress?,missing_seat_id
+,,,KXHOUSEEXPEL-26JUN01,,,KXHOUSEEXPEL-26JUN01-T0,,,,,,,KXHOUSEEXPEL,../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T0.json,,0,missing_seat_id
+,,,KXHOUSEEXPEL-26JUN01,,,KXHOUSEEXPEL-26JUN01-T1,,,,,,,KXHOUSEEXPEL,../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T1.json,,1,missing_seat_id
+,,,KXHOUSEEXPEL-26JUN01,,,KXHOUSEEXPEL-26JUN01-T2,,,,,,,KXHOUSEEXPEL,../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T2.json,,2,missing_seat_id
+,,,KXHOUSEEXPEL-26JUN01,,,KXHOUSEEXPEL-26JUN01-T3,,,,,,,KXHOUSEEXPEL,../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T3.json,,3,missing_seat_id
+,,,KXHOUSEEXPEL-26JUN01,,,KXHOUSEEXPEL-26JUN01-T4,,,,,,,KXHOUSEEXPEL,../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T4.json,,4,missing_seat_id
+,,,KXHOUSEEXPEL-26JUN01,,,KXHOUSEEXPEL-26JUN01-T5,,,,,,,KXHOUSEEXPEL,../kalshi/data/markets/market_KXHOUSEEXPEL_KXHOUSEEXPEL-26JUN01-T5.json,,5,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B1,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B1.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 0 and 2%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B11,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B11.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 10 and 12%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B13,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B13.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 12 and 14%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B15,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B15.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 14 and 16%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B3,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B3.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 2 and 4%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B5,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B5.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 4 and 6%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B50,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B50.json,,Will Republicans win the 2026 U.S. House of Representatives national popular vote?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B58,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B58.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 16 and 100%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B7,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B7.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 6 and 8%?,missing_seat_id
+,,,KXHOUSEPOPVOTEMARGIN-27NOV03,,,KXHOUSEPOPVOTEMARGIN-27NOV03-B9,,,,,,,KXHOUSEPOPVOTEMARGIN,../kalshi/data/markets/market_KXHOUSEPOPVOTEMARGIN_KXHOUSEPOPVOTEMARGIN-27NOV03-B9.json,,Will the Democratic margin of victory in the 2026 U.S. House of Representatives national popular vote be between 8 and 10%?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-100,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-100.json,,Will the total 2026 U.S. House turnout be between 100 and 104.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-105,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-105.json,,Will the total 2026 U.S. House turnout be between 105 and 109.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-110,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-110.json,,Will the total 2026 U.S. House turnout be between 110 and 114.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-115,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-115.json,,Will the total 2026 U.S. House turnout be between 115 and 119.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-120,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-120.json,,Will the total 2026 U.S. House turnout be between 120 and 124.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-90,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-90.json,,Will the total 2026 U.S. House turnout be between 90 and 94.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-95,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-95.json,,Will the total 2026 U.S. House turnout be between 95 and 99.99 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-ABOVE125,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-ABOVE125.json,,Will the total 2026 U.S. House turnout be at least 125 million?,missing_seat_id
+,,,KXHOUSETURNOUT-26NOV03,,,KXHOUSETURNOUT-26NOV03-BELOW90,,,,,,,KXHOUSETURNOUT,../kalshi/data/markets/market_KXHOUSETURNOUT_KXHOUSETURNOUT-26NOV03-BELOW90.json,,Will the total 2026 U.S. House turnout be less than 90 million?,missing_seat_id
+,,,KXLOSEMAJORITY,,,KXLOSEMAJORITY-27JAN01,,,,,,,KXLOSEMAJORITY,../kalshi/data/markets/market_KXLOSEMAJORITY_KXLOSEMAJORITY-27JAN01.json,,Will the Republican Party loses majority control of the U.S. House of Representatives before the 2026 midterms?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-0,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-0.json,,Will exactly 0 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-1,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-1.json,,Will exactly 1 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-2,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-2.json,,Will exactly 2 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-3,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-3.json,,Will exactly 3 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-4,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-4.json,,Will exactly 4 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-5,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-5.json,,Will exactly 5 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-6,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-6.json,,Will exactly 6 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSED-26NOV03,,,KXLOSEPRIMARYHOUSED-26NOV03-6T,,,,,,,KXLOSEPRIMARYHOUSED,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSED_KXLOSEPRIMARYHOUSED-26NOV03-6T.json,,Will more than 6 House Democratic members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-0,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-0.json,,Will exactly 0 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-1,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-1.json,,Will exactly 1 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-2,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-2.json,,Will exactly 2 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-3,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-3.json,,Will exactly 3 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-4,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-4.json,,Will exactly 4 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-5,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-5.json,,Will exactly 5 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-6,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-6.json,,Will exactly 6 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEPRIMARYHOUSER-26NOV03,,,KXLOSEPRIMARYHOUSER-26NOV03-6T,,,,,,,KXLOSEPRIMARYHOUSER,../kalshi/data/markets/market_KXLOSEPRIMARYHOUSER_KXLOSEPRIMARYHOUSER-26NOV03-6T.json,,Will more than 6 House Republican members lose their primary in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONDSEN-2026,,,KXLOSEREELECTIONDSEN-2026-0,,,,,,,KXLOSEREELECTIONDSEN,../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-0.json,,Will exactly 0 Senate Democrats lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONDSEN-2026,,,KXLOSEREELECTIONDSEN-2026-1,,,,,,,KXLOSEREELECTIONDSEN,../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-1.json,,Will exactly 1 Senate Democrats lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONDSEN-2026,,,KXLOSEREELECTIONDSEN-2026-2,,,,,,,KXLOSEREELECTIONDSEN,../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-2.json,,Will exactly 2 Senate Democrats lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONDSEN-2026,,,KXLOSEREELECTIONDSEN-2026-3,,,,,,,KXLOSEREELECTIONDSEN,../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-3.json,,Will exactly 3 Senate Democrats lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONDSEN-2026,,,KXLOSEREELECTIONDSEN-2026-4,,,,,,,KXLOSEREELECTIONDSEN,../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-4.json,,Will exactly 4 Senate Democrats lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONDSEN-2026,,,KXLOSEREELECTIONDSEN-2026-5,,,,,,,KXLOSEREELECTIONDSEN,../kalshi/data/markets/market_KXLOSEREELECTIONDSEN_KXLOSEREELECTIONDSEN-2026-5.json,,Will at least 5 Senate Democrats lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONRSEN-2026,,,KXLOSEREELECTIONRSEN-2026-0,,,,,,,KXLOSEREELECTIONRSEN,../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-0.json,,Will exactly 0 the Senate Republicans lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONRSEN-2026,,,KXLOSEREELECTIONRSEN-2026-1,,,,,,,KXLOSEREELECTIONRSEN,../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-1.json,,Will exactly 1 the Senate Republicans lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONRSEN-2026,,,KXLOSEREELECTIONRSEN-2026-2,,,,,,,KXLOSEREELECTIONRSEN,../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-2.json,,Will exactly 2 the Senate Republicans lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONRSEN-2026,,,KXLOSEREELECTIONRSEN-2026-3,,,,,,,KXLOSEREELECTIONRSEN,../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-3.json,,Will exactly 3 the Senate Republicans lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONRSEN-2026,,,KXLOSEREELECTIONRSEN-2026-4,,,,,,,KXLOSEREELECTIONRSEN,../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-4.json,,Will exactly 4 the Senate Republicans lose re-election in 2026?,missing_seat_id
+,,,KXLOSEREELECTIONRSEN-2026,,,KXLOSEREELECTIONRSEN-2026-5,,,,,,,KXLOSEREELECTIONRSEN,../kalshi/data/markets/market_KXLOSEREELECTIONRSEN_KXLOSEREELECTIONRSEN-2026-5.json,,Will at least 5 the Senate Republicans lose re-election in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-10,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-10.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-100,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-100.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-15,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-15.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-20,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-20.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-25,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-25.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-5,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-5.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-50,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-50.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXMUSKCHALLENGERS-26,,,KXMUSKCHALLENGERS-26-75,,,,,,,KXMUSKCHALLENGERS,../kalshi/data/markets/market_KXMUSKCHALLENGERS_KXMUSKCHALLENGERS-26-75.json,,How many Elon-backed challengers will win seats in Congress in 2026?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-AHAB,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-AHAB.json,,Will Alina Habba be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-JMIL,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-JMIL.json,,Will Jason Miller be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-KLAK,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-KLAK.json,,Will Kari Lake be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-NNP,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-NNP.json,,Will No new person be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-SCHE,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-SCHE.json,,Will Steven Cheung be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-SJEN,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-SJEN.json,,Will Scott Jennings be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-SSTE,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-SSTE.json,,Will Sage Steele be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTPRESSEC-29JAN21,,,KXNEXTPRESSEC-29JAN21-TCAR,,,,,,,KXNEXTPRESSEC,../kalshi/data/markets/market_KXNEXTPRESSEC_KXNEXTPRESSEC-29JAN21-TCAR.json,,Will Tucker Carlson be the next White House Press Secretary of United States?,missing_seat_id
+,,,KXNEXTSPEAKER-31,,,KXNEXTSPEAKER-31-HJEF,,,,,,,KXNEXTSPEAKER,../kalshi/data/markets/market_KXNEXTSPEAKER_KXNEXTSPEAKER-31-HJEF.json,,Will Hakeem Jeffries be the next Speaker of the House?,missing_seat_id
+,,,KXNEXTSPEAKER-31,,,KXNEXTSPEAKER-31-JJOR,,,,,,,KXNEXTSPEAKER,../kalshi/data/markets/market_KXNEXTSPEAKER_KXNEXTSPEAKER-31-JJOR.json,,Will Jim Jordan be the next Speaker of the House?,missing_seat_id
+,,,KXNEXTSPEAKER-31,,,KXNEXTSPEAKER-31-SSCA,,,,,,,KXNEXTSPEAKER,../kalshi/data/markets/market_KXNEXTSPEAKER_KXNEXTSPEAKER-31-SSCA.json,,Will Steve Scalise be the next Speaker of the House?,missing_seat_id
+,,,KXPARTYLEAVE-27,,,KXPARTYLEAVE-27-JAN01,,,,,,,KXPARTYLEAVE,../kalshi/data/markets/market_KXPARTYLEAVE_KXPARTYLEAVE-27-JAN01.json,,Will anyone in Congress change parties?,missing_seat_id
+,,,KXPRESPARTY-2028,,,KXPRESPARTY-2028-D,,,,,,,KXPRESPARTY,../kalshi/data/markets/market_KXPRESPARTY_KXPRESPARTY-2028-D.json,,Will Democratic win the Presidency in 2028?,missing_seat_id
+,,,KXPRESPARTY-2028,,,KXPRESPARTY-2028-R,,,,,,,KXPRESPARTY,../kalshi/data/markets/market_KXPRESPARTY_KXPRESPARTY-2028-R.json,,Will Republican win the Presidency in 2028?,missing_seat_id
+,,,KXRETIREBACON,,,KXRETIREBACON-26,,,,,,,KXRETIREBACON,../kalshi/data/markets/market_KXRETIREBACON_KXRETIREBACON-26.json,,Will Don Bacon resign his office early?,missing_seat_id
+,,,KXRETIREMACE,,,KXRETIREMACE-26,,,,,,,KXRETIREMACE,../kalshi/data/markets/market_KXRETIREMACE_KXRETIREMACE-26.json,,Will Nancy Mace resign before the midterms?,missing_seat_id
+,,,KXRETIREMM,,,KXRETIREMM-26,,,,,,,KXRETIREMM,../kalshi/data/markets/market_KXRETIREMM_KXRETIREMM-26.json,,Will Mitch McConnell resign his office early?,missing_seat_id
+,,,KXRETIREPELOSI,,,KXRETIREPELOSI-26,,,,,,,KXRETIREPELOSI,../kalshi/data/markets/market_KXRETIREPELOSI_KXRETIREPELOSI-26.json,,Will Nancy Pelosi resign her office early?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-193,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-193.json,,Will the Republican Party win 193 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-195,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-195.json,,Will the Republican Party win 193-197 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-200,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-200.json,,Will the Republican Party win 198-202 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-205,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-205.json,,Will the Republican Party win 203-207 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-210,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-210.json,,Will the Republican Party win 208-212 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-215,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-215.json,,Will the Republican Party win 213-217 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-220,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-220.json,,Will the Republican Party win 218-222 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-225,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-225.json,,Will the Republican Party win 223-227 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-230,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-230.json,,Will the Republican Party win 228-232 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-235,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-235.json,,Will the Republican Party win 233-237 seats  in the 120th Congress?,missing_seat_id
+,,,KXRHOUSESEATS-27,,,KXRHOUSESEATS-27-237,,,,,,,KXRHOUSESEATS,../kalshi/data/markets/market_KXRHOUSESEATS_KXRHOUSESEATS-27-237.json,,Will the Republican Party win 237 seats  in the 120th Congress?,missing_seat_id
+,,,KXSCHUMEROUT-25,,,KXSCHUMEROUT-25-JULY26,,,,,,,KXSCHUMEROUT,../kalshi/data/markets/market_KXSCHUMEROUT_KXSCHUMEROUT-25-JULY26.json,,Will Chuck Schumer no longer be Senate Minority Leader in 2026?,missing_seat_id
+,,,KXSCHUMEROUT-25,,,KXSCHUMEROUT-25-NOV26,,,,,,,KXSCHUMEROUT,../kalshi/data/markets/market_KXSCHUMEROUT_KXSCHUMEROUT-25-NOV26.json,,Will Chuck Schumer no longer be Senate Minority Leader in 2026?,missing_seat_id
+,,,KXSENATELA-26NOV,,,KXSENATELA-26NOV-D,,,,,,,KXSENATELA,../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-D.json,,Will Democratics win the Senate race in Louisiana?,missing_seat_id
+,,,KXSENATELA-26NOV,,,KXSENATELA-26NOV-R,,,,,,,KXSENATELA,../kalshi/data/markets/market_KXSENATELA_KXSENATELA-26NOV-R.json,,Will Republicans win the Senate race in Louisiana?,missing_seat_id
+,,,KXSOTHLEAVE-26,,,KXSOTHLEAVE-26-JULY,,,,,,,KXSOTHLEAVE,../kalshi/data/markets/market_KXSOTHLEAVE_KXSOTHLEAVE-26-JULY.json,,Will Mike Johnson no longer be Speaker of the House before 2026?,missing_seat_id
+,,,KXSOTHLEAVE-26,,,KXSOTHLEAVE-26-NOV,,,,,,,KXSOTHLEAVE,../kalshi/data/markets/market_KXSOTHLEAVE_KXSOTHLEAVE-26-NOV.json,,Will Mike Johnson no longer be Speaker of the House before 2026?,missing_seat_id
+,,,KXTERMLIMITS,,,KXTERMLIMITS-29,,,,,,,KXTERMLIMITS,../kalshi/data/markets/market_KXTERMLIMITS_KXTERMLIMITS-29.json,,Will a constitutional amendment requiring term limits for Congress happen during Trump's term?,missing_seat_id
+,,,KXTXHOUSE-26,,,KXTXHOUSE-26-D,,,,,,,KXTXHOUSE,../kalshi/data/markets/market_KXTXHOUSE_KXTXHOUSE-26-D.json,,Who will win the Texas House of Representatives?,missing_seat_id
+,,,KXTXHOUSE-26,,,KXTXHOUSE-26-R,,,,,,,KXTXHOUSE,../kalshi/data/markets/market_KXTXHOUSE_KXTXHOUSE-26-R.json,,Who will win the Texas House of Representatives?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-A13,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-A13.json,,Will Democrats win at least 14 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-B8,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-B8.json,,Will Democrats win below 8 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-E10,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E10.json,,Will Democrats win exactly 10 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-E11,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E11.json,,Will Democrats win exactly 11 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-E12,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E12.json,,Will Democrats win exactly 12 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-E13,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E13.json,,Will Democrats win exactly 13 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-E8,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E8.json,,Will Democrats win exactly 8 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXTXHOUSEDEMSEATS-26NOV03,,,KXTXHOUSEDEMSEATS-26NOV03-E9,,,,,,,KXTXHOUSEDEMSEATS,../kalshi/data/markets/market_KXTXHOUSEDEMSEATS_KXTXHOUSEDEMSEATS-26NOV03-E9.json,,Will Democrats win exactly 9 seats in 2026 U.S. House of Representatives elections in Texas?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-10,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-10.json,,Will Democrats win exactly 10 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-11,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-11.json,,Will Democrats win exactly 11 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-6,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-6.json,,Will Democrats win exactly 6 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-7,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-7.json,,Will Democrats win exactly 7 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-8,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-8.json,,Will Democrats win exactly 8 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-9,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-9.json,,Will Democrats win exactly 9 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,KXVAHOUSEDEM-26NOV03,,,KXVAHOUSEDEM-26NOV03-BELOW6,,,,,,,KXVAHOUSEDEM,../kalshi/data/markets/market_KXVAHOUSEDEM_KXVAHOUSEDEM-26NOV03-BELOW6.json,,Will Democrats win below 6 seats in 2026 Virginia House of Representatives elections?,missing_seat_id
+,,,POWER-28,,,POWER-28-DH-DS-DP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-DH-DS-DP.json,,"Will the Democratic party win the House, the Democratic party win the Senate, and the Democratic party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-DH-DS-RP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-DH-DS-RP.json,,"Will the Democratic party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-DH-RS-DP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-DH-RS-DP.json,,"Will the Democratic party win the House, the Republican party win the Senate, and the Democratic party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-DH-RS-RP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-DH-RS-RP.json,,"Will the Democratic party win the House, the Republican party win the Senate, and the Republican party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-RH-DS-DP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-RH-DS-DP.json,,"Will the Republican party win the House, the Democratic party win the Senate, and the Democratic party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-RH-DS-RP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-RH-DS-RP.json,,"Will the Republican party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-RH-RS-DP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-RH-RS-DP.json,,"Will the Republican party win the House, the Republican party win the Senate, and the Democratic party win the Presidency?",missing_seat_id
+,,,POWER-28,,,POWER-28-RH-RS-RP,,,,,,,POWER,../kalshi/data/markets/market_POWER_POWER-28-RH-RS-RP.json,,"Will the Republican party win the House, the Republican party win the Senate, and the Republican party win the Presidency?",missing_seat_id
+,,,SENATEAK-26,,,SENATEAK-26-D,,,,,,,SENATEAK,../kalshi/data/markets/market_SENATEAK_SENATEAK-26-D.json,,Will Democratics win the Senate race in Alaska?,missing_seat_id
+,,,SENATEAK-26,,,SENATEAK-26-R,,,,,,,SENATEAK,../kalshi/data/markets/market_SENATEAK_SENATEAK-26-R.json,,Will Republicans win the Senate race in Alaska?,missing_seat_id
+,,,SENATEAK-28,,,SENATEAK-28-D,,,,,,,SENATEAK,../kalshi/data/markets/market_SENATEAK_SENATEAK-28-D.json,,Will Democratics win the Senate race in Alaska?,missing_seat_id
+,,,SENATEAK-28,,,SENATEAK-28-R,,,,,,,SENATEAK,../kalshi/data/markets/market_SENATEAK_SENATEAK-28-R.json,,Will Republicans win the Senate race in Alaska?,missing_seat_id
+,,,SENATEAL-26,,,SENATEAL-26-D,,,,,,,SENATEAL,../kalshi/data/markets/market_SENATEAL_SENATEAL-26-D.json,,Will Democratics win the Senate race in Alabama?,missing_seat_id
+,,,SENATEAL-26,,,SENATEAL-26-R,,,,,,,SENATEAL,../kalshi/data/markets/market_SENATEAL_SENATEAL-26-R.json,,Will Republicans win the Senate race in Alabama?,missing_seat_id
+,,,SENATEAL-28-2,,,SENATEAL-28-2-D,,,,,,,SENATEAL,../kalshi/data/markets/market_SENATEAL_SENATEAL-28-2-D.json,,Will Democratics win the Senate race in Alabama?,missing_seat_id
+,,,SENATEAL-28-2,,,SENATEAL-28-2-R,,,,,,,SENATEAL,../kalshi/data/markets/market_SENATEAL_SENATEAL-28-2-R.json,,Will Republicans win the Senate race in Alabama?,missing_seat_id
+,,,SENATEAR-26,,,SENATEAR-26-D,,,,,,,SENATEAR,../kalshi/data/markets/market_SENATEAR_SENATEAR-26-D.json,,Will Democratics win the Senate race in Arkansas?,missing_seat_id
+,,,SENATEAR-26,,,SENATEAR-26-R,,,,,,,SENATEAR,../kalshi/data/markets/market_SENATEAR_SENATEAR-26-R.json,,Will Republicans win the Senate race in Arkansas?,missing_seat_id
+,,,SENATEAR-28,,,SENATEAR-28-D,,,,,,,SENATEAR,../kalshi/data/markets/market_SENATEAR_SENATEAR-28-D.json,,Will Democratics win the Senate race in Arkansas?,missing_seat_id
+,,,SENATEAR-28,,,SENATEAR-28-R,,,,,,,SENATEAR,../kalshi/data/markets/market_SENATEAR_SENATEAR-28-R.json,,Will Republicans win the Senate race in Arkansas?,missing_seat_id
+,,,SENATEAZ-28,,,SENATEAZ-28-D,,,,,,,SENATEAZ,../kalshi/data/markets/market_SENATEAZ_SENATEAZ-28-D.json,,Will Democratics win the Senate race in Arizona?,missing_seat_id
+,,,SENATEAZ-28,,,SENATEAZ-28-R,,,,,,,SENATEAZ,../kalshi/data/markets/market_SENATEAZ_SENATEAZ-28-R.json,,Will Republicans win the Senate race in Arizona?,missing_seat_id
+,,,SENATECA-28,,,SENATECA-28-D,,,,,,,SENATECA,../kalshi/data/markets/market_SENATECA_SENATECA-28-D.json,,Will Democratics win the Senate race in California?,missing_seat_id
+,,,SENATECA-28,,,SENATECA-28-R,,,,,,,SENATECA,../kalshi/data/markets/market_SENATECA_SENATECA-28-R.json,,Will Republicans win the Senate race in California?,missing_seat_id
+,,,SENATECO-26,,,SENATECO-26-D,,,,,,,SENATECO,../kalshi/data/markets/market_SENATECO_SENATECO-26-D.json,,Will Democratics win the Senate race in Colorado?,missing_seat_id
+,,,SENATECO-26,,,SENATECO-26-R,,,,,,,SENATECO,../kalshi/data/markets/market_SENATECO_SENATECO-26-R.json,,Will Republicans win the Senate race in Colorado?,missing_seat_id
+,,,SENATECO-28,,,SENATECO-28-D,,,,,,,SENATECO,../kalshi/data/markets/market_SENATECO_SENATECO-28-D.json,,Will Democratics win the Senate race in Colorado?,missing_seat_id
+,,,SENATECO-28,,,SENATECO-28-R,,,,,,,SENATECO,../kalshi/data/markets/market_SENATECO_SENATECO-28-R.json,,Will Republicans win the Senate race in Colorado?,missing_seat_id
+,,,SENATECT-28,,,SENATECT-28-D,,,,,,,SENATECT,../kalshi/data/markets/market_SENATECT_SENATECT-28-D.json,,Will Democratics win the Senate race in Connecticut?,missing_seat_id
+,,,SENATECT-28,,,SENATECT-28-R,,,,,,,SENATECT,../kalshi/data/markets/market_SENATECT_SENATECT-28-R.json,,Will Republicans win the Senate race in Connecticut?,missing_seat_id
+,,,SENATEDE-26,,,SENATEDE-26-D,,,,,,,SENATEDE,../kalshi/data/markets/market_SENATEDE_SENATEDE-26-D.json,,Will Democratics win the Senate race in Delaware?,missing_seat_id
+,,,SENATEDE-26,,,SENATEDE-26-R,,,,,,,SENATEDE,../kalshi/data/markets/market_SENATEDE_SENATEDE-26-R.json,,Will Republicans win the Senate race in Delaware?,missing_seat_id
+,,,SENATEFL-28,,,SENATEFL-28-D,,,,,,,SENATEFL,../kalshi/data/markets/market_SENATEFL_SENATEFL-28-D.json,,Will Democratics win the Senate race in Florida?,missing_seat_id
+,,,SENATEFL-28,,,SENATEFL-28-R,,,,,,,SENATEFL,../kalshi/data/markets/market_SENATEFL_SENATEFL-28-R.json,,Will Republicans win the Senate race in Florida?,missing_seat_id
+,,,SENATEFLS-26,,,SENATEFLS-26-D,,,,,,,SENATEFLS,../kalshi/data/markets/market_SENATEFLS_SENATEFLS-26-D.json,,Will Democratics win the Senate race in Florida?,missing_seat_id
+,,,SENATEFLS-26,,,SENATEFLS-26-R,,,,,,,SENATEFLS,../kalshi/data/markets/market_SENATEFLS_SENATEFLS-26-R.json,,Will Republicans win the Senate race in Florida?,missing_seat_id
+,,,SENATEGA-26,,,SENATEGA-26-D,,,,,,,SENATEGA,../kalshi/data/markets/market_SENATEGA_SENATEGA-26-D.json,,Will Democratics win the Senate race in Georgia?,missing_seat_id
+,,,SENATEGA-26,,,SENATEGA-26-R,,,,,,,SENATEGA,../kalshi/data/markets/market_SENATEGA_SENATEGA-26-R.json,,Will Republicans win the Senate race in Georgia?,missing_seat_id
+,,,SENATEGA-28,,,SENATEGA-28-D,,,,,,,SENATEGA,../kalshi/data/markets/market_SENATEGA_SENATEGA-28-D.json,,Will Democratics win the Senate race in Georgia?,missing_seat_id
+,,,SENATEGA-28,,,SENATEGA-28-R,,,,,,,SENATEGA,../kalshi/data/markets/market_SENATEGA_SENATEGA-28-R.json,,Will Republicans win the Senate race in Georgia?,missing_seat_id
+,,,SENATEHI-28,,,SENATEHI-28-D,,,,,,,SENATEHI,../kalshi/data/markets/market_SENATEHI_SENATEHI-28-D.json,,Will Democratics win the Senate race in Hawaii?,missing_seat_id
+,,,SENATEHI-28,,,SENATEHI-28-R,,,,,,,SENATEHI,../kalshi/data/markets/market_SENATEHI_SENATEHI-28-R.json,,Will Republicans win the Senate race in Hawaii?,missing_seat_id
+,,,SENATEIA-26,,,SENATEIA-26-D,,,,,,,SENATEIA,../kalshi/data/markets/market_SENATEIA_SENATEIA-26-D.json,,Will Democratics win the Senate race in Iowa?,missing_seat_id
+,,,SENATEIA-26,,,SENATEIA-26-R,,,,,,,SENATEIA,../kalshi/data/markets/market_SENATEIA_SENATEIA-26-R.json,,Will Republicans win the Senate race in Iowa?,missing_seat_id
+,,,SENATEIA-28,,,SENATEIA-28-D,,,,,,,SENATEIA,../kalshi/data/markets/market_SENATEIA_SENATEIA-28-D.json,,Will Democratics win the Senate race in Iowa?,missing_seat_id
+,,,SENATEIA-28,,,SENATEIA-28-R,,,,,,,SENATEIA,../kalshi/data/markets/market_SENATEIA_SENATEIA-28-R.json,,Will Republicans win the Senate race in Iowa?,missing_seat_id
+,,,SENATEID-26,,,SENATEID-26-D,,,,,,,SENATEID,../kalshi/data/markets/market_SENATEID_SENATEID-26-D.json,,Will Democratics win the Senate race in Idaho?,missing_seat_id
+,,,SENATEID-26,,,SENATEID-26-R,,,,,,,SENATEID,../kalshi/data/markets/market_SENATEID_SENATEID-26-R.json,,Will Republicans win the Senate race in Idaho?,missing_seat_id
+,,,SENATEID-28,,,SENATEID-28-D,,,,,,,SENATEID,../kalshi/data/markets/market_SENATEID_SENATEID-28-D.json,,Will Democratics win the Senate race in Idaho?,missing_seat_id
+,,,SENATEID-28,,,SENATEID-28-R,,,,,,,SENATEID,../kalshi/data/markets/market_SENATEID_SENATEID-28-R.json,,Will Republicans win the Senate race in Idaho?,missing_seat_id
+,,,SENATEIL-26,,,SENATEIL-26-D,,,,,,,SENATEIL,../kalshi/data/markets/market_SENATEIL_SENATEIL-26-D.json,,Will Democratics win the Senate race in Illinois?,missing_seat_id
+,,,SENATEIL-26,,,SENATEIL-26-R,,,,,,,SENATEIL,../kalshi/data/markets/market_SENATEIL_SENATEIL-26-R.json,,Will Republicans win the Senate race in Illinois?,missing_seat_id
+,,,SENATEIL-28,,,SENATEIL-28-D,,,,,,,SENATEIL,../kalshi/data/markets/market_SENATEIL_SENATEIL-28-D.json,,Will Democratics win the Senate race in Illinois?,missing_seat_id
+,,,SENATEIL-28,,,SENATEIL-28-R,,,,,,,SENATEIL,../kalshi/data/markets/market_SENATEIL_SENATEIL-28-R.json,,Will Republicans win the Senate race in Illinois?,missing_seat_id
+,,,SENATEIN-28,,,SENATEIN-28-D,,,,,,,SENATEIN,../kalshi/data/markets/market_SENATEIN_SENATEIN-28-D.json,,Will Democratics win the Senate race in Indiana?,missing_seat_id
+,,,SENATEIN-28,,,SENATEIN-28-R,,,,,,,SENATEIN,../kalshi/data/markets/market_SENATEIN_SENATEIN-28-R.json,,Will Republicans win the Senate race in Indiana?,missing_seat_id
+,,,SENATEKS-26,,,SENATEKS-26-D,,,,,,,SENATEKS,../kalshi/data/markets/market_SENATEKS_SENATEKS-26-D.json,,Will Democratics win the Senate race in Kansas?,missing_seat_id
+,,,SENATEKS-26,,,SENATEKS-26-R,,,,,,,SENATEKS,../kalshi/data/markets/market_SENATEKS_SENATEKS-26-R.json,,Will Republicans win the Senate race in Kansas?,missing_seat_id
+,,,SENATEKS-28,,,SENATEKS-28-D,,,,,,,SENATEKS,../kalshi/data/markets/market_SENATEKS_SENATEKS-28-D.json,,Will Democratics win the Senate race in Kansas?,missing_seat_id
+,,,SENATEKS-28,,,SENATEKS-28-R,,,,,,,SENATEKS,../kalshi/data/markets/market_SENATEKS_SENATEKS-28-R.json,,Will Republicans win the Senate race in Kansas?,missing_seat_id
+,,,SENATELA-26,,,SENATELA-26-D,,,,,,,SENATELA,../kalshi/data/markets/market_SENATELA_SENATELA-26-D.json,,Will Democratics win the Senate race in Kentucky?,missing_seat_id
+,,,SENATELA-26,,,SENATELA-26-R,,,,,,,SENATELA,../kalshi/data/markets/market_SENATELA_SENATELA-26-R.json,,Will Republicans win the Senate race in Kentucky?,missing_seat_id
+,,,SENATELA-28,,,SENATELA-28-D,,,,,,,SENATELA,../kalshi/data/markets/market_SENATELA_SENATELA-28-D.json,,Will Democratics win the Senate race in Louisiana?,missing_seat_id
+,,,SENATELA-28,,,SENATELA-28-R,,,,,,,SENATELA,../kalshi/data/markets/market_SENATELA_SENATELA-28-R.json,,Will Republicans win the Senate race in Louisiana?,missing_seat_id
+,,,SENATEMA-26,,,SENATEMA-26-D,,,,,,,SENATEMA,../kalshi/data/markets/market_SENATEMA_SENATEMA-26-D.json,,Will Democratics win the Senate race in Massachusetts?,missing_seat_id
+,,,SENATEMA-26,,,SENATEMA-26-R,,,,,,,SENATEMA,../kalshi/data/markets/market_SENATEMA_SENATEMA-26-R.json,,Will Republicans win the Senate race in Massachusetts?,missing_seat_id
+,,,SENATEMD-28,,,SENATEMD-28-D,,,,,,,SENATEMD,../kalshi/data/markets/market_SENATEMD_SENATEMD-28-D.json,,Will Democratics win the Senate race in Maryland?,missing_seat_id
+,,,SENATEMD-28,,,SENATEMD-28-R,,,,,,,SENATEMD,../kalshi/data/markets/market_SENATEMD_SENATEMD-28-R.json,,Will Republicans win the Senate race in Maryland?,missing_seat_id
+,,,SENATEME-26,,,SENATEME-26-D,,,,,,,SENATEME,../kalshi/data/markets/market_SENATEME_SENATEME-26-D.json,,Will Democratics win the Senate race in Maine?,missing_seat_id
+,,,SENATEME-26,,,SENATEME-26-R,,,,,,,SENATEME,../kalshi/data/markets/market_SENATEME_SENATEME-26-R.json,,Will Republicans win the Senate race in Maine?,missing_seat_id
+,,,SENATEMI-26,,,SENATEMI-26-D,,,,,,,SENATEMI,../kalshi/data/markets/market_SENATEMI_SENATEMI-26-D.json,,Will Democratics win the Senate race in Michigan?,missing_seat_id
+,,,SENATEMI-26,,,SENATEMI-26-R,,,,,,,SENATEMI,../kalshi/data/markets/market_SENATEMI_SENATEMI-26-R.json,,Will Republicans win the Senate race in Michigan?,missing_seat_id
+,,,SENATEMN-26,,,SENATEMN-26-D,,,,,,,SENATEMN,../kalshi/data/markets/market_SENATEMN_SENATEMN-26-D.json,,Will Democratic (DFL)s win the Senate race in Minnesota?,missing_seat_id
+,,,SENATEMN-26,,,SENATEMN-26-R,,,,,,,SENATEMN,../kalshi/data/markets/market_SENATEMN_SENATEMN-26-R.json,,Will Republicans win the Senate race in Minnesota?,missing_seat_id
+,,,SENATEMO-28,,,SENATEMO-28-D,,,,,,,SENATEMO,../kalshi/data/markets/market_SENATEMO_SENATEMO-28-D.json,,Will Democratics win the Senate race in Missouri?,missing_seat_id
+,,,SENATEMO-28,,,SENATEMO-28-R,,,,,,,SENATEMO,../kalshi/data/markets/market_SENATEMO_SENATEMO-28-R.json,,Will Republicans win the Senate race in Missouri?,missing_seat_id
+,,,SENATEMS-26,,,SENATEMS-26-D,,,,,,,SENATEMS,../kalshi/data/markets/market_SENATEMS_SENATEMS-26-D.json,,Will Democratics win the Senate race in Mississippi?,missing_seat_id
+,,,SENATEMS-26,,,SENATEMS-26-R,,,,,,,SENATEMS,../kalshi/data/markets/market_SENATEMS_SENATEMS-26-R.json,,Will Republicans win the Senate race in Mississippi?,missing_seat_id
+,,,SENATEMT-26,,,SENATEMT-26-D,,,,,,,SENATEMT,../kalshi/data/markets/market_SENATEMT_SENATEMT-26-D.json,,Will Democratics win the Senate race in Montana?,missing_seat_id
+,,,SENATEMT-26,,,SENATEMT-26-IND,,,,,,,SENATEMT,../kalshi/data/markets/market_SENATEMT_SENATEMT-26-IND.json,,Will Independents win the Senate race in Montana?,missing_seat_id
+,,,SENATEMT-26,,,SENATEMT-26-R,,,,,,,SENATEMT,../kalshi/data/markets/market_SENATEMT_SENATEMT-26-R.json,,Will Republicans win the Senate race in Montana?,missing_seat_id
+,,,SENATENC-26,,,SENATENC-26-D,,,,,,,SENATENC,../kalshi/data/markets/market_SENATENC_SENATENC-26-D.json,,Will Democratics win the Senate race in North Carolina?,missing_seat_id
+,,,SENATENC-26,,,SENATENC-26-R,,,,,,,SENATENC,../kalshi/data/markets/market_SENATENC_SENATENC-26-R.json,,Will Republicans win the Senate race in North Carolina?,missing_seat_id
+,,,SENATENC-28,,,SENATENC-28-D,,,,,,,SENATENC,../kalshi/data/markets/market_SENATENC_SENATENC-28-D.json,,Will Democratics win the Senate race in North Carolina?,missing_seat_id
+,,,SENATENC-28,,,SENATENC-28-R,,,,,,,SENATENC,../kalshi/data/markets/market_SENATENC_SENATENC-28-R.json,,Will Republicans win the Senate race in North Carolina?,missing_seat_id
+,,,SENATEND-28,,,SENATEND-28-D,,,,,,,SENATEND,../kalshi/data/markets/market_SENATEND_SENATEND-28-D.json,,Will Democratics win the Senate race in North Dakota?,missing_seat_id
+,,,SENATEND-28,,,SENATEND-28-R,,,,,,,SENATEND,../kalshi/data/markets/market_SENATEND_SENATEND-28-R.json,,Will Republicans win the Senate race in North Dakota?,missing_seat_id
+,,,SENATENE-26,,,SENATENE-26-D,,,,,,,SENATENE,../kalshi/data/markets/market_SENATENE_SENATENE-26-D.json,,Will Democratics win the Senate race in Nebraska?,missing_seat_id
+,,,SENATENE-26,,,SENATENE-26-DOSB,,,,,,,SENATENE,../kalshi/data/markets/market_SENATENE_SENATENE-26-DOSB.json,,Will Dan Osborn (as an independent)s win the Senate race in Nebraska?,missing_seat_id
+,,,SENATENE-26,,,SENATENE-26-R,,,,,,,SENATENE,../kalshi/data/markets/market_SENATENE_SENATENE-26-R.json,,Will Republicans win the Senate race in Nebraska?,missing_seat_id
+,,,SENATENH-26,,,SENATENH-26-D,,,,,,,SENATENH,../kalshi/data/markets/market_SENATENH_SENATENH-26-D.json,,Will Democratics win the Senate race in New Hampshire?,missing_seat_id
+,,,SENATENH-26,,,SENATENH-26-R,,,,,,,SENATENH,../kalshi/data/markets/market_SENATENH_SENATENH-26-R.json,,Will Republicans win the Senate race in New Hampshire?,missing_seat_id
+,,,SENATENH-28,,,SENATENH-28-D,,,,,,,SENATENH,../kalshi/data/markets/market_SENATENH_SENATENH-28-D.json,,Will Democratics win the Senate race in New Hampshire?,missing_seat_id
+,,,SENATENH-28,,,SENATENH-28-R,,,,,,,SENATENH,../kalshi/data/markets/market_SENATENH_SENATENH-28-R.json,,Will Republicans win the Senate race in New Hampshire?,missing_seat_id
+,,,SENATENJ-26,,,SENATENJ-26-D,,,,,,,SENATENJ,../kalshi/data/markets/market_SENATENJ_SENATENJ-26-D.json,,Will Democratics win the Senate race in New Jersey?,missing_seat_id
+,,,SENATENJ-26,,,SENATENJ-26-R,,,,,,,SENATENJ,../kalshi/data/markets/market_SENATENJ_SENATENJ-26-R.json,,Will Republicans win the Senate race in New Jersey?,missing_seat_id
+,,,SENATENM-26,,,SENATENM-26-D,,,,,,,SENATENM,../kalshi/data/markets/market_SENATENM_SENATENM-26-D.json,,Will Democratics win the Senate race in New Mexico?,missing_seat_id
+,,,SENATENM-26,,,SENATENM-26-R,,,,,,,SENATENM,../kalshi/data/markets/market_SENATENM_SENATENM-26-R.json,,Will Republicans win the Senate race in New Mexico?,missing_seat_id
+,,,SENATENV-28,,,SENATENV-28-D,,,,,,,SENATENV,../kalshi/data/markets/market_SENATENV_SENATENV-28-D.json,,Will Democratics win the Senate race in Nevada?,missing_seat_id
+,,,SENATENV-28,,,SENATENV-28-R,,,,,,,SENATENV,../kalshi/data/markets/market_SENATENV_SENATENV-28-R.json,,Will Republicans win the Senate race in Nevada?,missing_seat_id
+,,,SENATENY-28,,,SENATENY-28-D,,,,,,,SENATENY,../kalshi/data/markets/market_SENATENY_SENATENY-28-D.json,,Will Democratics win the Senate race in New York?,missing_seat_id
+,,,SENATENY-28,,,SENATENY-28-R,,,,,,,SENATENY,../kalshi/data/markets/market_SENATENY_SENATENY-28-R.json,,Will Republicans win the Senate race in New York?,missing_seat_id
+,,,SENATEOH-28,,,SENATEOH-28-D,,,,,,,SENATEOH,../kalshi/data/markets/market_SENATEOH_SENATEOH-28-D.json,,Will Democratics win the Senate race in Ohio?,missing_seat_id
+,,,SENATEOH-28,,,SENATEOH-28-R,,,,,,,SENATEOH,../kalshi/data/markets/market_SENATEOH_SENATEOH-28-R.json,,Will Republicans win the Senate race in Ohio?,missing_seat_id
+,,,SENATEOHS-26,,,SENATEOHS-26-D,,,,,,,SENATEOHS,../kalshi/data/markets/market_SENATEOHS_SENATEOHS-26-D.json,,Will Democratics win the Senate race in Ohio?,missing_seat_id
+,,,SENATEOHS-26,,,SENATEOHS-26-R,,,,,,,SENATEOHS,../kalshi/data/markets/market_SENATEOHS_SENATEOHS-26-R.json,,Will Republicans win the Senate race in Ohio?,missing_seat_id
+,,,SENATEOK-26,,,SENATEOK-26-D,,,,,,,SENATEOK,../kalshi/data/markets/market_SENATEOK_SENATEOK-26-D.json,,Will Democratics win the Senate race in Oklahoma?,missing_seat_id
+,,,SENATEOK-26,,,SENATEOK-26-R,,,,,,,SENATEOK,../kalshi/data/markets/market_SENATEOK_SENATEOK-26-R.json,,Will Republicans win the Senate race in Oklahoma?,missing_seat_id
+,,,SENATEOK-28,,,SENATEOK-28-D,,,,,,,SENATEOK,../kalshi/data/markets/market_SENATEOK_SENATEOK-28-D.json,,Will Democratics win the Senate race in Oklahoma?,missing_seat_id
+,,,SENATEOK-28,,,SENATEOK-28-R,,,,,,,SENATEOK,../kalshi/data/markets/market_SENATEOK_SENATEOK-28-R.json,,Will Republicans win the Senate race in Oklahoma?,missing_seat_id
+,,,SENATEOR-26,,,SENATEOR-26-D,,,,,,,SENATEOR,../kalshi/data/markets/market_SENATEOR_SENATEOR-26-D.json,,Will Democratics win the Senate race in Oregon?,missing_seat_id
+,,,SENATEOR-26,,,SENATEOR-26-R,,,,,,,SENATEOR,../kalshi/data/markets/market_SENATEOR_SENATEOR-26-R.json,,Will Republicans win the Senate race in Oregon?,missing_seat_id
+,,,SENATEOR-28,,,SENATEOR-28-D,,,,,,,SENATEOR,../kalshi/data/markets/market_SENATEOR_SENATEOR-28-D.json,,Will Democratics win the Senate race in Oregon?,missing_seat_id
+,,,SENATEOR-28,,,SENATEOR-28-R,,,,,,,SENATEOR,../kalshi/data/markets/market_SENATEOR_SENATEOR-28-R.json,,Will Republicans win the Senate race in Oregon?,missing_seat_id
+,,,SENATEPA-28,,,SENATEPA-28-D,,,,,,,SENATEPA,../kalshi/data/markets/market_SENATEPA_SENATEPA-28-D.json,,Will Democratics win the Senate race in Pennsylvania?,missing_seat_id
+,,,SENATEPA-28,,,SENATEPA-28-R,,,,,,,SENATEPA,../kalshi/data/markets/market_SENATEPA_SENATEPA-28-R.json,,Will Republicans win the Senate race in Pennsylvania?,missing_seat_id
+,,,SENATERI-26,,,SENATERI-26-D,,,,,,,SENATERI,../kalshi/data/markets/market_SENATERI_SENATERI-26-D.json,,Will Democratics win the Senate race in Rhode Island?,missing_seat_id
+,,,SENATERI-26,,,SENATERI-26-R,,,,,,,SENATERI,../kalshi/data/markets/market_SENATERI_SENATERI-26-R.json,,Will Republicans win the Senate race in Rhode Island?,missing_seat_id
+,,,SENATESC-26,,,SENATESC-26-D,,,,,,,SENATESC,../kalshi/data/markets/market_SENATESC_SENATESC-26-D.json,,Will Democratics win the Senate race in South Carolina?,missing_seat_id
+,,,SENATESC-26,,,SENATESC-26-R,,,,,,,SENATESC,../kalshi/data/markets/market_SENATESC_SENATESC-26-R.json,,Will Republicans win the Senate race in South Carolina?,missing_seat_id
+,,,SENATESC-28,,,SENATESC-28-D,,,,,,,SENATESC,../kalshi/data/markets/market_SENATESC_SENATESC-28-D.json,,Will Democratics win the Senate race in South Carolina?,missing_seat_id
+,,,SENATESC-28,,,SENATESC-28-R,,,,,,,SENATESC,../kalshi/data/markets/market_SENATESC_SENATESC-28-R.json,,Will Republicans win the Senate race in South Carolina?,missing_seat_id
+,,,SENATESD-26,,,SENATESD-26-D,,,,,,,SENATESD,../kalshi/data/markets/market_SENATESD_SENATESD-26-D.json,,Will Democratics win the Senate race in South Dakota?,missing_seat_id
+,,,SENATESD-26,,,SENATESD-26-R,,,,,,,SENATESD,../kalshi/data/markets/market_SENATESD_SENATESD-26-R.json,,Will Republicans win the Senate race in South Dakota?,missing_seat_id
+,,,SENATESD-28,,,SENATESD-28-D,,,,,,,SENATESD,../kalshi/data/markets/market_SENATESD_SENATESD-28-D.json,,Will Democratics win the Senate race in South Dakota?,missing_seat_id
+,,,SENATESD-28,,,SENATESD-28-R,,,,,,,SENATESD,../kalshi/data/markets/market_SENATESD_SENATESD-28-R.json,,Will Republicans win the Senate race in South Dakota?,missing_seat_id
+,,,SENATETN-26,,,SENATETN-26-D,,,,,,,SENATETN,../kalshi/data/markets/market_SENATETN_SENATETN-26-D.json,,Will Democratics win the Senate race in Tennessee?,missing_seat_id
+,,,SENATETN-26,,,SENATETN-26-R,,,,,,,SENATETN,../kalshi/data/markets/market_SENATETN_SENATETN-26-R.json,,Will Republicans win the Senate race in Tennessee?,missing_seat_id
+,,,SENATETX-26,,,SENATETX-26-D,,,,,,,SENATETX,../kalshi/data/markets/market_SENATETX_SENATETX-26-D.json,,Will Democratics win the Senate race in Texas?,missing_seat_id
+,,,SENATETX-26,,,SENATETX-26-R,,,,,,,SENATETX,../kalshi/data/markets/market_SENATETX_SENATETX-26-R.json,,Will Republicans win the Senate race in Texas?,missing_seat_id
+,,,SENATEUT-28,,,SENATEUT-28-D,,,,,,,SENATEUT,../kalshi/data/markets/market_SENATEUT_SENATEUT-28-D.json,,Will Democratics win the Senate race in Utah?,missing_seat_id
+,,,SENATEUT-28,,,SENATEUT-28-R,,,,,,,SENATEUT,../kalshi/data/markets/market_SENATEUT_SENATEUT-28-R.json,,Will Republicans win the Senate race in Utah?,missing_seat_id
+,,,SENATEVA-26,,,SENATEVA-26-D,,,,,,,SENATEVA,../kalshi/data/markets/market_SENATEVA_SENATEVA-26-D.json,,Will Democratics win the Senate race in Virginia?,missing_seat_id
+,,,SENATEVA-26,,,SENATEVA-26-R,,,,,,,SENATEVA,../kalshi/data/markets/market_SENATEVA_SENATEVA-26-R.json,,Will Republicans win the Senate race in Virginia?,missing_seat_id
+,,,SENATEVT-28,,,SENATEVT-28-D,,,,,,,SENATEVT,../kalshi/data/markets/market_SENATEVT_SENATEVT-28-D.json,,Will Democratics win the Senate race in Vermont?,missing_seat_id
+,,,SENATEVT-28,,,SENATEVT-28-R,,,,,,,SENATEVT,../kalshi/data/markets/market_SENATEVT_SENATEVT-28-R.json,,Will Republicans win the Senate race in Vermont?,missing_seat_id
+,,,SENATEWA-28,,,SENATEWA-28-D,,,,,,,SENATEWA,../kalshi/data/markets/market_SENATEWA_SENATEWA-28-D.json,,Will Democratics win the Senate race in Washington?,missing_seat_id
+,,,SENATEWA-28,,,SENATEWA-28-R,,,,,,,SENATEWA,../kalshi/data/markets/market_SENATEWA_SENATEWA-28-R.json,,Will Republicans win the Senate race in Washington?,missing_seat_id
+,,,SENATEWI-28,,,SENATEWI-28-D,,,,,,,SENATEWI,../kalshi/data/markets/market_SENATEWI_SENATEWI-28-D.json,,Will Democratics win the Senate race in Wisconsin?,missing_seat_id
+,,,SENATEWI-28,,,SENATEWI-28-R,,,,,,,SENATEWI,../kalshi/data/markets/market_SENATEWI_SENATEWI-28-R.json,,Will Republicans win the Senate race in Wisconsin?,missing_seat_id
+,,,SENATEWV-26,,,SENATEWV-26-D,,,,,,,SENATEWV,../kalshi/data/markets/market_SENATEWV_SENATEWV-26-D.json,,Will Democratics win the Senate race in West Virginia?,missing_seat_id
+,,,SENATEWV-26,,,SENATEWV-26-R,,,,,,,SENATEWV,../kalshi/data/markets/market_SENATEWV_SENATEWV-26-R.json,,Will Republicans win the Senate race in West Virginia?,missing_seat_id
+,,,SENATEWY-26,,,SENATEWY-26-D,,,,,,,SENATEWY,../kalshi/data/markets/market_SENATEWY_SENATEWY-26-D.json,,Will Democratics win the Senate race in Wyoming?,missing_seat_id
+,,,SENATEWY-26,,,SENATEWY-26-R,,,,,,,SENATEWY,../kalshi/data/markets/market_SENATEWY_SENATEWY-26-R.json,,Will Republicans win the Senate race in Wyoming?,missing_seat_id
+,US-REP:AZ-01:2025:D,,,,candidate_nominee,,,118.0,out_of_band,,primary,AZ-01,,,,,odds_map_out_of_band
+,US-REP:CA-01:2026:OTH,,,,candidate_nominee,,,119.0,out_of_band,,primary,CA-01,,,,,odds_map_out_of_band
+,US-REP:CO-03:2026:R,,,,candidate_nominee,,,80.9,out_of_band,,primary,CO-03,,,,,odds_map_out_of_band
+,US-REP:DC-AL:2026:D,,,,candidate_nominee,,,141.0,out_of_band,,primary,DC-AL,,,,,odds_map_out_of_band
+,US-REP:FL-19:2026:R,,,,candidate_nominee,,,157.4,out_of_band,,primary,FL-19,,,,,odds_map_out_of_band
+,US-REP:GA-01:2026:R,,,,candidate_nominee,,,116.5,out_of_band,,primary,GA-01,,,,,odds_map_out_of_band
+,US-REP:GA-07:2026:D,,,,candidate_nominee,,,113.0,out_of_band,,primary,GA-07,,,,,odds_map_out_of_band
+,US-REP:GA-10:2026:D,,,,candidate_nominee,,,111.0,out_of_band,,primary,GA-10,,,,,odds_map_out_of_band
+,US-REP:GA-11:2026:R,,,,candidate_nominee,,,175.0,out_of_band,,primary,GA-11,,,,,odds_map_out_of_band
+,US-REP:HI-01:2026:D,,,,candidate_nominee,,,111.0,out_of_band,,primary,HI-01,,,,,odds_map_out_of_band
+,US-REP:IL-07:2026:D,,,,candidate_nominee,,,120.0,out_of_band,,primary,IL-07,,,,,odds_map_out_of_band
+,US-REP:IL-08:2026:D,,,,candidate_nominee,,,123.0,out_of_band,,primary,IL-08,,,,,odds_map_out_of_band
+,US-REP:IL-08:2026:R,,,,candidate_nominee,,,112.0,out_of_band,,primary,IL-08,,,,,odds_map_out_of_band
+,US-REP:IL-09:2026:D,,,,candidate_nominee,,,113.0,out_of_band,,primary,IL-09,,,,,odds_map_out_of_band
+,US-REP:IL-15:2026:D,,,,candidate_nominee,,,111.0,out_of_band,,primary,IL-15,,,,,odds_map_out_of_band
+,US-REP:IN-04:2026:R,,,,candidate_nominee,,,117.0,out_of_band,,primary,IN-04,,,,,odds_map_out_of_band
+,US-REP:IN-05:2026:D,,,,candidate_nominee,,,120.55,out_of_band,,primary,IN-05,,,,,odds_map_out_of_band
+,US-REP:IN-06:2026:D,,,,candidate_nominee,,,135.9,out_of_band,,primary,IN-06,,,,,odds_map_out_of_band
+,US-REP:IN-07:2026:R,,,,candidate_nominee,,,82.7,out_of_band,,primary,IN-07,,,,,odds_map_out_of_band
+,US-REP:LA-05:2026:D,,,,candidate_nominee,,,89.3,out_of_band,,primary,LA-05,,,,,odds_map_out_of_band
+,US-REP:MA-06:2026:D,,,,candidate_nominee,,,116.0,out_of_band,,primary,MA-06,,,,,odds_map_out_of_band
+,US-REP:MD-05:2026:D,,,,candidate_nominee,,,139.0,out_of_band,,primary,MD-05,,,,,odds_map_out_of_band
+,US-REP:MI-13:2026:D,,,,candidate_nominee,,,153.0,out_of_band,,primary,MI-13,,,,,odds_map_out_of_band
+,US-REP:NE-02:2026:D,,,,candidate_nominee,,,113.9,out_of_band,,primary,NE-02,,,,,odds_map_out_of_band
+,US-REP:NJ-07:2026:D,,,,candidate_nominee,,,152.0,out_of_band,,primary,NJ-07,,,,,odds_map_out_of_band
+,US-REP:NV-02:2026:D,,,,candidate_nominee,,,110.5,out_of_band,,primary,NV-02,,,,,odds_map_out_of_band
+,US-REP:NY-04:2026:R,,,,candidate_nominee,,,77.75,out_of_band,,primary,NY-04,,,,,odds_map_out_of_band
+,US-REP:NY-07:2026:D,,,,candidate_nominee,,,112.1,out_of_band,,primary,NY-07,,,,,odds_map_out_of_band
+,US-REP:NY-08:2026:D,,,,candidate_nominee,,,115.0,out_of_band,,primary,NY-08,,,,,odds_map_out_of_band
+,US-REP:NY-12:2026:D,,,,candidate_nominee,,,133.0,out_of_band,,primary,NY-12,,,,,odds_map_out_of_band
+,US-REP:NY-13:2026:D,,,,candidate_nominee,,,157.0,out_of_band,,primary,NY-13,,,,,odds_map_out_of_band
+,US-REP:NY-17:2026:D,,,,candidate_nominee,,,123.5,out_of_band,,primary,NY-17,,,,,odds_map_out_of_band
+,US-REP:OH-01:2026:R,,,,candidate_nominee,,,112.3,out_of_band,,primary,OH-01,,,,,odds_map_out_of_band
+,US-REP:OH-07:2026:D,,,,candidate_nominee,,,170.7,out_of_band,,primary,OH-07,,,,,odds_map_out_of_band
+,US-REP:OH-09:2026:R,,,,candidate_nominee,,,115.5,out_of_band,,primary,OH-09,,,,,odds_map_out_of_band
+,US-REP:PA-03:2026:D,,,,candidate_nominee,,,112.0,out_of_band,,primary,PA-03,,,,,odds_map_out_of_band
+,US-REP:PA-07:2026:D,,,,candidate_nominee,,,114.0,out_of_band,,primary,PA-07,,,,,odds_map_out_of_band
+,US-REP:SC-01:2026:R,,,,candidate_nominee,,,162.1,out_of_band,,primary,SC-01,,,,,odds_map_out_of_band
+,US-REP:TX-01:2026:D,,,,candidate_nominee,,,111.4,out_of_band,,primary,TX-01,,,,,odds_map_out_of_band
+,US-REP:TX-09:2026:R,,,,candidate_nominee,,,116.0,out_of_band,,primary,TX-09,,,,,odds_map_out_of_band
+,US-REP:TX-16:2026:R,,,,candidate_nominee,,,112.0,out_of_band,,primary,TX-16,,,,,odds_map_out_of_band
+,US-REP:TX-35:2026:D,,,,candidate_nominee,,,87.0,out_of_band,,primary,TX-35,,,,,odds_map_out_of_band
+,US-REP:UT-01:2026:D,,,,candidate_nominee,,,116.0,out_of_band,,primary,UT-01,,,,,odds_map_out_of_band
+,,18,,,,,,,,us_house,,,,,2.0,,candidate_match_blocking_unresolved

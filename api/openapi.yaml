@@ -1,0 +1,482 @@
+openapi: 3.0.3
+info:
+  title: PowerVote API
+  version: 0.1.0
+  description: |
+    MVP contract for election discovery by geography, address lookup,
+    and polling/market snapshots.
+servers:
+  - url: https://api.powervote.example
+paths:
+  /health:
+    get:
+      summary: Service health check
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+  /areas:
+    get:
+      summary: Resolve all containing areas for a coordinate
+      parameters:
+        - in: query
+          name: lat
+          required: true
+          schema:
+            type: number
+            format: double
+        - in: query
+          name: lng
+          required: true
+          schema:
+            type: number
+            format: double
+      responses:
+        '200':
+          description: Areas containing the coordinate
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  point:
+                    $ref: '#/components/schemas/Point'
+                  areas:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Area'
+  /address-lookup:
+    get:
+      summary: Geocode address and return related areas and elections
+      parameters:
+        - in: query
+          name: address
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Address geocode and election bundle
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  normalizedAddress:
+                    type: string
+                  point:
+                    $ref: '#/components/schemas/Point'
+                  areas:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Area'
+                  elections:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Election'
+  /elections:
+    get:
+      summary: List elections for an area within a date range
+      parameters:
+        - in: query
+          name: areaId
+          required: true
+          schema:
+            type: string
+            format: uuid
+        - in: query
+          name: from
+          required: false
+          schema:
+            type: string
+            format: date
+        - in: query
+          name: to
+          required: false
+          schema:
+            type: string
+            format: date
+      responses:
+        '200':
+          description: Elections in requested scope
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  areaId:
+                    type: string
+                    format: uuid
+                  elections:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Election'
+  /polls:
+    get:
+      summary: Poll snapshots for an election
+      parameters:
+        - in: query
+          name: electionId
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: Poll snapshots
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  electionId:
+                    type: string
+                    format: uuid
+                  polls:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/PollSnapshot'
+  /markets:
+    get:
+      summary: Market snapshots for an election
+      parameters:
+        - in: query
+          name: electionId
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: Market snapshots
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  electionId:
+                    type: string
+                    format: uuid
+                  markets:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/MarketSnapshot'
+  /v1/map/districts:
+    get:
+      summary: District-level map metrics for the selected election view and color mode
+      parameters:
+        - in: query
+          name: office
+          required: false
+          schema:
+            type: string
+            enum: [us_house]
+        - in: query
+          name: election_view
+          required: false
+          schema:
+            type: string
+            enum: [general, primary]
+        - in: query
+          name: color_mode
+          required: false
+          schema:
+            type: string
+            enum: [contention, incumbent, market_favorite, polling_proxy, targeting, primary_status]
+      responses:
+        '200':
+          description: District metrics payload
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MapDistrictsResponse'
+  /v1/districts/{seatId}:
+    get:
+      summary: District detail payload with candidate/election summaries
+      parameters:
+        - in: path
+          name: seatId
+          required: true
+          schema:
+            type: string
+        - in: query
+          name: office
+          required: false
+          schema:
+            type: string
+            enum: [us_house]
+        - in: query
+          name: election_view
+          required: false
+          schema:
+            type: string
+            enum: [general, primary]
+      responses:
+        '200':
+          description: District detail
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DistrictDetailResponse'
+  /v1/powervote:
+    get:
+      summary: Resolve an address to elections and competitiveness
+      parameters:
+        - in: query
+          name: address
+          required: true
+          schema:
+            type: string
+        - in: query
+          name: office
+          required: false
+          schema:
+            type: string
+            enum: [us_house]
+      responses:
+        '200':
+          description: Address-specific PowerVote response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PowerVoteResponse'
+  /v1/powervote/compare:
+    post:
+      summary: Compare up to 3 addresses side-by-side
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [addresses]
+              properties:
+                office:
+                  type: string
+                  enum: [us_house]
+                addresses:
+                  type: array
+                  minItems: 1
+                  maxItems: 3
+                  items:
+                    type: string
+      responses:
+        '200':
+          description: Multi-address comparison response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PowerVoteCompareResponse'
+components:
+  schemas:
+    Point:
+      type: object
+      required: [lat, lng]
+      properties:
+        lat:
+          type: number
+          format: double
+        lng:
+          type: number
+          format: double
+    Area:
+      type: object
+      required: [id, level, name]
+      properties:
+        id:
+          type: string
+          format: uuid
+        level:
+          type: string
+          enum:
+            - country
+            - state
+            - congressional_district
+            - state_leg_upper
+            - state_leg_lower
+            - county
+            - precinct
+        name:
+          type: string
+        cycleYear:
+          type: integer
+          nullable: true
+    Election:
+      type: object
+      required: [id, name, level, kind, electionDate]
+      properties:
+        id:
+          type: string
+          format: uuid
+        name:
+          type: string
+        level:
+          type: string
+          enum: [federal, state, county, municipal, special]
+        kind:
+          type: string
+          enum: [primary, general, runoff, special, referendum]
+        electionDate:
+          type: string
+          format: date
+        areaId:
+          type: string
+          format: uuid
+          nullable: true
+    PollSnapshot:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        source:
+          type: string
+        pollster:
+          type: string
+        startDate:
+          type: string
+          format: date
+          nullable: true
+        endDate:
+          type: string
+          format: date
+          nullable: true
+        sampleSize:
+          type: integer
+          nullable: true
+        fetchedAt:
+          type: string
+          format: date-time
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/CandidateResult'
+    MarketSnapshot:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        source:
+          type: string
+        contractCode:
+          type: string
+          nullable: true
+        contractName:
+          type: string
+          nullable: true
+        impliedProbability:
+          type: number
+          format: float
+          nullable: true
+        fetchedAt:
+          type: string
+          format: date-time
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/CandidateResult'
+    CandidateResult:
+      type: object
+      required: [candidateId, value]
+      properties:
+        candidateId:
+          type: string
+          format: uuid
+        value:
+          type: number
+          format: float
+    MapDistrict:
+      type: object
+      properties:
+        seatId:
+          type: string
+        districtLabel:
+          type: string
+        colorKey:
+          type: string
+        colorHex:
+          type: string
+    MapDistrictsResponse:
+      type: object
+      properties:
+        office:
+          type: string
+        electionView:
+          type: string
+        colorMode:
+          type: string
+        snapshotDate:
+          type: string
+          format: date
+        updatedAt:
+          type: string
+          format: date-time
+        sourceAttribution:
+          type: array
+          items:
+            type: string
+        districts:
+          type: array
+          items:
+            $ref: '#/components/schemas/MapDistrict'
+    DistrictDetailResponse:
+      type: object
+      properties:
+        office:
+          type: string
+        seatId:
+          type: string
+        electionView:
+          type: string
+        snapshotDate:
+          type: string
+          format: date
+        updatedAt:
+          type: string
+          format: date-time
+    PowerVoteElection:
+      type: object
+      properties:
+        seatId:
+          type: string
+        score:
+          type: number
+          nullable: true
+        band:
+          type: string
+    PowerVoteResponse:
+      type: object
+      properties:
+        office:
+          type: string
+        snapshotDate:
+          type: string
+          format: date
+        updatedAt:
+          type: string
+          format: date-time
+        sourceAttribution:
+          type: array
+          items:
+            type: string
+        elections:
+          type: array
+          items:
+            $ref: '#/components/schemas/PowerVoteElection'
+    PowerVoteCompareResponse:
+      type: object
+      properties:
+        office:
+          type: string
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/PowerVoteResponse'

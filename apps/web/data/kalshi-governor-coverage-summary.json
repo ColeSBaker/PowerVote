@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-04-13T03:35:13.453281+00:00",
+  "counts": {
+    "candidate_winner_contests": 6,
+    "party_winner_contests": 98,
+    "candidate_nominee_contests": 52,
+    "general_contests": 104
+  },
+  "byRound": {
+    "general": 138,
+    "primary": 342,
+    "runoff": 0
+  },
+  "byMarketType": {
+    "candidate_advance": 29,
+    "candidate_nominee": 310,
+    "candidate_winner": 40,
+    "party_winner": 98,
+    "primary_party_combo": 3
+  }
+}

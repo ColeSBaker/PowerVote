@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "powervote-pipeline"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.12,<5",
+    "psycopg[binary]>=3.1,<4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pip-tools>=7",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+tmp_path_retention_policy = "failed"
+tmp_path_base = ".tmp/pytest"
+pythonpath = ["."]
+
+markers = [
+    "slow_integrity: heavy integrity/parser tests intended for slower CI lane",
+]

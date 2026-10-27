@@ -1,0 +1,8 @@
+advance_count,count,cycle_year,event_ticker,expected_range,market_ticker,observed_sum,office,party,round,seat_id,seat_ids,series_ticker,source_file,state_code,threshold,type
+2,,,KXGOVCAPRIMARYPARTY-26,"[160, 240]",,104.9,,,,,"[""CA-GOV""]",,,,,advance_sum_out_of_band
+,,,KXGOVVTNOMR-262,,KXGOVVTNOMR-262-JBEN,,,R,primary,VT-GOV,,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-JBEN.json,VT,,unresolved_mapping
+,,,KXGOVVTNOMR-262,,KXGOVVTNOMR-262-JROD,,,R,primary,VT-GOV,,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-JROD.json,VT,,unresolved_mapping
+,,,KXGOVVTNOMR-262,,KXGOVVTNOMR-262-PDAM,,,R,primary,VT-GOV,,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-PDAM.json,VT,,unresolved_mapping
+,,,KXGOVVTNOMR-262,,KXGOVVTNOMR-262-PSCO,,,R,primary,VT-GOV,,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-PSCO.json,VT,,unresolved_mapping
+,,,KXGOVVTNOMR-262,,KXGOVVTNOMR-262-RING,,,R,primary,VT-GOV,,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-RING.json,VT,,unresolved_mapping
+,42,,,,,,us_governor,,,,,,,,2.0,candidate_match_blocking_unresolved

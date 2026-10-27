@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-04-13T03:35:16.231082+00:00",
+  "counts": {
+    "candidate_winner_contests": 4,
+    "party_winner_contests": 0,
+    "candidate_nominee_contests": 1,
+    "general_contests": 4
+  },
+  "byRound": {
+    "general": 14,
+    "primary": 6,
+    "runoff": 0
+  },
+  "byMarketType": {
+    "candidate_nominee": 6,
+    "candidate_winner": 14,
+    "party_winner": 0
+  }
+}

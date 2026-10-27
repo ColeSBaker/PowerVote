@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-04-13T03:35:35.068665+00:00",
+  "summary": {
+    "row_count": 1,
+    "matched_count": 0,
+    "unmatched_count": 1,
+    "ambiguous_count": 0,
+    "positive_odds_unmatched_count": 1,
+    "positive_odds_ambiguous_count": 0
+  },
+  "rows": [
+    {
+      "office": "us_attorney_general",
+      "contest_id": "US-AG:TX-AG:2026:general:NA:candidate_winner",
+      "cycle_year": 2026,
+      "state": "TX",
+      "seat": "TX-AG",
+      "round": "general",
+      "party": "",
+      "market_type": "candidate_winner",
+      "market_ticker": "KXANYDEMWINTEXAS-26NOV03",
+      "event_ticker": "KXANYDEMWINTEXAS-26NOV03",
+      "series_ticker": "KXANYDEMWINTEXAS",
+      "status": "active",
+      "oddsPercent": 46.0,
+      "source_file": "../kalshi/data/markets/market_KXANYDEMWINTEXAS_KXANYDEMWINTEXAS-26NOV03.json",
+      "kalshi_candidate_name": "Yes",
+      "candidate_name_kalshi": "Yes",
+      "candidate_name_ballotpedia": "",
+      "ballotpedia_candidate_name": "",
+      "ballotpedia_match_status": "unmatched",
+      "ballotpedia_match_strategy": "no_match",
+      "ballotpedia_match_score": 0.0,
+      "ballotpedia_match_source": "",
+      "ballotpedia_candidate_pool_key": "TX-AG|ANY|ANY",
+      "match_confidence_tier": "D",
+      "match_reason_code": "no_candidate_above_threshold",
+      "review_status": "pending",
+      "review_recommendation": "pending",
+      "top_candidate_suggestions": [
+        {
+          "candidate_name": "Mayes Middleton",
+          "source": "primary",
+          "score": 0.3333
+        },
+        {
+          "candidate_name": "Mayes Middleton",
+          "source": "runoff",
+          "score": 0.3333
+        },
+        {
+          "candidate_name": "Joe Jaworski",
+          "source": "primary",
+          "score": 0.2667
+        }
+      ]
+    }
+  ]
+}

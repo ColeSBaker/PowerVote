@@ -1,0 +1,361 @@
+ballotpedia_name,conflict,match_strategy,matched_candidate_id,matched_candidate_name,party,seat,state
+Daniel S. Sullivan,,none,,,OTH,AK-SEN-C2,AK
+Dustin Darden,,none,,,OTH,AK-SEN-C2,AK
+Mary Peltola,party_mismatch_fallback,state_name_fallback,S6AK00276,"PELTOLA, MARY",OTH,AK-SEN-C2,AK
+Richard Grayson,,none,,,OTH,AK-SEN-C2,AK
+Dakarai Larriett,,state_party_name_exact,S6AL00427,"LARRIETT, DAKARAI",D,AL-SEN-C2,AL
+Everett Wess,,none,,,D,AL-SEN-C2,AL
+Kyle Sweetser,,state_party_name_exact,S6AL00435,"SWEETSER, KYLE",D,AL-SEN-C2,AL
+Mark Wheeler II,,none,,,D,AL-SEN-C2,AL
+Barry Moore,,none,,,R,AL-SEN-C2,AL
+Dale Shelton Deas Jr.,,none,,,R,AL-SEN-C2,AL
+Jared Hudson,,state_party_name_exact,S6AL00443,"HUDSON, JARED",R,AL-SEN-C2,AL
+Morgan Murphy,,none,,,R,AL-SEN-C2,AL
+Rodney Walker,,state_party_name_exact,S6AL00468,"WALKER, RODNEY",R,AL-SEN-C2,AL
+Seth Burton,,none,,,R,AL-SEN-C2,AL
+Steve Marshall,,none,,,R,AL-SEN-C2,AL
+Ethan Dunbar,,none,,,D,AR-SEN-C2,AR
+Hallie Shoffner,,state_party_name_exact,S6AR00199,"SHOFFNER, HALLIE",D,AR-SEN-C2,AR
+Jeff Wadlin,,none,,,L,AR-SEN-C2,AR
+Jeb Little,,state_party_name_exact,S6AR00215,"LITTLE, JEB",R,AR-SEN-C2,AR
+Micah Ashby,,state_party_name_exact,S6AR00207,"ASHBY, MICAH",R,AR-SEN-C2,AR
+Tom Cotton,,none,,,R,AR-SEN-C2,AR
+Anthony Zimpfer,,none,,,D,CO-SEN-C2,CO
+Brashad Hasley,,none,,,D,CO-SEN-C2,CO
+Jessica Williams,,state_party_name_exact,S6CO00531,"WILLIAMS, JESSICA",D,CO-SEN-C2,CO
+John Hickenlooper,,none,,,D,CO-SEN-C2,CO
+Julie Gonzales,,state_party_name_exact,S6CO00499,"GONZALES, JULIE",D,CO-SEN-C2,CO
+Karen Breslin,,state_party_name_exact,S6CO00408,"BRESLIN, KAREN",D,CO-SEN-C2,CO
+Clinton Dale,,none,,,OTH,CO-SEN-C2,CO
+Joshua Kuebler,,none,,,OTH,CO-SEN-C2,CO
+Matthew Wood,party_mismatch_fallback,state_name_fallback,S6CO00432,"WOOD, MATTHEW",OTH,CO-SEN-C2,CO
+Robert Wolfe,,none,,,OTH,CO-SEN-C2,CO
+Amanda Calderon,,none,,,R,CO-SEN-C2,CO
+Dathan Jones,,none,,,R,CO-SEN-C2,CO
+George Washington Markert,,none,,,R,CO-SEN-C2,CO
+Janak Joshi,,state_party_name_exact,S6CO00440,"JOSHI, JANAK",R,CO-SEN-C2,CO
+Mark Baisley,,state_party_name_exact,S6CO00507,"BAISLEY, MARK",R,CO-SEN-C2,CO
+Sean Pond,,none,,,R,CO-SEN-C2,CO
+Chris Coons,,none,,,D,DE-SEN-C2,DE
+Christopher Beardsley,,none,,,D,DE-SEN-C2,DE
+Dexter Bland,party_mismatch_fallback,state_name_fallback,S6DE00164,"BLAND, DEXTER",OTH,DE-SEN-C2,DE
+John Shulli,,state_party_name_exact,S6DE00198,"SHULLI, JOHN",R,DE-SEN-C2,DE
+Michael Katz,,none,,,R,DE-SEN-C2,DE
+Alan Grayson,,none,,,D,FL-SEN-C3-SPL,FL
+Alex Vindman,,none,,,D,FL-SEN-C3-SPL,FL
+Angela Nixon,,state_party_name_exact,S6FL00830,"NIXON, ANGELA",D,FL-SEN-C3-SPL,FL
+Charles Gould,,none,,,D,FL-SEN-C3-SPL,FL
+Dennis Stevens,,none,,,D,FL-SEN-C3-SPL,FL
+Evelyn McBride,,none,,,D,FL-SEN-C3-SPL,FL
+Frank DiMola,,state_party_name_exact,S6FL00731,"DIMOLA, FRANK",D,FL-SEN-C3-SPL,FL
+Joey Mendoza Atkins,,state_party_name_exact,S6FL00749,"ATKINS, JOEY MENDOZA",D,FL-SEN-C3-SPL,FL
+Paul Ron Cruz,,state_party_name_exact,S6FL00723,"CRUZ, PAUL RON",D,FL-SEN-C3-SPL,FL
+Shawn Bettis,,none,,,D,FL-SEN-C3-SPL,FL
+Neil Gillespie,,none,,,OTH,FL-SEN-C3-SPL,FL
+A.C. Toulme,,none,,,R,FL-SEN-C3-SPL,FL
+Ashley B. Moody,,none,,,R,FL-SEN-C3-SPL,FL
+Ashley Baptiste,,none,,,R,FL-SEN-C3-SPL,FL
+Chris Gleason,,none,,,R,FL-SEN-C3-SPL,FL
+Ernie Rivera,,none,,,R,FL-SEN-C3-SPL,FL
+Jake Lang,,state_party_name_exact,S6FL00657,"LANG, JAKE",R,FL-SEN-C3-SPL,FL
+Michaelangelo Hamilton,,none,,,R,FL-SEN-C3-SPL,FL
+Neelam Perry,,none,,,R,FL-SEN-C3-SPL,FL
+Jon Ossoff,,none,,,D,GA-SEN-C2,GA
+Chris Capparell,party_mismatch_fallback,state_name_fallback,S6GA00341,"CAPPARELL, CHRIS",OTH,GA-SEN-C2,GA
+DeVelle Jackson,,none,,,OTH,GA-SEN-C2,GA
+Elbert Bartell,party_mismatch_fallback,state_name_fallback,S6GA00317,"BARTELL, ELBERT",OTH,GA-SEN-C2,GA
+Derek Dooley,,state_party_name_exact,S6GA00408,"DOOLEY, DEREK",R,GA-SEN-C2,GA
+Earl Carter,,none,,,R,GA-SEN-C2,GA
+John Coyne,,none,,,R,GA-SEN-C2,GA
+Jonathan McColumn,,none,,,R,GA-SEN-C2,GA
+Mike Collins,,none,,,R,GA-SEN-C2,GA
+Josh Turek,,none,,,D,IA-SEN-C2,IA
+Zach Wahls,,none,,,D,IA-SEN-C2,IA
+Ashley Hinson,,none,,,R,IA-SEN-C2,IA
+Jim Carlin,,none,,,R,IA-SEN-C2,IA
+Brad Moore,,none,,,D,ID-SEN-C2,ID
+David Roth,,none,,,D,ID-SEN-C2,ID
+Nickolas Bonds,,none,,,D,ID-SEN-C2,ID
+Matt Loesby,,none,,,L,ID-SEN-C2,ID
+Natalie Fleming,,none,,,OTH,ID-SEN-C2,ID
+Todd Achilles,,none,,,OTH,ID-SEN-C2,ID
+Denny LaVe,,state_party_name_exact,S6ID00161,"LAVE, DENNY",R,ID-SEN-C2,ID
+Jim Risch,,none,,,R,ID-SEN-C2,ID
+Joe Evans,,state_party_name_exact,S6ID00120,"EVANS, JOE",R,ID-SEN-C2,ID
+Josh Roy,,none,,,R,ID-SEN-C2,ID
+Adam Delgado,,state_party_name_exact,S6IL00607,"DELGADO, ADAM",D,IL-SEN-C2,IL
+Awisi Bustos,,state_party_name_exact,S6IL00565,"BUSTOS, AWISI",D,IL-SEN-C2,IL
+Bryan Maxwell,,state_party_name_exact,S6IL00649,"MAXWELL, BRYAN",D,IL-SEN-C2,IL
+Christopher Swann,,none,,,D,IL-SEN-C2,IL
+Jonathan Dean,,state_party_name_exact,S6IL00623,"DEAN, JONATHAN",D,IL-SEN-C2,IL
+Juliana Stratton,,state_party_name_exact,S6IL00458,"STRATTON, JULIANA",D,IL-SEN-C2,IL
+Kevin Ryan,,state_party_name_exact,S6IL00581,"RYAN, KEVIN",D,IL-SEN-C2,IL
+Raja Krishnamoorthi,,none,,,D,IL-SEN-C2,IL
+Robin Kelly,,state_party_name_exact,S6IL00474,"KELLY, ROBIN",D,IL-SEN-C2,IL
+Sean Brown,,none,,,D,IL-SEN-C2,IL
+Steve Botsford Jr.,,none,,,D,IL-SEN-C2,IL
+Anthony Smith,,none,,,OTH,IL-SEN-C2,IL
+Tyrone Muhammad,party_mismatch_fallback,state_name_fallback,S6IL00557,"MUHAMMAD, TYRONE",OTH,IL-SEN-C2,IL
+Casey Chlebek,,none,,,R,IL-SEN-C2,IL
+Don Tracy,,state_party_name_exact,S6IL00615,"TRACY, DON",R,IL-SEN-C2,IL
+Jeannie Evans,,state_party_name_exact,S6IL00672,"EVANS, JEANNIE",R,IL-SEN-C2,IL
+Jimmy Lee Tillman II,,none,,,R,IL-SEN-C2,IL
+Max Rice,,none,,,R,IL-SEN-C2,IL
+Pamela Denise Long,,none,,,R,IL-SEN-C2,IL
+R. Cary Capparelli,,state_party_name_exact,S6IL00490,"CAPPARELLI, R CARY",R,IL-SEN-C2,IL
+Anne Parelkar,,none,,,D,KS-SEN-C2,KS
+Christy Davis,,state_party_name_exact,S6KS00247,"DAVIS, CHRISTY",D,KS-SEN-C2,KS
+Erik Murray,,state_party_name_exact,S6KS00270,"MURRAY, ERIK",D,KS-SEN-C2,KS
+Michael Soetaert,,state_party_name_exact,S2KS00097,"SOETAERT, MICHAEL",D,KS-SEN-C2,KS
+Noah Taylor,,none,,,D,KS-SEN-C2,KS
+Patrick Schmidt,,state_party_name_exact,S6KS00288,"SCHMIDT, PATRICK",D,KS-SEN-C2,KS
+Sandy Spidel Neumann,,state_party_name_exact,S6KS00262,"SPIDEL NEUMANN, SANDY",D,KS-SEN-C2,KS
+Chase LaPorte,,state_party_name_exact,S6KS00254,"LAPORTE, CHASE",R,KS-SEN-C2,KS
+Roger Marshall,,none,,,R,KS-SEN-C2,KS
+Amy McGrath,,state_party_name_exact,S6KY00344,"MCGRATH, AMY",D,KY-SEN-C2,KY
+Charles Booker,,state_party_name_exact,S6KY00385,"BOOKER, CHARLES",D,KY-SEN-C2,KY
+Dale Romans,,state_party_name_exact,S6KY00369,"ROMANS, DALE",D,KY-SEN-C2,KY
+Joshua Blanton Sr.,,none,,,D,KY-SEN-C2,KY
+Logan Forsythe,,state_party_name_exact,S6KY00328,"FORSYTHE, LOGAN",D,KY-SEN-C2,KY
+Pamela Stevenson,,state_party_name_exact,S6KY00211,"STEVENSON, PAMELA",D,KY-SEN-C2,KY
+Vincent Thompson,,none,,,D,KY-SEN-C2,KY
+Christopher Campbell,,none,,,OTH,KY-SEN-C2,KY
+Andrew Shelley,,none,,,R,KY-SEN-C2,KY
+Andy Barr,,none,,,R,KY-SEN-C2,KY
+Anissa Catlett,,state_party_name_exact,S6KY00401,"CATLETT, ANISSA",R,KY-SEN-C2,KY
+Daniel Cameron,,state_party_name_exact,S6KY00237,"CAMERON, DANIEL",R,KY-SEN-C2,KY
+Donald Wenzel,,none,,,R,KY-SEN-C2,KY
+George Washington,,none,,,R,KY-SEN-C2,KY
+James Duncan,,none,,,R,KY-SEN-C2,KY
+Jimmy Leon,,none,,,R,KY-SEN-C2,KY
+Jonathan Holliday,,none,,,R,KY-SEN-C2,KY
+Mike Faris,,none,,,R,KY-SEN-C2,KY
+Nate Morris,,state_party_name_exact,S6KY00302,"MORRIS, NATE",R,KY-SEN-C2,KY
+Val Fredrick,,none,,,R,KY-SEN-C2,KY
+Gary Crockett,,state_party_name_exact,S6LA00680,"CROCKETT, GARY",D,LA-SEN-C2,LA
+Jamie Davis,,state_party_name_exact,S6LA00615,"DAVIS, JAMIE",D,LA-SEN-C2,LA
+Nick Albares,,none,,,D,LA-SEN-C2,LA
+Jamie LaBranche,,state_party_name_exact,S6LA00557,"LABRANCHE, JAMIE",OTH,LA-SEN-C2,LA
+Bill Cassidy,,none,,,R,LA-SEN-C2,LA
+John Fleming,,none,,,R,LA-SEN-C2,LA
+Julia Letlow,,state_party_name_exact,S6LA00664,"LETLOW, JULIA",R,LA-SEN-C2,LA
+Mark Spencer,,state_party_name_exact,S6LA00698,"SPENCER, MARK",R,LA-SEN-C2,LA
+Alexander Rikleen,,state_party_name_exact,S6MA00254,"RIKLEEN, ALEXANDER",D,MA-SEN-C2,MA
+Edward J. Markey,,none,,,D,MA-SEN-C2,MA
+Seth Moulton,,state_party_name_exact,S6MA00296,"MOULTON, SETH",D,MA-SEN-C2,MA
+William Gates,,none,,,D,MA-SEN-C2,MA
+Joseph Tache,,state_party_name_exact,S6MA00288,"TACHE, JOSEPH",OTH,MA-SEN-C2,MA
+Morgan Dawicki,,none,,,OTH,MA-SEN-C2,MA
+Philip Devincentis,,none,,,OTH,MA-SEN-C2,MA
+Shiva Ayyadurai,,none,,,OTH,MA-SEN-C2,MA
+John Deaton,,state_party_name_exact,S6MA00304,"DEATON, JOHN",R,MA-SEN-C2,MA
+Nathan Bech,,none,,,R,MA-SEN-C2,MA
+Andrea LaFlamme,,state_party_name_exact,S6ME00340,"LAFLAMME, ANDREA",D,ME-SEN-C2,ME
+David Costello,,state_party_name_exact,S4ME00113,"COSTELLO, DAVID",D,ME-SEN-C2,ME
+Graham Platner,,state_party_name_exact,S6ME00373,"PLATNER, GRAHAM",D,ME-SEN-C2,ME
+Janet T. Mills,,none,,,D,ME-SEN-C2,ME
+David Evans,,none,,,OTH,ME-SEN-C2,ME
+Ethan Alcorn,,none,,,OTH,ME-SEN-C2,ME
+Timothy Rich,,state_party_name_exact,S6ME00415,"RICH, TIMOTHY",OTH,ME-SEN-C2,ME
+Susan Collins,,none,,,R,ME-SEN-C2,ME
+Abdul El-Sayed,,state_party_name_exact,S6MI00418,"EL-SAYED, ABDUL",D,MI-SEN-C2,MI
+Haley Stevens,,state_party_name_exact,S6MI00426,"STEVENS, HALEY",D,MI-SEN-C2,MI
+Mallory McMorrow,,state_party_name_exact,S6MI00392,"MCMORROW, MALLORY",D,MI-SEN-C2,MI
+Rachel Howard,,none,,,D,MI-SEN-C2,MI
+Travis Zollner,,none,,,D,MI-SEN-C2,MI
+Craig Henley Johnson,,none,,,OTH,MI-SEN-C2,MI
+Lydia Christensen,,none,,,OTH,MI-SEN-C2,MI
+TJ Stephens,,none,,,OTH,MI-SEN-C2,MI
+Andrew Kamal,,state_party_name_exact,S6MI00491,"KAMAL, ANDREW",R,MI-SEN-C2,MI
+Bernadette Smith,,state_party_name_exact,S6MI00517,"SMITH, BERNADETTE",R,MI-SEN-C2,MI
+Frederick Heurtebise,,state_party_name_exact,S6MI00384,"HEURTEBISE, FREDERICK",R,MI-SEN-C2,MI
+Genevieve Peters Scott,,none,,,R,MI-SEN-C2,MI
+Kent Benham,,state_party_name_exact,S6MI00400,"BENHAM, KENT",R,MI-SEN-C2,MI
+Mike Rogers,,none,,,R,MI-SEN-C2,MI
+Angie Craig,,state_party_name_exact,S6MN00499,"CRAIG, ANGIE",D,MN-SEN-C2,MN
+Billy Nord,,state_party_name_exact,S6MN00473,"NORD, BILLY",D,MN-SEN-C2,MN
+Peggy Flanagan,,none,,,D,MN-SEN-C2,MN
+Edward Tambornino,,none,,,OTH,MN-SEN-C2,MN
+Marisa Simonetti,,state_party_name_exact,S6MN00481,"SIMONETTI, MARISA",OTH,MN-SEN-C2,MN
+Adam Schwarze,,state_party_name_exact,S6MN00457,"SCHWARZE, ADAM",R,MN-SEN-C2,MN
+Alycia Gruenhagen,,state_party_name_exact,S6MN00507,"GRUENHAGEN, ALYCIA",R,MN-SEN-C2,MN
+Christopher Brooks,,none,,,R,MN-SEN-C2,MN
+David Hann,,none,,,R,MN-SEN-C2,MN
+Mark York,,state_party_name_exact,S6MN00549,"YORK, MARK",R,MN-SEN-C2,MN
+Michele Tafoya,,state_party_name_exact,S6MN00556,"TAFOYA, MICHELE",R,MN-SEN-C2,MN
+Mike Ruoho,,state_party_name_exact,S4MN00486,"RUOHO, MIKE",R,MN-SEN-C2,MN
+Raymond Petersen,,none,,,R,MN-SEN-C2,MN
+Royce White,,state_party_name_exact,S4MN00502,"WHITE, ROYCE",R,MN-SEN-C2,MN
+Tom Weiler,,state_party_name_exact,S6MN00515,"WEILER, TOM",R,MN-SEN-C2,MN
+Albert Littell,,none,,,D,MS-SEN-C2,MS
+Priscilla W. Till,,none,,,D,MS-SEN-C2,MS
+Scott Colom,,state_party_name_exact,S6MS00133,"COLOM, SCOTT",D,MS-SEN-C2,MS
+Ty Pinkins,party_mismatch_fallback,state_name_fallback,S4MS00187,"PINKINS, TY",OTH,MS-SEN-C2,MS
+Cindy Hyde-Smith,,state_party_name_exact,S8MS00261,"HYDE-SMITH, CINDY",R,MS-SEN-C2,MS
+Sarah Adlakha,,none,,,R,MS-SEN-C2,MS
+Alani Bankhead,,none,,,D,MT-SEN-C2,MT
+Christopher Kehoe,,state_party_name_exact,S6MT00303,"KEHOE, CHRISTOPHER",D,MT-SEN-C2,MT
+Michael Black Wolf,,none,,,D,MT-SEN-C2,MT
+Michael Hummert,,state_party_name_exact,S4MT00217,"HUMMERT, MICHAEL",D,MT-SEN-C2,MT
+Reilly Neill,,state_party_name_exact,S6MT00238,"NEILL, REILLY",D,MT-SEN-C2,MT
+Kyle Austin,,state_party_name_exact,S6MT00261,"AUSTIN, KYLE",L,MT-SEN-C2,MT
+Tom Jandron,,none,,,L,MT-SEN-C2,MT
+Seth Bodnar,party_mismatch_fallback,state_name_fallback,S6MT00287,"BODNAR, SETH",OTH,MT-SEN-C2,MT
+Charles A. Walking Child,,none,,,R,MT-SEN-C2,MT
+Kurt Alme,,state_party_name_exact,S6MT00295,"ALME, KURT",R,MT-SEN-C2,MT
+Lee Calhoun,,none,,,R,MT-SEN-C2,MT
+Daryl Farrow,,state_party_name_exact,S6NC00530,"FARROW, DARYL",D,NC-SEN-C2,NC
+Justin Dues,,state_party_name_exact,S6NC00456,"DUES, JUSTIN",D,NC-SEN-C2,NC
+Marcus Williams,,none,,,D,NC-SEN-C2,NC
+Orrick Quick,,none,,,D,NC-SEN-C2,NC
+Robert Colon,,state_party_name_exact,S2NC00745,"COLON, ROBERT",D,NC-SEN-C2,NC
+Roy Cooper,,state_party_name_exact,S6NC00407,"COOPER, ROY",D,NC-SEN-C2,NC
+Brian McGinnis,,state_party_name_exact,S6NC00464,"MCGINNIS, BRIAN",G,NC-SEN-C2,NC
+Shannon Bray,,state_party_name_exact,S0NC00335,"BRAY, SHANNON",L,NC-SEN-C2,NC
+Shaunesi Deberry,,none,,,OTH,NC-SEN-C2,NC
+Don Brown,,state_party_name_exact,S6NC00373,"BROWN, DON",R,NC-SEN-C2,NC
+Elizabeth Anne Temple,,none,,,R,NC-SEN-C2,NC
+Michael Whatley,,state_party_name_exact,S6NC00415,"WHATLEY, MICHAEL",R,NC-SEN-C2,NC
+Michele Morrow,,state_party_name_exact,S6NC00522,"MORROW, MICHELE",R,NC-SEN-C2,NC
+Richard Dansie,,state_party_name_exact,S6NC00472,"DANSIE, RICHARD",R,NC-SEN-C2,NC
+Thomas Johnson,,none,,,R,NC-SEN-C2,NC
+Cindy Burbank,party_mismatch_fallback,state_name_fallback,S6NE00145,"BURBANK, CINDY",D,NE-SEN-C2,NE
+William Forbes,,none,,,D,NE-SEN-C2,NE
+Earl Starkey,,none,,,OTH,NE-SEN-C2,NE
+Mike Marvin,,state_party_name_exact,S6NE00152,"MARVIN, MIKE",OTH,NE-SEN-C2,NE
+Dan Osborn,party_mismatch_fallback,state_name_fallback,S4NE00207,"OSBORN, DAN",OTH,NE-SEN-C2,NE
+Debb Axtell Schultz,,none,,,R,NE-SEN-C2,NE
+Eric Mortimore,,none,,,R,NE-SEN-C2,NE
+Mac Stevens,,none,,,R,NE-SEN-C2,NE
+Pete Ricketts,,state_party_name_exact,S6NE00129,"RICKETTS, PETE",R,NE-SEN-C2,NE
+Todd Knobel,,none,,,R,NE-SEN-C2,NE
+Chris Pappas,,state_party_name_exact,S6NH00141,"PAPPAS, CHRIS",D,NH-SEN-C2,NH
+Karishma Manzur,,state_party_name_exact,S6NH00182,"MANZUR, KARISHMA",D,NH-SEN-C2,NH
+Matt Giovonizzi,,none,,,OTH,NH-SEN-C2,NH
+Charlie Hough,,none,,,R,NH-SEN-C2,NH
+John Sununu,,none,,,R,NH-SEN-C2,NH
+Scott Brown,,none,,,R,NH-SEN-C2,NH
+Tejasinha Sivalingam,,state_party_name_exact,S6NH00133,"SIVALINGAM, TEJASINHA",R,NH-SEN-C2,NH
+Cory Booker,,none,,,D,NJ-SEN-C2,NJ
+Michael Misseri,,state_party_name_exact,S6NJ00370,"MISSERI, MICHAEL",OTH,NJ-SEN-C2,NJ
+Alex Zdan,,state_party_name_exact,S6NJ00412,"ZDAN, ALEX",R,NJ-SEN-C2,NJ
+Justin Murphy,,none,,,R,NJ-SEN-C2,NJ
+Richard Tabor,,none,,,R,NJ-SEN-C2,NJ
+Robert Lebovics,,state_party_name_exact,S6NJ00438,"LEBOVICS, ROBERT",R,NJ-SEN-C2,NJ
+Ben Ray Luján,,none,,,D,NM-SEN-C2,NM
+Matt Dodson,,state_party_name_exact,S6NM01145,"DODSON, MATT",D,NM-SEN-C2,NM
+Toby Smith,,none,,,OTH,NM-SEN-C2,NM
+Larry E. Marker,,none,,,R,NM-SEN-C2,NM
+Ron Kincaid,,none,,,D,OH-SEN-C3-SPL,OH
+Sherrod Brown,,state_party_name_exact,S6OH00379,"BROWN, SHERROD",D,OH-SEN-C3-SPL,OH
+Bill Redpath,,none,,,L,OH-SEN-C3-SPL,OH
+Gregory Levy,,none,,,OTH,OH-SEN-C3-SPL,OH
+Stephen Faris,,none,,,OTH,OH-SEN-C3-SPL,OH
+Jon Husted,,state_party_name_exact,S6OH00304,"HUSTED, JON",R,OH-SEN-C3-SPL,OH
+Ervin Yen,,none,,,D,OK-SEN-C2,OK
+Jim Priest,,state_party_name_exact,S6OK04197,"PRIEST, JIM",D,OK-SEN-C2,OK
+N'Kiyla Thomas,,none,,,D,OK-SEN-C2,OK
+R.O. Joe Cassity,,none,,,D,OK-SEN-C2,OK
+Rebekah LaVann,,none,,,D,OK-SEN-C2,OK
+Troy W. Green,,none,,,D,OK-SEN-C2,OK
+Sevier White,,none,,,L,OK-SEN-C2,OK
+Curtis Stinnett,,none,,,OTH,OK-SEN-C2,OK
+Ron Meinhardt,party_mismatch_fallback,state_name_fallback,S6OK04205,"MEINHARDT, RON",OTH,OK-SEN-C2,OK
+Brian Ragain,,none,,,R,OK-SEN-C2,OK
+Gary England,,none,,,R,OK-SEN-C2,OK
+Kevin Hern,,state_party_name_exact,S6OK04247,"HERN, KEVIN",R,OK-SEN-C2,OK
+Nick Hankins,,none,,,R,OK-SEN-C2,OK
+Sean Buckner,,none,,,R,OK-SEN-C2,OK
+Tammy Swearengin,,state_party_name_exact,S6OK04148,"SWEARENGIN, TAMMY",R,OK-SEN-C2,OK
+Wayne Washington,,none,,,R,OK-SEN-C2,OK
+Jeff Merkley,,none,,,D,OR-SEN-C2,OR
+Paul Damian Wells,,none,,,D,OR-SEN-C2,OR
+Brent Barker,,none,,,R,OR-SEN-C2,OR
+David Brock Smith,,state_party_name_exact,S6OR05218,"SMITH, DAVID BROCK",R,OR-SEN-C2,OR
+David Burch,,none,,,R,OR-SEN-C2,OR
+Deborah Brown,,none,,,R,OR-SEN-C2,OR
+Jo Rae Perkins,,state_party_name_exact,S4OR00156,"PERKINS, JO RAE",R,OR-SEN-C2,OR
+Russell McAlmond,,state_party_name_exact,S6OR05200,"MCALMOND, RUSSELL",R,OR-SEN-C2,OR
+Timothy Skelton,,none,,,R,OR-SEN-C2,OR
+Connor Burbridge,,state_party_name_exact,S6RI00270,"BURBRIDGE, CONNOR",D,RI-SEN-C2,RI
+Jack Reed,,none,,,D,RI-SEN-C2,RI
+Jon Lindley,party_mismatch_fallback,state_name_fallback,S6RI00254,"LINDLEY, JON",OTH,RI-SEN-C2,RI
+Allen Waters,,state_party_name_exact,S6RI00262,"WATERS, ALLEN",R,RI-SEN-C2,RI
+Raymond McKay,,none,,,R,RI-SEN-C2,RI
+Annie Andrews,,state_party_name_exact,S6SC04239,"ANDREWS, ANNIE",D,SC-SEN-C2,SC
+Brandon Brown,,state_party_name_exact,S6SC04270,"BROWN, BRANDON",D,SC-SEN-C2,SC
+Catherine Fleming Bruce,,none,,,D,SC-SEN-C2,SC
+Christopher Giracello,,state_party_name_exact,S6SC04254,"GIRACELLO, CHRISTOPHER",D,SC-SEN-C2,SC
+Kyle Freeman,,none,,,D,SC-SEN-C2,SC
+Jason Brenkus,,none,,,L,SC-SEN-C2,SC
+Cindy Glaser,,none,,,OTH,SC-SEN-C2,SC
+Don Louis,,none,,,OTH,SC-SEN-C2,SC
+Edward Strunge,,none,,,OTH,SC-SEN-C2,SC
+Jack Ellison,,state_party_name_exact,S6SC04221,"ELLISON, JACK",OTH,SC-SEN-C2,SC
+Kasie Whitener,,none,,,OTH,SC-SEN-C2,SC
+Paul Sedletsky,party_mismatch_fallback,state_name_fallback,S6SC04312,"SEDLETSKY, PAUL",OTH,SC-SEN-C2,SC
+Reece Wright-McDonald,party_mismatch_fallback,state_name_fallback,S6SC04205,"WRIGHT-MCDONALD, REECE",OTH,SC-SEN-C2,SC
+Calvin Cowen,,none,,,R,SC-SEN-C2,SC
+Darius Mitchell,,none,,,R,SC-SEN-C2,SC
+Lindsey Graham,,none,,,R,SC-SEN-C2,SC
+Mark Lynch,,state_party_name_exact,S6SC04213,"LYNCH, MARK",R,SC-SEN-C2,SC
+Patrick Herrmann,,none,,,R,SC-SEN-C2,SC
+Thomas Dismukes,,none,,,R,SC-SEN-C2,SC
+Julian Beaudion,,none,,,D,SD-SEN-C2,SD
+Brian Bengs,party_mismatch_fallback,state_name_fallback,S6SD01117,"BENGS, BRIAN",OTH,SD-SEN-C2,SD
+Justin McNeal,,none,,,R,SD-SEN-C2,SD
+Mike Rounds,,state_party_name_exact,S4SD00049,"ROUNDS, MIKE",R,SD-SEN-C2,SD
+Civil Miller-Watkins,,none,,,D,TN-SEN-C2,TN
+Diana Onyejiaka,,none,,,D,TN-SEN-C2,TN
+Maria Brewer,,none,,,D,TN-SEN-C2,TN
+Marquita Bradshaw,,none,,,D,TN-SEN-C2,TN
+Andrew Gerena,,none,,,OTH,TN-SEN-C2,TN
+Andrew Mixon,,none,,,OTH,TN-SEN-C2,TN
+Catherine Whitson,,none,,,OTH,TN-SEN-C2,TN
+David Sutman Jr.,,none,,,OTH,TN-SEN-C2,TN
+James Macon III,,none,,,OTH,TN-SEN-C2,TN
+Jeremy Hearn,,none,,,OTH,TN-SEN-C2,TN
+Robert Jones,,none,,,OTH,TN-SEN-C2,TN
+Tharon Chandler,,none,,,OTH,TN-SEN-C2,TN
+Yoshi Matthews,,none,,,OTH,TN-SEN-C2,TN
+Bill Hagerty,,state_party_name_exact,S0TN00169,"HAGERTY, BILL",R,TN-SEN-C2,TN
+Ahmad Hassan,,state_party_name_exact,S4TX00821,"HASSAN, AHMAD",D,TX-SEN-C2,TX
+James Talarico,,state_party_name_exact,S6TX00479,"TALARICO, JAMES",D,TX-SEN-C2,TX
+Jasmine Crockett,,state_party_name_exact,S6TX00552,"CROCKETT, JASMINE",D,TX-SEN-C2,TX
+Camencia Ford,,state_party_name_exact,S6TX00404,"FORD, CAMENCIA",OTH,TX-SEN-C2,TX
+Hans Truelson,,state_party_name_exact,S6TX00487,"TRUELSON, HANS",OTH,TX-SEN-C2,TX
+Jade Simmons,multiple_fallback_matches,state_name_fallback_latest,S6TX00495,"SIMMONS, JADE",OTH,TX-SEN-C2,TX
+Joshua Cain,party_mismatch_fallback,state_name_fallback,S6TX00420,"CAIN, JOSHUA",OTH,TX-SEN-C2,TX
+Anna Bender,,state_party_name_exact,S6TX00560,"BENDER, ANNA",R,TX-SEN-C2,TX
+Gulrez Khan,,state_party_name_exact,S6TX00362,"KHAN, GULREZ",R,TX-SEN-C2,TX
+John Adefope,,state_party_name_exact,S6TX00578,"ADEFOPE, JOHN",R,TX-SEN-C2,TX
+John Cornyn,,none,,,R,TX-SEN-C2,TX
+Ken Paxton,,none,,,R,TX-SEN-C2,TX
+Sara Canady,,none,,,R,TX-SEN-C2,TX
+Virgil Bierschwale,,state_party_name_exact,S0TX00365,"BIERSCHWALE, VIRGIL",R,TX-SEN-C2,TX
+Wesley Hunt,,state_party_name_exact,S6TX00511,"HUNT, WESLEY",R,TX-SEN-C2,TX
+Gregory Eichelberger,,state_party_name_exact,S6VA00192,"EICHELBERGER, GREGORY",D,VA-SEN-C2,VA
+Jason Reynolds,,none,,,D,VA-SEN-C2,VA
+Lorita Daniels,,none,,,D,VA-SEN-C2,VA
+Mark Warner,,none,,,D,VA-SEN-C2,VA
+Mark Moran,party_mismatch_fallback,state_name_fallback,S6VA00218,"MORAN, MARK",OTH,VA-SEN-C2,VA
+Al Mina,,none,,,R,VA-SEN-C2,VA
+Alex De Paula,,state_party_name_exact,S6VA00226,"DE PAULA, ALEX",R,VA-SEN-C2,VA
+Bert Mizusawa,,none,,,R,VA-SEN-C2,VA
+Chuck Smith,,none,,,R,VA-SEN-C2,VA
+David Williams,,none,,,R,VA-SEN-C2,VA
+Kim Farington,,state_party_name_exact,S6VA00143,"FARINGTON, KIM",R,VA-SEN-C2,VA
+Jeffrey Kessler,,none,,,D,WV-SEN-C2,WV
+Rachel Fetty Anderson,,none,,,D,WV-SEN-C2,WV
+Rio Phillips,,state_party_name_exact,S6WV00170,"PHILLIPS, RIO",D,WV-SEN-C2,WV
+Thornton Cooper,,none,,,D,WV-SEN-C2,WV
+Zachary Shrewsbury,,none,,,D,WV-SEN-C2,WV
+Alexander Gaaserud,,state_party_name_exact,S6WV00154,"GAASERUD, ALEXANDER",R,WV-SEN-C2,WV
+Bryan McKinney,,state_party_name_exact,S4WV00365,"MCKINNEY, BRYAN",R,WV-SEN-C2,WV
+David Purkey,,none,,,R,WV-SEN-C2,WV
+Janet McNulty,,state_party_name_exact,S4WV00407,"MCNULTY, JANET",R,WV-SEN-C2,WV
+Shelley Moore Capito,,state_party_name_exact,S4WV00159,"CAPITO, SHELLEY MOORE",R,WV-SEN-C2,WV
+Tom Willis,,none,,,R,WV-SEN-C2,WV
+James Byrd,,none,,,D,WY-SEN-C2,WY
+Harriet Hageman,,state_party_name_exact,S6WY00209,"HAGEMAN, HARRIET",R,WY-SEN-C2,WY
+Jimmy Skovgard,,none,,,R,WY-SEN-C2,WY

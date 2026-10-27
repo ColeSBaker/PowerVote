@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-04-13T03:34:31.009502+00:00",
+  "counts": {
+    "candidate_winner_contests": 8,
+    "party_winner_contests": 61,
+    "candidate_nominee_contests": 49,
+    "general_contests": 69
+  },
+  "byRound": {
+    "general": 73,
+    "primary": 270,
+    "runoff": 0
+  },
+  "byMarketType": {
+    "candidate_nominee": 270,
+    "candidate_winner": 10,
+    "party_winner": 63
+  },
+  "requiredGeneralSampleTickers": [
+    "KXAKSENATE-26NOV03-DSUL",
+    "SENATEAK-26-R"
+  ],
+  "missingRequiredGeneralSampleTickers": []
+}

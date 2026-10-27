@@ -1,0 +1,29 @@
+{
+  "ticker_overrides": {},
+  "ticker_prefix_overrides": {
+    "KXSENATEFLR-26-": {
+      "seat_id": "FL-SEN-C3-SPL",
+      "round": "primary",
+      "party": "R",
+      "market_type": "candidate_nominee"
+    },
+    "KXSENATEFLD-26-": {
+      "seat_id": "FL-SEN-C3-SPL",
+      "round": "primary",
+      "party": "D",
+      "market_type": "candidate_nominee"
+    },
+    "KXSENATEOHSR-26-": {
+      "seat_id": "OH-SEN-C3-SPL",
+      "round": "primary",
+      "party": "R",
+      "market_type": "candidate_nominee"
+    },
+    "KXSENATEOHSD-26-": {
+      "seat_id": "OH-SEN-C3-SPL",
+      "round": "primary",
+      "party": "D",
+      "market_type": "candidate_nominee"
+    }
+  }
+}

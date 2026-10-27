@@ -1,0 +1,30 @@
+{
+  "CA": {
+    "us_house":              { "type": "top_two",  "advance_count": 2 },
+    "us_senate":             { "type": "top_two",  "advance_count": 2 },
+    "us_governor":           { "type": "top_two",  "advance_count": 2 },
+    "us_lieutenant_governor":{ "type": "top_two",  "advance_count": 2 },
+    "us_attorney_general":   { "type": "top_two",  "advance_count": 2 }
+  },
+  "WA": {
+    "us_house":              { "type": "top_two",  "advance_count": 2 },
+    "us_senate":             { "type": "top_two",  "advance_count": 2 },
+    "us_governor":           { "type": "top_two",  "advance_count": 2 },
+    "us_lieutenant_governor":{ "type": "top_two",  "advance_count": 2 },
+    "us_attorney_general":   { "type": "top_two",  "advance_count": 2 }
+  },
+  "AK": {
+    "us_house":              { "type": "top_four", "advance_count": 4 },
+    "us_senate":             { "type": "top_four", "advance_count": 4 },
+    "us_governor":           { "type": "top_four", "advance_count": 4 },
+    "us_lieutenant_governor":{ "type": "top_four", "advance_count": 4 },
+    "us_attorney_general":   { "type": "top_four", "advance_count": 4 }
+  },
+  "LA": {
+    "us_house":              { "type": "jungle",   "advance_count": 2 },
+    "us_senate":             { "type": "jungle",   "advance_count": 2 },
+    "us_governor":           { "type": "jungle",   "advance_count": 2 },
+    "us_lieutenant_governor":{ "type": "jungle",   "advance_count": 2 },
+    "us_attorney_general":   { "type": "jungle",   "advance_count": 2 }
+  }
+}

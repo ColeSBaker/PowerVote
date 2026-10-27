@@ -1,0 +1,6 @@
+cycle_year,event_ticker,market_ticker,party,round,seat_id,series_ticker,source_file,state_code,type
+,KXGOVVTNOMR-262,KXGOVVTNOMR-262-JBEN,R,primary,VT-GOV,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-JBEN.json,VT,unresolved_mapping
+,KXGOVVTNOMR-262,KXGOVVTNOMR-262-JROD,R,primary,VT-GOV,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-JROD.json,VT,unresolved_mapping
+,KXGOVVTNOMR-262,KXGOVVTNOMR-262-PDAM,R,primary,VT-GOV,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-PDAM.json,VT,unresolved_mapping
+,KXGOVVTNOMR-262,KXGOVVTNOMR-262-PSCO,R,primary,VT-GOV,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-PSCO.json,VT,unresolved_mapping
+,KXGOVVTNOMR-262,KXGOVVTNOMR-262-RING,R,primary,VT-GOV,KXGOVVTNOMR,../kalshi/data/markets/market_KXGOVVTNOMR_KXGOVVTNOMR-262-RING.json,VT,unresolved_mapping

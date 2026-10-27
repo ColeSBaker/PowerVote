@@ -1,0 +1,2 @@
+"""Pipeline automation package."""
+

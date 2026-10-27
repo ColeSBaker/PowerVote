@@ -1,0 +1,5 @@
+office,row_type,total_rows,matched_rows,unmatched_rows,match_rate,cause_no_market,cause_no_candidate_in_market,cause_sum_issue
+house,general,435,230,205,0.5287,205,0,0
+house,primary,810,112,698,0.1383,621,2,75
+senate,general,35,34,1,0.9714,0,0,1
+senate,primary,73,38,35,0.5205,24,1,10
