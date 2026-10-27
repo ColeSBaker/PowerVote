@@ -12,6 +12,7 @@ if str(SCRIPTS_DIR) not in sys.path:
 
 from ballotpedia_rollup.kalshi import build_kalshi_contest_indexes, load_kalshi_us_rep_contests
 import build_candidate_rollup
+from tests.raw_data import requires_raw_data
 
 SEATS_JSON = REPO_ROOT / "apps" / "web" / "data" / "us-house-seats.json"
 PRIMARY_CSV = REPO_ROOT / "apps" / "web" / "data" / "ballotpedia-primary-election-rollup.csv"
@@ -179,6 +180,7 @@ class CandidateRollupKalshiIntegrityTests(unittest.TestCase):
                 )
             self.assertEqual(combined, split, msg=f"Split/combined mismatch for {row.get('BallotpediaName')}")
 
+    @requires_raw_data
     def test_candidate_named_markets_align_to_candidate_identity(self):
         rows_with_markets = 0
         for row in self.rows:

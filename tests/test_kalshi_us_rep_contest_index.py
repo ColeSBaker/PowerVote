@@ -15,6 +15,7 @@ from ballotpedia_rollup.kalshi import (
     build_kalshi_us_rep_contest_rows,
     validate_kalshi_us_rep_contests,
 )
+from tests.raw_data import requires_raw_data
 
 
 def _workspace_temp_dir() -> Path:
@@ -34,6 +35,7 @@ class KalshiUsRepContestIndexTests(unittest.TestCase):
             for ticker in contest.get("market_tickers") or []:
                 cls.market_to_contest[ticker] = contest
 
+    @requires_raw_data
     def test_contest_rows_have_unique_market_tickers(self):
         self.assertGreater(len(self.contests), 0)
         seen = set()
@@ -71,6 +73,7 @@ class KalshiUsRepContestIndexTests(unittest.TestCase):
             for market in contest.get("markets") or []:
                 self.assertTrue(str(market.get("seriesTicker") or "").strip())
 
+    @requires_raw_data
     def test_regression_primary_party_anchors(self):
         anchors = {
             "KXAZ01R-26-TGRA": "R",

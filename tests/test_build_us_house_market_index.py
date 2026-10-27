@@ -173,6 +173,7 @@ class BuildUsHouseMarketIndexTests(unittest.TestCase):
             {'US-REP:TX-24:2026:D', 'US-REP:TX-35:2026:D', 'US-REP:TX-35:2026:R'},
         )
 
+    @requires_raw_data
     def test_generated_house_market_index_preserves_multiple_primary_contests_per_state_series(self):
         root = _workspace_temp_dir()
         try:
@@ -254,6 +255,7 @@ class BuildUsHouseMarketIndexTests(unittest.TestCase):
         finally:
             shutil.rmtree(root, ignore_errors=True)
 
+    @requires_raw_data
     def test_index_rows_include_explicit_market_role_lane(self):
         root = _workspace_temp_dir()
         try:
